@@ -1,0 +1,9 @@
+ye59xx\bsp_uniqueid.o: ..\Bsp\bsp_uniqueID.c
+ye59xx\bsp_uniqueid.o: ..\Bsp\bsp_uniqueid.h
+ye59xx\bsp_uniqueid.o: ../Inc/self_def.h
+ye59xx\bsp_uniqueid.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ye59xx\bsp_uniqueid.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+ye59xx\bsp_uniqueid.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+ye59xx\bsp_uniqueid.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+ye59xx\bsp_uniqueid.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+ye59xx\bsp_uniqueid.o: ..\Middlewares\Utilities\crc.h
