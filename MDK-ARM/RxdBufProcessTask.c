@@ -182,7 +182,7 @@ uint8_t command_setip()  //…Ë÷√IPµÿ÷∑  //…Ë÷√DHCP
 	{
 		for(uint8_t i=0;i<CmdBufLength;i++)
 		CmdBuf[i]=RXDCmdBuf[i];
-	  CmdBufLength=CmdBufLength;
+		CmdBufLength=CmdBufLength;
 	 }
 #ifdef ProgramESP32ByMyself
 	 CmdBuf[1]=0xe4; //

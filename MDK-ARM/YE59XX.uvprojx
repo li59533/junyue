@@ -934,7 +934,7 @@
             <File>
               <FileName>changelog.txt</FileName>
               <FileType>5</FileType>
-              <FilePath>E:\垃圾堆\junyue_git\Middlewares\version\changelog.txt</FilePath>
+              <FilePath>..\Middlewares\version\changelog.txt</FilePath>
             </File>
           </Files>
         </Group>

@@ -192,12 +192,12 @@ void EmuData(void)
 	
 	for(uint32_t j=0;j<Acceleration_ADCHS;j++)
 	{
-		float inter_factor = config.floatscale[j] * config.floatadc[j];
+		float inter_factor = config.floatscale[j] * config.floatadc[j] * 0.045776f  ;//3000 / 65535;
 		switch(j)
 		{
 			case 0: 
 				for(uint32_t i=0;i<config.channel_freq[j];i++)
-				emu_inter_data[i]=inter_factor*piz_emu_data[SAMPLEblock][i];
+				emu_inter_data[i]=inter_factor * piz_emu_data[SAMPLEblock][i];
 			break;
 			default:
 				for(uint32_t i=0;i<config.channel_freq[j];i++)

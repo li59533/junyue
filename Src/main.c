@@ -54,7 +54,7 @@ struct  CONFIG  config={
 	.floatadjust = {0.0f,0.0f,0.0f,0.0f,1250.f,0,0,0,8192,8192,8192,8192},//uint32_t adjust[12]; // 
 	//	{0,1,2,~0,~0,~0,~0,~0,3,4,5,6},//uint16_t interface_addr[12]; // modbus  
 	.alarmgate = {100,100,100,100,100,100},//	float alarmgate[12]; // float 
-	.floatadc =  {1.0f,1.0f,1.0f,1.0f,1.0f,1.0f},
+	.floatadc =  {1.01f,1.0f,1.0f,1.0f,1.0f,1.0f},
 	.means = 0,//uint8_t means	;// 
 	.means_times =  1,//uint16_t means_times; // 
 	.freq = 20000,//uint16_t freq;  //  Hz
@@ -102,14 +102,14 @@ struct  CONFIG  config={
 	.Lowpower_Mode = 1,  //Lowpower_Mode 1
 	.scan_channel = 6,  //scan_channel
 	.Waitforsleeptime = 12, //Waitforsleeptime
-	.WaitforIEPEtime = 1,//WaitforIEPEtime
+	.WaitforIEPEtime = 2,//WaitforIEPEtime
 	.filterMean = { 0.25f,0.25f,0.25f,0.25f,0.25f,0.25f},
 	.WaitToPeriodTransmissonCounter = 0,//WaitToPeriodTransmissonCounter
 	.Alarm_value_junyue = 	{10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,
 		10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,
 	 10000.0f,10000.0f},
 	.battery = 100 ,
-	.workcycleseconds_inAlarmStatue = 60,
+	.workcycleseconds_inAlarmStatue = 20,
 	.tempCompensation = -5 ,
 	//.Alarm_source_number = ,
 	//.Alarm_source = 
@@ -441,28 +441,46 @@ void StartDefaultTask(void *argument)
 		LMT01_GET_VALUE();
 		osDelay(500);
 		bsp_LedToggle(1);
-		DEBUG("Test RTT log\r\n");
-		if(Parameter.wakeupsourec==VLLS)
-		osDelay(1);
-		if((config.Lowpower_Mode==lowpowermode)&&(Parameter.wakeupsourec==VLLS))//这个是要求唤醒来自standyby 模式
-		//if(config.Lowpower_Mode==lowpowermode)
+
+		if(config.Lowpower_Mode==lowpowermode)
 		{
-			sleepcounter++;
-			//			if(sleepcounter>(uint16_t)config.Waitforsleeptime*2)   //
-			if(sleepcounter>(uint16_t)config.Waitforsleeptime *2)   // delay 500ms ,so count  = 1 is time pass 500s ,now  need 60s ,the count is 120
+			if(Parameter.wakeupsourec==VLLS)
 			{
-				StopSample();
-				HAL_NVIC_DisableIRQ(EXTI9_5_IRQn);    //外部中断使能
-				HAL_NVIC_DisableIRQ(TIM4_IRQn);            //TPM中断使能	//
-				//HAL_NVIC_DisableIRQ(USART1_IRQn);  //关闭串口中断
-				sleepcounter=0;
-				//vTaskSuspend(ESP32_init_task_Handle); 
-				osThreadSuspend(Esp32ProcessHandle);   //挂起所有线程
-				osThreadSuspend(DateProcessHandle);
-				osThreadSuspend(RxdBufProcessHandle);
-				osThreadSuspend(DateEmuHandle);
-				osThreadSuspend(defaultTaskHandle);
+				if(sleepcounter>(uint16_t)config.Waitforsleeptime *2)   // delay 500ms ,so count  = 1 is time pass 500s ,now  need 60s ,the count is 120
+				{
+					StopSample();
+					HAL_NVIC_DisableIRQ(EXTI9_5_IRQn);    //外部中断使能
+					HAL_NVIC_DisableIRQ(TIM4_IRQn);            //TPM中断使能	//
+					//HAL_NVIC_DisableIRQ(USART1_IRQn);  //关闭串口中断
+					sleepcounter=0;
+					//vTaskSuspend(ESP32_init_task_Handle); 
+					osThreadSuspend(Esp32ProcessHandle);   //挂起所有线程
+					osThreadSuspend(DateProcessHandle);
+					osThreadSuspend(RxdBufProcessHandle);
+					osThreadSuspend(DateEmuHandle);
+					osThreadSuspend(defaultTaskHandle);
+				}			
 			}
+			else
+			{
+				if(sleepcounter > 120)   // delay 500ms ,so count  = 1 is time pass 500s ,now  need 60s ,the count is 120
+				{
+					StopSample();
+					HAL_NVIC_DisableIRQ(EXTI9_5_IRQn);    //外部中断使能
+					HAL_NVIC_DisableIRQ(TIM4_IRQn);            //TPM中断使能	//
+					//HAL_NVIC_DisableIRQ(USART1_IRQn);  //关闭串口中断
+					sleepcounter=0;
+					//vTaskSuspend(ESP32_init_task_Handle); 
+					osThreadSuspend(Esp32ProcessHandle);   //挂起所有线程
+					osThreadSuspend(DateProcessHandle);
+					osThreadSuspend(RxdBufProcessHandle);
+					osThreadSuspend(DateEmuHandle);
+					osThreadSuspend(defaultTaskHandle);
+				}	
+			}
+			sleepcounter++;
+			
+
 
 		}
 	}
