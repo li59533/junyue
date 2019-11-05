@@ -3,7 +3,7 @@
 <title>Static Call Graph - [YE59XX\V1.0.6]</title></head>
 <body><HR>
 <H1>Static Call Graph for image YE59XX\V1.0.6</H1><HR>
-<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 5060750: Last Updated: Tue Nov 05 13:37:45 2019
+<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 5060750: Last Updated: Tue Nov 05 20:16:26 2019
 <BR><P>
 <H3>Maximum Stack Usage =        632 bytes + Unknown(Cycles, Untraceable Function Pointers)</H3><H3>
 Call chain for Maximum Stack Depth:</H3>
@@ -498,9 +498,9 @@ Global Symbols
 </UL>
 
 <P><STRONG><a name="[de]"></a>strlen</STRONG> (Thumb, 14 bytes, Stack size 0 bytes, strlen.o(.text))
-<BR><BR>[Called By]<UL><LI><a href="#[da]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetTCPSERVER_1
-<LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetIP_1
-<LI><a href="#[d9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetAP_1
+<BR><BR>[Called By]<UL><LI><a href="#[db]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetTCPSERVER_1
+<LI><a href="#[d8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetIP_1
+<LI><a href="#[da]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetAP_1
 <LI><a href="#[af]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_replytcpserve
 <LI><a href="#[a4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_replyip
 <LI><a href="#[b1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_replyap
@@ -881,8 +881,8 @@ Global Symbols
 </UL>
 <BR>[Address Reference Count : 1]<UL><LI> startup_stm32l4r9xx.o(RESET)
 </UL>
-<P><STRONG><a name="[78]"></a>DataEmuFunction</STRONG> (Thumb, 330 bytes, Stack size 8 bytes, dataemutask.o(i.DataEmuFunction))
-<BR><BR>[Stack]<UL><LI>Max Depth = 592<LI>Call Chain = DataEmuFunction &rArr; EmuData &rArr; frq_domain_integral &rArr; arm_cfft_f32 &rArr; arm_cfft_radix8by4_f32 &rArr; arm_radix8_butterfly_f32
+<P><STRONG><a name="[78]"></a>DataEmuFunction</STRONG> (Thumb, 334 bytes, Stack size 8 bytes, dataemutask.o(i.DataEmuFunction))
+<BR><BR>[Stack]<UL><LI>Max Depth = 600<LI>Call Chain = DataEmuFunction &rArr; EmuData &rArr; frq_domain_integral &rArr; arm_cfft_f32 &rArr; arm_cfft_radix8by4_f32 &rArr; arm_radix8_butterfly_f32
 </UL>
 <BR>[Calls]<UL><LI><a href="#[b4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
 <LI><a href="#[cc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitOverInLowPower
@@ -899,7 +899,7 @@ Global Symbols
 </UL>
 <BR>[Address Reference Count : 1]<UL><LI> main.o(i.main)
 </UL>
-<P><STRONG><a name="[76]"></a>DataProcessFunction</STRONG> (Thumb, 1338 bytes, Stack size 24 bytes, dateprocesstask.o(i.DataProcessFunction))
+<P><STRONG><a name="[76]"></a>DataProcessFunction</STRONG> (Thumb, 1254 bytes, Stack size 24 bytes, dateprocesstask.o(i.DataProcessFunction))
 <BR><BR>[Stack]<UL><LI>Max Depth = 144<LI>Call Chain = DataProcessFunction &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll
 </UL>
 <BR>[Calls]<UL><LI><a href="#[cf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;osSemaphoreRelease
@@ -926,8 +926,8 @@ Global Symbols
 <BR><BR>[Called By]<UL><LI><a href="#[b9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_iap_statue
 </UL>
 
-<P><STRONG><a name="[cb]"></a>EmuData</STRONG> (Thumb, 1274 bytes, Stack size 144 bytes, dataemutask.o(i.EmuData))
-<BR><BR>[Stack]<UL><LI>Max Depth = 584<LI>Call Chain = EmuData &rArr; frq_domain_integral &rArr; arm_cfft_f32 &rArr; arm_cfft_radix8by4_f32 &rArr; arm_radix8_butterfly_f32
+<P><STRONG><a name="[cb]"></a>EmuData</STRONG> (Thumb, 1310 bytes, Stack size 152 bytes, dataemutask.o(i.EmuData))
+<BR><BR>[Stack]<UL><LI>Max Depth = 592<LI>Call Chain = EmuData &rArr; frq_domain_integral &rArr; arm_cfft_f32 &rArr; arm_cfft_radix8by4_f32 &rArr; arm_radix8_butterfly_f32
 </UL>
 <BR>[Calls]<UL><LI><a href="#[d2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;integ_init
 <LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;frq_domain_integral
@@ -951,15 +951,15 @@ Global Symbols
 <LI><a href="#[ce]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;RTC_ReadClock
 </UL>
 
-<P><STRONG><a name="[79]"></a>Esp32ProcessFunction</STRONG> (Thumb, 352 bytes, Stack size 0 bytes, esp32processtask.o(i.Esp32ProcessFunction))
+<P><STRONG><a name="[79]"></a>Esp32ProcessFunction</STRONG> (Thumb, 390 bytes, Stack size 0 bytes, esp32processtask.o(i.Esp32ProcessFunction))
 <BR><BR>[Stack]<UL><LI>Max Depth = 208<LI>Call Chain = Esp32ProcessFunction &rArr; Esp32_SetIP_1 &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll
 </UL>
-<BR>[Calls]<UL><LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
-<LI><a href="#[db]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_applynetset
-<LI><a href="#[da]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetTCPSERVER_1
-<LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetIP_1
-<LI><a href="#[d9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetAP_1
-<LI><a href="#[d8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;test_rtc
+<BR>[Calls]<UL><LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
+<LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_applynetset
+<LI><a href="#[db]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetTCPSERVER_1
+<LI><a href="#[d8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetIP_1
+<LI><a href="#[da]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetAP_1
+<LI><a href="#[d9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;test_rtc
 <LI><a href="#[b1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_replyap
 <LI><a href="#[a1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_reply_sw_version
 <LI><a href="#[b7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_reply_scale
@@ -971,12 +971,13 @@ Global Symbols
 <LI><a href="#[ac]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_reply_SampleParameter
 <LI><a href="#[a2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_id
 <LI><a href="#[a3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_channelkind
+<LI><a href="#[cd]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_Delay
 <LI><a href="#[c4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;osDelay
 <LI><a href="#[bc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;StopSample
 </UL>
 <BR>[Address Reference Count : 1]<UL><LI> main.o(i.main)
 </UL>
-<P><STRONG><a name="[d9]"></a>Esp32_SetAP_1</STRONG> (Thumb, 262 bytes, Stack size 40 bytes, bsp_esp32.o(i.Esp32_SetAP_1))
+<P><STRONG><a name="[da]"></a>Esp32_SetAP_1</STRONG> (Thumb, 262 bytes, Stack size 40 bytes, bsp_esp32.o(i.Esp32_SetAP_1))
 <BR><BR>[Stack]<UL><LI>Max Depth = 192<LI>Call Chain = Esp32_SetAP_1 &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll
 </UL>
 <BR>[Calls]<UL><LI><a href="#[a6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
@@ -985,7 +986,7 @@ Global Symbols
 <BR>[Called By]<UL><LI><a href="#[79]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32ProcessFunction
 </UL>
 
-<P><STRONG><a name="[d7]"></a>Esp32_SetIP_1</STRONG> (Thumb, 348 bytes, Stack size 56 bytes, bsp_esp32.o(i.Esp32_SetIP_1))
+<P><STRONG><a name="[d8]"></a>Esp32_SetIP_1</STRONG> (Thumb, 348 bytes, Stack size 56 bytes, bsp_esp32.o(i.Esp32_SetIP_1))
 <BR><BR>[Stack]<UL><LI>Max Depth = 208<LI>Call Chain = Esp32_SetIP_1 &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll
 </UL>
 <BR>[Calls]<UL><LI><a href="#[a6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
@@ -994,7 +995,7 @@ Global Symbols
 <BR>[Called By]<UL><LI><a href="#[79]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32ProcessFunction
 </UL>
 
-<P><STRONG><a name="[da]"></a>Esp32_SetTCPSERVER_1</STRONG> (Thumb, 256 bytes, Stack size 32 bytes, bsp_esp32.o(i.Esp32_SetTCPSERVER_1))
+<P><STRONG><a name="[db]"></a>Esp32_SetTCPSERVER_1</STRONG> (Thumb, 256 bytes, Stack size 32 bytes, bsp_esp32.o(i.Esp32_SetTCPSERVER_1))
 <BR><BR>[Stack]<UL><LI>Max Depth = 184<LI>Call Chain = Esp32_SetTCPSERVER_1 &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll
 </UL>
 <BR>[Calls]<UL><LI><a href="#[a6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
@@ -1003,7 +1004,7 @@ Global Symbols
 <BR>[Called By]<UL><LI><a href="#[79]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32ProcessFunction
 </UL>
 
-<P><STRONG><a name="[db]"></a>Esp32_applynetset</STRONG> (Thumb, 38 bytes, Stack size 8 bytes, bsp_esp32.o(i.Esp32_applynetset))
+<P><STRONG><a name="[dc]"></a>Esp32_applynetset</STRONG> (Thumb, 38 bytes, Stack size 8 bytes, bsp_esp32.o(i.Esp32_applynetset))
 <BR><BR>[Stack]<UL><LI>Max Depth = 160<LI>Call Chain = Esp32_applynetset &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll
 </UL>
 <BR>[Calls]<UL><LI><a href="#[a6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
@@ -1056,6 +1057,7 @@ Global Symbols
 <BR>[Calls]<UL><LI><a href="#[e0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GetTick
 </UL>
 <BR>[Called By]<UL><LI><a href="#[153]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;bsp_Esp32_Init
+<LI><a href="#[79]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32ProcessFunction
 <LI><a href="#[76]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;DataProcessFunction
 </UL>
 
@@ -1114,7 +1116,7 @@ Global Symbols
 <BR><BR>[Called By]<UL><LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;bsp_LedToggle
 </UL>
 
-<P><STRONG><a name="[dc]"></a>HAL_GPIO_WritePin</STRONG> (Thumb, 10 bytes, Stack size 0 bytes, stm32l4xx_hal_gpio.o(i.HAL_GPIO_WritePin))
+<P><STRONG><a name="[d7]"></a>HAL_GPIO_WritePin</STRONG> (Thumb, 10 bytes, Stack size 0 bytes, stm32l4xx_hal_gpio.o(i.HAL_GPIO_WritePin))
 <BR><BR>[Called By]<UL><LI><a href="#[37]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TIM8_UP_IRQHandler
 <LI><a href="#[2e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SPI1_IRQHandler
 <LI><a href="#[15a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;bsp_InitKX220
@@ -1664,7 +1666,7 @@ Global Symbols
 <BR><BR>[Stack]<UL><LI>Max Depth = 8<LI>Call Chain = LMT01_GET_VALUE
 </UL>
 <BR>[Calls]<UL><LI><a href="#[ee]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_TIM_Base_Start_IT
-<LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
+<LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
 </UL>
 <BR>[Called By]<UL><LI><a href="#[75]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;StartDefaultTask
 </UL>
@@ -1779,7 +1781,7 @@ Global Symbols
 </UL>
 <BR>[Calls]<UL><LI><a href="#[100]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_SPI_IRQHandler
 <LI><a href="#[12e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_SPI_GetState
-<LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
+<LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
 </UL>
 <BR>[Address Reference Count : 1]<UL><LI> startup_stm32l4r9xx.o(RESET)
 </UL>
@@ -1862,7 +1864,7 @@ Global Symbols
 </UL>
 <BR>[Calls]<UL><LI><a href="#[137]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_TIM_Base_Stop_IT
 <LI><a href="#[108]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_TIM_IRQHandler
-<LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
+<LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
 </UL>
 <BR>[Address Reference Count : 1]<UL><LI> startup_stm32l4r9xx.o(RESET)
 </UL>
@@ -1877,7 +1879,7 @@ Global Symbols
 <BR><BR>[Stack]<UL><LI>Max Depth = 20<LI>Call Chain = TIM8_UP_IRQHandler &rArr; HAL_SPI_TransmitReceive_IT
 </UL>
 <BR>[Calls]<UL><LI><a href="#[13a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_SPI_TransmitReceive_IT
-<LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
+<LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
 </UL>
 <BR>[Address Reference Count : 1]<UL><LI> startup_stm32l4r9xx.o(RESET)
 </UL>
@@ -1966,11 +1968,11 @@ Global Symbols
 <LI><a href="#[c8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;osSemaphoreAcquire
 <LI><a href="#[bd]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_NVIC_DisableIRQ
 </UL>
-<BR>[Called By]<UL><LI><a href="#[db]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_applynetset
-<LI><a href="#[da]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetTCPSERVER_1
-<LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetIP_1
-<LI><a href="#[d9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetAP_1
-<LI><a href="#[d8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;test_rtc
+<BR>[Called By]<UL><LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_applynetset
+<LI><a href="#[db]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetTCPSERVER_1
+<LI><a href="#[d8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetIP_1
+<LI><a href="#[da]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_SetAP_1
+<LI><a href="#[d9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;test_rtc
 <LI><a href="#[a5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_stop
 <LI><a href="#[a8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_setrunmode
 <LI><a href="#[a7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_setip
@@ -2126,7 +2128,7 @@ Global Symbols
 <LI><a href="#[148]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;sqrt
 </UL>
 
-<P><STRONG><a name="[153]"></a>bsp_Esp32_Init</STRONG> (Thumb, 284 bytes, Stack size 40 bytes, bsp_esp32.o(i.bsp_Esp32_Init))
+<P><STRONG><a name="[153]"></a>bsp_Esp32_Init</STRONG> (Thumb, 254 bytes, Stack size 40 bytes, bsp_esp32.o(i.bsp_Esp32_Init))
 <BR><BR>[Stack]<UL><LI>Max Depth = 136<LI>Call Chain = bsp_Esp32_Init &rArr; HAL_UART_Init &rArr; HAL_UART_MspInit &rArr; HAL_GPIO_Init
 </UL>
 <BR>[Calls]<UL><LI><a href="#[120]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_UART_Receive_IT
@@ -2136,7 +2138,7 @@ Global Symbols
 <LI><a href="#[156]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_UARTEx_DisableFifoMode
 <LI><a href="#[e9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_NVIC_SetPriority
 <LI><a href="#[ea]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_NVIC_EnableIRQ
-<LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
+<LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
 <LI><a href="#[cd]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_Delay
 <LI><a href="#[105]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_Init
 <LI><a href="#[11e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Error_Handler
@@ -2154,7 +2156,7 @@ Global Symbols
 <LI><a href="#[15a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;bsp_InitKX220
 <LI><a href="#[15b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;bsp_InitAD7682
 <LI><a href="#[153]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;bsp_Esp32_Init
-<LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
+<LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
 <LI><a href="#[105]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_Init
 </UL>
 <BR>[Called By]<UL><LI><a href="#[64]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
@@ -2177,7 +2179,7 @@ Global Symbols
 <P><STRONG><a name="[15a]"></a>bsp_InitKX220</STRONG> (Thumb, 90 bytes, Stack size 32 bytes, bsp_kx220.o(i.bsp_InitKX220))
 <BR><BR>[Stack]<UL><LI>Max Depth = 72<LI>Call Chain = bsp_InitKX220 &rArr; HAL_GPIO_Init
 </UL>
-<BR>[Calls]<UL><LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
+<BR>[Calls]<UL><LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_WritePin
 <LI><a href="#[105]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_GPIO_Init
 </UL>
 <BR>[Called By]<UL><LI><a href="#[157]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;bsp_Init
@@ -2673,7 +2675,7 @@ Global Symbols
 <BR>[Called By]<UL><LI><a href="#[143]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__hardfp_pow
 </UL>
 
-<P><STRONG><a name="[d8]"></a>test_rtc</STRONG> (Thumb, 134 bytes, Stack size 16 bytes, rxdbufprocesstask.o(i.test_rtc))
+<P><STRONG><a name="[d9]"></a>test_rtc</STRONG> (Thumb, 134 bytes, Stack size 16 bytes, rxdbufprocesstask.o(i.test_rtc))
 <BR><BR>[Stack]<UL><LI>Max Depth = 168<LI>Call Chain = test_rtc &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll
 </UL>
 <BR>[Calls]<UL><LI><a href="#[a6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF

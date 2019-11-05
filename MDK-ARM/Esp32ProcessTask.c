@@ -41,11 +41,16 @@ extern void test_rtc(void);
 void Esp32ProcessFunction ( void *pvParameters )
 { 
 	uint32_t JoinAPcount=0;
+	osDelay (3200);
+	EnableEsp32Power();
+	HAL_Delay(100);
+	RunEsp32();
 	while ( 1 )                                                                        
 	{		
 		if(esp32_ready)
 		{
 			esp32_ready=0;
+			
 #ifdef  FirstLinkFactoryLink
 			Esp32_SetIP_1(macUser_Esp32_LocalID,macUser_Esp32_LocalGATAWAY,macUser_Esp32_LocalMASK,1); //…Ë÷√IPµÿ÷∑
 			osDelay (3);	
@@ -94,6 +99,7 @@ void Esp32ProcessFunction ( void *pvParameters )
 				{
 				osDelay (20);			
 				}
+				
 				esp32_ready=0;
 			}
 			

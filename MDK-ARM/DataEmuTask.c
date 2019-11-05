@@ -311,6 +311,15 @@ void EmuData(void)
 			arm_max_f32(emu_inter_data, 16384, &EnvelopMax[j],&maxindex);  //换来换去，头都混了
 			Parameter.Envelop[j]=EnvelopMax[j]*ScaleValue;
 		}	
+		
+		if(Parameter.Arms[j] < 0.25f)
+		{
+			Parameter.Vrms[j] = 0.0f;
+			Parameter.Drms[j] = 0.0f;
+			Parameter.KurtosisIndex[j] = 0.0f;
+		}		
+		
+		
 	}
 
 }
@@ -865,6 +874,7 @@ void DataEmuFunction(void *argument)
 					 {
 						 WaitTransmissionModeCounter=0;
 						 config.battery=config.battery-0.033f;
+						 StopSample();
 						 saveConfig();
 						 while((Parameter.Esp32TransmissionMode==BrainTransmission)&&(WaitTransmissionModeCounter<400)) //确定是透传模式
 						 {

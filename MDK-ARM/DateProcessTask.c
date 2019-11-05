@@ -160,12 +160,13 @@ void DataProcessFunction(void *argument)
 	CurrentAD7682DataCounter=0;
 	datareadyprocess=0;
 	AD_ZERO[0]=32768*4096;   //压电有稳定时间，但基准电压是OK的，所以可以直接取值，省的等他稳定
-	AD_ZERO[1]=ad7682_rec[1]*4096;   //如果是压电，这个很好去确定初值，可是mems跟重力方向有关，有必要重新采集确定初值
-	AD_ZERO[2]=ad7682_rec[3]*4096;  //两个采样率不一样
+	AD_ZERO[1]=ad7682_rec[1]*8192;   //如果是压电，这个很好去确定初值，可是mems跟重力方向有关，有必要重新采集确定初值
+	AD_ZERO[2]=ad7682_rec[3]*8192;  //两个采样率不一样
 	emu_sprase_index();
 	
 	if(Parameter.wakeupsourec==VLLS)
-	{		
+	{	
+		
 		StartSample();//		
 	}
 	
@@ -175,13 +176,13 @@ void DataProcessFunction(void *argument)
 		if(FirstBlood)  //为了能快速收敛，加快滤波稳定
 		{
 			ad7682_date[0]=32768;
-			ad7682_date[1]=AD_ZERO[1]>>12;
+			ad7682_date[1]=AD_ZERO[1]>>13;
 			ad7682_date[2]=32768;
-			ad7682_date[3]=AD_ZERO[2]>>12;
+			ad7682_date[3]=AD_ZERO[2]>>13;
 			ad7682_date[4]=32768;
-			ad7682_date[5]=AD_ZERO[1]>>12;
+			ad7682_date[5]=AD_ZERO[1]>>13;
 			ad7682_date[6]=32768;
-			ad7682_date[7]=AD_ZERO[2]>>12;
+			ad7682_date[7]=AD_ZERO[2]>>13;
 			FirstBlood=0;
 		}
 
@@ -238,8 +239,8 @@ void DataProcessFunction(void *argument)
 						}	
 						break;
 						default :
-							AD_ZERO[ActualSampleCH] = y + (((int64_t)AD_ZERO[ActualSampleCH] * 4095) >> 12);
-							y = y - (int32_t)(AD_ZERO[ActualSampleCH] >> 12);
+							AD_ZERO[ActualSampleCH] = y + (((int64_t)AD_ZERO[ActualSampleCH] * 8191) >> 13);
+							y = y - (int32_t)(AD_ZERO[ActualSampleCH] >> 13);
 						
 							if(config.channel_freq[ActualSampleCH] == 8192)
 							{

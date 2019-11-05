@@ -199,21 +199,15 @@ void bsp_Esp32_Init(void)
   /* USER CODE BEGIN USART1_Init 2 */
 
   /* USER CODE END USART1_Init 2 */
-//	DisableEsp32Power();
-//	RunEsp32();
-//	HAL_Delay(1000);
-//	RunEsp32();
-	
-//	HAL_Delay(150);
+
 	ResetEsp32();
 	HAL_Delay(100);
+
+	HAL_UART_Receive_IT(&huart1, (uint8_t *)&aRxBuffer, 1);
+
+//	EnableEsp32Power();
+//	HAL_Delay(100);
 //	RunEsp32();
-//	HAL_Delay(50);
-		HAL_UART_Receive_IT(&huart1, (uint8_t *)&aRxBuffer, 1);
-//	ResetEsp32();
-	EnableEsp32Power();
-	HAL_Delay(100);
-	RunEsp32();
 }
 
 
