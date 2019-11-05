@@ -7,11 +7,11 @@
 #define      macUser_Esp32_LocalGATAWAY                   "192.168.100.1"           
 #define      macUser_Esp32_LocalMASK                      "255.255.255.0"           
 
-#define      macUser_Esp32_ApSsid                          "yec-test"//"yec-test"                //要连接的热点的名称
+#define      macUser_Esp32_ApSsid                          "Tenda_4F7AC0"//"yec-test"                //要连接的热点的名称
 #define      macUser_Esp32_ApPwd                         ""           //要连接的热点的密钥
 
-#define      macUser_Esp32_TcpServer_IP                   "192.168.100.99"//"192.168.0.112"// //     //要连接的服务器的 IP
-#define      macUser_Esp32_TcpServer_Port                 "13000"  //"8712"//             //要连接的服务器的端口
+#define      macUser_Esp32_TcpServer_IP                   "192.168.0.233"//"192.168.0.112"// //     //要连接的服务器的 IP
+#define      macUser_Esp32_TcpServer_Port                 "8712"  //"8712"//             //要连接的服务器的端口
 
 
 //#define FirstLinkFactoryLink 1
@@ -100,11 +100,22 @@ void Esp32ProcessFunction ( void *pvParameters )
 			JoinAPcount=0;
 			Parameter.Esp32TransmissionMode=NoBrainTransmission;
 			clrFactoryLink();
+			/*
+			// ---- old software com-----
+			command_channelkind();
+			command_id();
+			command_reply_SampleParameter();
+			command_reply_scale();
+			command_reply_alarm_value();			
+			*/
+			// ---------------------------
 			
+			//  ---- new software com----
 			command_channelkind();
 			command_id();
 			command_reply_sw_version();
 			command_reply_channel_condition();   //返回通道字
+			
 			command_reply_SampleParameter();
 			command_replyap();
 			command_reply_runmode();
@@ -112,6 +123,7 @@ void Esp32ProcessFunction ( void *pvParameters )
 			command_reply_scale();
 			command_reply_alarm_value();
 			command_reply_lowpower_value();
+			/**/
 			
 		}
 		if(WifiDisconnectedFlag)

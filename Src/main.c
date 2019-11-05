@@ -21,6 +21,7 @@
 #include "cmsis_os.h"
 #include "bsp.h"
 #include "app.h"
+#include "clog.h"
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -79,10 +80,10 @@ struct  CONFIG  config={
 	.DataToBoardMode = PARAMETERMODE,
 	.DataToSendChannel =  0x1F,           //
 	.DHCP = 1, //DHCP
-	.APssid = "yec-test",//"Tenda_4F7AC0",//"yec-test",//"wifi-sensor",//"Tenda_1E6760",//"TP-LINK-SCZZB",//"yec-test",//"wifi-sensor",//"TP-LINK-sczzb2",//"hold-704",//"wifi-test1",//"yec-test",//"wifi-test",//"yec-test",//"zl_sensor",/////"yec-test",//"test3",//"qiangang2", //"qiangang1", //"qiangang1", /////
+	.APssid = "Tenda_4F7AC0",//"Tenda_4F7AC0",//"yec-test",//"wifi-sensor",//"Tenda_1E6760",//"TP-LINK-SCZZB",//"yec-test",//"wifi-sensor",//"TP-LINK-sczzb2",//"hold-704",//"wifi-test1",//"yec-test",//"wifi-test",//"yec-test",//"zl_sensor",/////"yec-test",//"test3",//"qiangang2", //"qiangang1", //"qiangang1", /////
 	.APpassword = "",//"",//"china-yec",//"",//"wifi-sensor",//"18051061462",//"wifi-test",//"zl_sensor",///"china-yec",//"",////"",//"zl_sensor",/"lft13852578307",//"",//"",//"123456789",//"china-yec.com",// //
-	.TcpServer_IP = "192.168.100.99",//"192.168.0.233",//"192.168.0.141",// "192.168.0.112",//
-	.TcpServer_Port = "13000", //
+	.TcpServer_IP = "192.168.0.233",//"192.168.0.233",//"192.168.0.141",// "192.168.0.112",//
+	.TcpServer_Port = "8712", //
 	.LocalIP = "192.168.99.45",  //LocalIP
 	.LocalGATEWAY =  "192.168.99.1",  //LocalGATEWAY
 	.LocalMASK = "255.255.255.0",	//LocalMASK
@@ -101,14 +102,14 @@ struct  CONFIG  config={
 	.Lowpower_Mode = 1,  //Lowpower_Mode 1
 	.scan_channel = 6,  //scan_channel
 	.Waitforsleeptime = 12, //Waitforsleeptime
-	.WaitforIEPEtime = 4,//WaitforIEPEtime
+	.WaitforIEPEtime = 1,//WaitforIEPEtime
 	.filterMean = { 0.25f,0.25f,0.25f,0.25f,0.25f,0.25f},
 	.WaitToPeriodTransmissonCounter = 0,//WaitToPeriodTransmissonCounter
 	.Alarm_value_junyue = 	{10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,
 		10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,10000.0f,
 	 10000.0f,10000.0f},
 	.battery = 100 ,
-	.workcycleseconds_inAlarmStatue = 1200,
+	.workcycleseconds_inAlarmStatue = 60,
 	.tempCompensation = -5 ,
 	//.Alarm_source_number = ,
 	//.Alarm_source = 
@@ -440,6 +441,7 @@ void StartDefaultTask(void *argument)
 		LMT01_GET_VALUE();
 		osDelay(500);
 		bsp_LedToggle(1);
+		DEBUG("Test RTT log\r\n");
 		if(Parameter.wakeupsourec==VLLS)
 		osDelay(1);
 		if((config.Lowpower_Mode==lowpowermode)&&(Parameter.wakeupsourec==VLLS))//这个是要求唤醒来自standyby 模式

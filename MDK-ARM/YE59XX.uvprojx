@@ -49,7 +49,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>YE59XX\</OutputDirectory>
-          <OutputName>Y234_V1.0.5</OutputName>
+          <OutputName>V1.0.6</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -134,11 +134,11 @@
             <RunIndependent>0</RunIndependent>
             <UpdateFlashBeforeDebugging>1</UpdateFlashBeforeDebugging>
             <Capability>1</Capability>
-            <DriverSelection>4101</DriverSelection>
+            <DriverSelection>4096</DriverSelection>
           </Flash1>
           <bUseTDR>1</bUseTDR>
           <Flash2>BIN\UL2CM3.DLL</Flash2>
-          <Flash3></Flash3>
+          <Flash3>"" ()</Flash3>
           <Flash4></Flash4>
           <pFcarmOut></pFcarmOut>
           <pFcarmGrp></pFcarmGrp>
@@ -930,6 +930,11 @@
               <FileName>clog.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\Middlewares\clog\clog.c</FilePath>
+            </File>
+            <File>
+              <FileName>changelog.txt</FileName>
+              <FileType>5</FileType>
+              <FilePath>E:\垃圾堆\junyue_git\Middlewares\version\changelog.txt</FilePath>
             </File>
           </Files>
         </Group>

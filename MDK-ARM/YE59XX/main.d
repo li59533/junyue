@@ -64,3 +64,6 @@ ye59xx\main.o: ..\Bsp\bsp_flash.h
 ye59xx\main.o: ..\Bsp\bsp_LMT01.h
 ye59xx\main.o: ..\MDK-ARM\app.h
 ye59xx\main.o: ..\Bsp\bsp.h
+ye59xx\main.o: ..\Middlewares\clog\clog.h
+ye59xx\main.o: ..\Middlewares\rttviewer\SEGGER_RTT.h
+ye59xx\main.o: ..\Middlewares\rttviewer\SEGGER_RTT_Conf.h

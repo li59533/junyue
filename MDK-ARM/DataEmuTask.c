@@ -202,14 +202,16 @@ void EmuData(void)
 			default:
 				for(uint32_t i=0;i<config.channel_freq[j];i++)
 				{
-					emu_inter_data[i]=inter_factor*mems_emu_data[SAMPLEblock][j][i];
+					emu_inter_data[i]=inter_factor*mems_emu_data[SAMPLEblock][j -1][i];
 				}
 			break;
 		}
 
+		/*
 		for(uint32_t i=0;i<config.channel_freq[j];i++)
 			emu_inter_data[i] = test11[0]*arm_sin_f32(2*3.1415926f*test11[1]*i/config.channel_freq[j]);
-
+		*/
+		
 		switch(config.channel_freq[j])
 		{
 			case 16384:
@@ -253,7 +255,8 @@ void EmuData(void)
 			default:
 
 			break;
-		}                                                                                      	
+		}         
+		
 		arm_rms_f32(fft_data, 4096, &Parameter.Arms[j]);
 		integ_init(4096,4096,1000,1,4,1000);  //速度到4
 		frq_domain_integral(fft_data,fft_inter_data);
@@ -261,6 +264,7 @@ void EmuData(void)
 		integ_init(4096,4096,1000000,2,10,1000);//位移到10
 		frq_domain_integral(fft_data,fft_inter_data);
 		arm_rms_f32(fft_inter_data, 4096, &Parameter.Drms[j]);
+		
 		if(0)
 		{
 			integ_init(4096,4096,1,1,10,1000);//位移到10
@@ -628,7 +632,7 @@ void BoardAutoPeroidWave(void)
 			 default:
 				 break;
 			}
-		 float inter_factor=config.floatadc[ii]*config.floatscale[ii]*32768.0f/config.floatrange[ii];
+		 float inter_factor=config.floatadc[ii]*config.floatscale[ii]*1500.0f/config.floatrange[ii];
 	for(uint32_t i=0;i<config.channel_freq[ii];i++) //*config.ADtime
 	 {
 		 
@@ -821,13 +825,13 @@ void DataEmuFunction(void *argument)
 				/*				自动发送波形跟特征值逻辑            */	
 				if(config.PeriodTransimissonStatus==TRUE)
 				{
-					if((Parameter.AutoPeriodTransmissonCounter+1)>=config.PeriodTransimissonCounter)
+					if((Parameter.AutoPeriodTransmissonCounter + 1) >= config.PeriodTransimissonCounter)
 					{
 						EnablePeroidWaveAutoTransmission();
-						Parameter.AutoPeriodTransmissonCounter=0;
+						Parameter.AutoPeriodTransmissonCounter = 0;
 					}else
 					{
-						Parameter.AutoPeriodTransmissonCounter++;
+						Parameter.AutoPeriodTransmissonCounter ++;
 					}
 					
 				}
