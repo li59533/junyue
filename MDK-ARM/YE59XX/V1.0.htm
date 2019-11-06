@@ -3,7 +3,7 @@
 <title>Static Call Graph - [YE59XX\V1.0.6]</title></head>
 <body><HR>
 <H1>Static Call Graph for image YE59XX\V1.0.6</H1><HR>
-<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 5060750: Last Updated: Tue Nov 05 20:16:26 2019
+<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 5060750: Last Updated: Wed Nov 06 18:28:39 2019
 <BR><P>
 <H3>Maximum Stack Usage =        632 bytes + Unknown(Cycles, Untraceable Function Pointers)</H3><H3>
 Call chain for Maximum Stack Depth:</H3>
@@ -899,7 +899,7 @@ Global Symbols
 </UL>
 <BR>[Address Reference Count : 1]<UL><LI> main.o(i.main)
 </UL>
-<P><STRONG><a name="[76]"></a>DataProcessFunction</STRONG> (Thumb, 1254 bytes, Stack size 24 bytes, dateprocesstask.o(i.DataProcessFunction))
+<P><STRONG><a name="[76]"></a>DataProcessFunction</STRONG> (Thumb, 1250 bytes, Stack size 24 bytes, dateprocesstask.o(i.DataProcessFunction))
 <BR><BR>[Stack]<UL><LI>Max Depth = 144<LI>Call Chain = DataProcessFunction &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll
 </UL>
 <BR>[Calls]<UL><LI><a href="#[cf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;osSemaphoreRelease
@@ -1793,8 +1793,8 @@ Global Symbols
 <LI><a href="#[136]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_FLASH_Lock
 <LI><a href="#[e1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;HAL_FLASHEx_Erase
 </UL>
-<BR>[Called By]<UL><LI><a href="#[140]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WRBYTES
-<LI><a href="#[167]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadConfig
+<BR>[Called By]<UL><LI><a href="#[167]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadConfig
+<LI><a href="#[140]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WRBYTES
 <LI><a href="#[b4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
 </UL>
 
@@ -2418,12 +2418,11 @@ Global Symbols
 <BR>[Called By]<UL><LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyCmd
 </UL>
 
-<P><STRONG><a name="[b6]"></a>command_set_scale</STRONG> (Thumb, 246 bytes, Stack size 16 bytes, rxdbufprocesstask.o(i.command_set_scale))
-<BR><BR>[Stack]<UL><LI>Max Depth = 168<LI>Call Chain = command_set_scale &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll
+<P><STRONG><a name="[b6]"></a>command_set_scale</STRONG> (Thumb, 248 bytes, Stack size 8 bytes, rxdbufprocesstask.o(i.command_set_scale))
+<BR><BR>[Stack]<UL><LI>Max Depth = 160<LI>Call Chain = command_set_scale &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll
 </UL>
-<BR>[Calls]<UL><LI><a href="#[b4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
+<BR>[Calls]<UL><LI><a href="#[167]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadConfig
 <LI><a href="#[a6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
-<LI><a href="#[165]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;emu_sprase_index
 </UL>
 <BR>[Called By]<UL><LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyCmd
 </UL>
@@ -2478,8 +2477,7 @@ Global Symbols
 <P><STRONG><a name="[165]"></a>emu_sprase_index</STRONG> (Thumb, 88 bytes, Stack size 4 bytes, dateprocesstask.o(i.emu_sprase_index))
 <BR><BR>[Stack]<UL><LI>Max Depth = 4<LI>Call Chain = emu_sprase_index
 </UL>
-<BR>[Called By]<UL><LI><a href="#[b6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_set_scale
-<LI><a href="#[b7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_reply_scale
+<BR>[Called By]<UL><LI><a href="#[b7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_reply_scale
 </UL>
 
 <P><STRONG><a name="[149]"></a>fabs</STRONG> (Thumb, 24 bytes, Stack size 8 bytes, fabs.o(i.fabs))
@@ -2525,6 +2523,7 @@ Global Symbols
 <LI><a href="#[134]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;STMFLASH_Write
 </UL>
 <BR>[Called By]<UL><LI><a href="#[15d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;initEEPROM
+<LI><a href="#[b6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_set_scale
 </UL>
 
 <P><STRONG><a name="[64]"></a>main</STRONG> (Thumb, 332 bytes, Stack size 232 bytes, main.o(i.main))
@@ -2651,7 +2650,6 @@ Global Symbols
 <BR>[Calls]<UL><LI><a href="#[134]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;STMFLASH_Write
 </UL>
 <BR>[Called By]<UL><LI><a href="#[b8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_set_snnumber
-<LI><a href="#[b6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_set_scale
 <LI><a href="#[bf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_set_alarm_value
 <LI><a href="#[a0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_set_alarm_source
 <LI><a href="#[ad]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_set_SampleParameter

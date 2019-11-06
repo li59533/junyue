@@ -207,13 +207,11 @@ void DataProcessFunction(void *argument)
 						//							y=y>>1;
 						AD_ZERO[ActualSampleCH] = y + (((int64_t)AD_ZERO[ActualSampleCH]*4095)>>12); // >> 16 /65536  >> 15 /32768  >> 14 / 16384  >> 13 / 8192
 						y=y-(int32_t)(AD_ZERO[ActualSampleCH]>>12); //AD_ZEROlowpass[i]
-						//y=y - 32768.0f;
+						
 						if(config.channel_freq[ActualSampleCH]==16384)
 						{
-							/************************?¨´¡Á?2¨¦?¨´?¨º32768¡ê?¨º¦Ì?¨º3¨¦?¨´32768¡ê?¦Ì¨ª¨ª¡§10000   0.58754852395358581    0.17509704790717162                    0.41324176 -0.17351646*************/	
-							//	**?¨´¡Á?2¨¦?¨´?¨º16384¡ê?¨º¦Ì?¨º3¨¦?¨´16384¡ê?¦Ì¨ª¨ª¡§5000  0.58754852395358581       0.17509704790717162       
-							//								AD_ZEROlowpass[ActualSampleCH]=((int64_t)y+lastdata[ActualSampleCH])*27082+AD_ZEROlowpass[ActualSampleCH]*11371; //6.2K
-							AD_ZEROlowpass[ActualSampleCH]=((int64_t)y+lastdata[ActualSampleCH])*38505-AD_ZEROlowpass[ActualSampleCH]*11475; //5
+							// 6000Hz
+							AD_ZEROlowpass[ActualSampleCH]=((int64_t)y+lastdata[ActualSampleCH])*45292 - AD_ZEROlowpass[ActualSampleCH]*25049; //5
 							AD_ZEROlowpass[ActualSampleCH]=AD_ZEROlowpass[ActualSampleCH]>>16;			
 							lastdata[ActualSampleCH]=y;
 							y=AD_ZEROlowpass[ActualSampleCH];
@@ -223,10 +221,10 @@ void DataProcessFunction(void *argument)
 							/***********************?¨´¡Á?2¨¦?¨´?¨º32768¡ê?¨º¦Ì?¨º3¨¦?¨´8192¡ê?¦Ì¨ª¨ª¡§2500 0.19638846199800786 -0.60722307600398429*******/			
 							//				?¨´¡Á?2¨¦?¨´?¨º16384¡ê?¨º¦Ì?¨º3¨¦?¨´8192¡ê?¦Ì¨ª¨ª¡§2500			0.34202261737325917       -0.31595476525348171      
 							//								AD_ZEROlowpass[ActualSampleCH]=((int64_t)y+lastdata[ActualSampleCH])*15767+AD_ZEROlowpass[ActualSampleCH]*34002;
-							AD_ZEROlowpass[ActualSampleCH] = ((int64_t)y + lastdata[ActualSampleCH]) * 22414 + AD_ZEROlowpass[ActualSampleCH] * 20706;
-							AD_ZEROlowpass[ActualSampleCH] = AD_ZEROlowpass[ActualSampleCH]>>16;			
-							lastdata[ActualSampleCH] = y;
-							y = AD_ZEROlowpass[ActualSampleCH];
+//							AD_ZEROlowpass[ActualSampleCH] = ((int64_t)y + lastdata[ActualSampleCH]) * 22414 + AD_ZEROlowpass[ActualSampleCH] * 20706;
+//							AD_ZEROlowpass[ActualSampleCH] = AD_ZEROlowpass[ActualSampleCH]>>16;			
+//							lastdata[ActualSampleCH] = y;
+//							y = AD_ZEROlowpass[ActualSampleCH];
 						}else if(config.channel_freq[ActualSampleCH]==2048)
 						{
 							/*********************?¨´¡Á?2¨¦?¨´?¨º32768¡ê?¨º¦Ì?¨º3¨¦?¨´2048¡ê?¦Ì¨ª¨ª¡§625 0.056597493815809335      -0.88680501236838138      *******/			  													

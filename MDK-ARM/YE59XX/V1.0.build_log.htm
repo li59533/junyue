@@ -32,16 +32,16 @@ compiling RxdBufProcessTask.c...
 RxdBufProcessTask.c(320): warning:  #1295-D: Deprecated declaration emu_sprase_index - give arg types
   extern void emu_sprase_index();
 RxdBufProcessTask.c(533): warning:  #177-D: variable "channelnum"  was declared but never referenced
-  	 uint8_t channelnum=(((uint32_t)CmdBuf[3]<<8)+CmdBuf[2])/17;
-RxdBufProcessTask.c(1087): warning:  #188-D: enumerated type mixed with another type
+  	uint8_t channelnum=(((uint32_t)CmdBuf[3]<<8)+CmdBuf[2])/17;
+RxdBufProcessTask.c(1095): warning:  #188-D: enumerated type mixed with another type
   			config.Alarm_source[rule_index][i].parameter_NAME=RXDCmdBuf[8+persource_byte_length*i];
-RxdBufProcessTask.c(1088): warning:  #188-D: enumerated type mixed with another type
+RxdBufProcessTask.c(1096): warning:  #188-D: enumerated type mixed with another type
   			config.Alarm_source[rule_index][i].logical=RXDCmdBuf[9+persource_byte_length*i];
-RxdBufProcessTask.c(1089): warning:  #188-D: enumerated type mixed with another type
+RxdBufProcessTask.c(1097): warning:  #188-D: enumerated type mixed with another type
   			config.Alarm_source[rule_index][i].relationship=RXDCmdBuf[10+persource_byte_length*i];
 RxdBufProcessTask.c: 5 warnings, 0 errors
 linking...
-Program Size: Code=59672 RO-data=88572 RW-data=3472 ZI-data=538728  
+Program Size: Code=59664 RO-data=88572 RW-data=3472 ZI-data=538728  
 FromELF: creating hex file...
 "YE59XX\V1.0.6" - 0 Error(s), 5 Warning(s).
 
@@ -72,7 +72,7 @@ Package Vendor: Keil
    * Component: ARM::CMSIS:DSP:Library:1.6.0
       Library file:  CMSIS\DSP\Lib\ARM\arm_cortexM4lf_math.lib
       Include file:  CMSIS\DSP\Include\arm_math.h
-Build Time Elapsed:  00:00:16
+Build Time Elapsed:  00:00:15
 </pre>
 </body>
 </html>

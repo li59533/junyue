@@ -523,47 +523,55 @@ typedef union
 
 uint8_t command_set_scale()
 { 
-	 {
-		for(uint8_t i=0;i<CmdBufLength;i++)
+	{
+	for(uint8_t i=0;i<CmdBufLength;i++)
 		CmdBuf[i]=RXDCmdBuf[i];
-		CmdBufLength=CmdBufLength;
+	CmdBufLength=CmdBufLength;
 
-	 }
-	 WriteDataToTXDBUF(CmdBuf,CmdBufLength);
-	 uint8_t channelnum=(((uint32_t)CmdBuf[3]<<8)+CmdBuf[2])/17;
-	 for(uint16_t j=0;j<Acceleration_ADCHS;j++)//for(uint16_t j=0;j<channelnum;j++) //只对加速度进行设置
-	 {
+	}
+	WriteDataToTXDBUF(CmdBuf,CmdBufLength);
+	uint8_t channelnum=(((uint32_t)CmdBuf[3]<<8)+CmdBuf[2])/17;
+	for(uint16_t j=0;j<Acceleration_ADCHS;j++)//for(uint16_t j=0;j<channelnum;j++) //只对加速度进行设置
+	{
 		FloatLongType fl;  
 		fl.ldata=0;  
-    config.channel_freq[j]=(((uint32_t)CmdBuf[8+17*j]<<24)+((uint32_t)CmdBuf[7+17*j]<<16)
-															+((uint32_t)CmdBuf[6+17*j]<<8)+CmdBuf[5+17*j]); 
-   
+		config.channel_freq[j]=(((uint32_t)CmdBuf[8+17*j]<<24)+((uint32_t)CmdBuf[7+17*j]<<16)
+							+((uint32_t)CmdBuf[6+17*j]<<8)+CmdBuf[5+17*j]); 
+
 		fl.ldata=0;  
-    fl.ldata=CmdBuf[12+17*j];  
-    fl.ldata=(fl.ldata<<8)|CmdBuf[11+17*j];  
-    fl.ldata=(fl.ldata<<8)|CmdBuf[10+17*j];  
-    fl.ldata=(fl.ldata<<8)|CmdBuf[9+17*j];  
+		fl.ldata=CmdBuf[12+17*j];  
+		fl.ldata=(fl.ldata<<8)|CmdBuf[11+17*j];  
+		fl.ldata=(fl.ldata<<8)|CmdBuf[10+17*j];  
+		fl.ldata=(fl.ldata<<8)|CmdBuf[9+17*j];  
 		config.floatscale[j]=1.0f/fl.fdata;  
-    
+
 		fl.ldata=0;  
-    fl.ldata=CmdBuf[16+17*j];  
-    fl.ldata=(fl.ldata<<8)|CmdBuf[15+17*j];  
-    fl.ldata=(fl.ldata<<8)|CmdBuf[14+17*j];  
-    fl.ldata=(fl.ldata<<8)|CmdBuf[13+17*j];  
-		
+		fl.ldata=CmdBuf[16+17*j];  
+		fl.ldata=(fl.ldata<<8)|CmdBuf[15+17*j];  
+		fl.ldata=(fl.ldata<<8)|CmdBuf[14+17*j];  
+		fl.ldata=(fl.ldata<<8)|CmdBuf[13+17*j];  
+
 		config.alarmgate[j]=fl.fdata; 
 		fl.ldata=0; 
 		fl.ldata=CmdBuf[20+17*j];  
-    fl.ldata=(fl.ldata<<8)|CmdBuf[19+17*j];  
-    fl.ldata=(fl.ldata<<8)|CmdBuf[18+17*j];  
-    fl.ldata=(fl.ldata<<8)|CmdBuf[17+17*j];  
+		fl.ldata=(fl.ldata<<8)|CmdBuf[19+17*j];  
+		fl.ldata=(fl.ldata<<8)|CmdBuf[18+17*j];  
+		fl.ldata=(fl.ldata<<8)|CmdBuf[17+17*j];  
 		config.floatrange[j]=fl.fdata; 
-   
+
 		Parameter.ReciprocalofRange[j]=32768/config.floatrange[j];
-	 }
-	 emu_sprase_index();//更新采样的稀疏参数
-	 saveConfig();
-   
+		
+		if(config.channel_freq[j] != 16384 || config.channel_freq[j] != 8192)
+		{
+			loadConfig();
+			return 0;
+		}
+		
+		
+	}
+	emu_sprase_index();//更新采样的稀疏参数
+	saveConfig();
+	   
    return 1;
 }
 

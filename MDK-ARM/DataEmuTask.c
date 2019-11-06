@@ -312,11 +312,12 @@ void EmuData(void)
 			Parameter.Envelop[j]=EnvelopMax[j]*ScaleValue;
 		}	
 		
-		if(Parameter.Arms[j] < 0.25f)
+		if(Parameter.EffectiveValue[j] < 0.25f)//Parameter.Arms[j] < 0.25f || 
 		{
 			Parameter.Vrms[j] = 0.0f;
 			Parameter.Drms[j] = 0.0f;
 			Parameter.KurtosisIndex[j] = 0.0f;
+			Parameter.Envelop[j] = 0.0f;
 		}		
 		
 		
@@ -519,8 +520,8 @@ uint8_t BoardParameter_withtime_forJUNYUE(void)  //发送特征值,君悦版本
 	sendbuf[44+25*2]=*(floatdata+3);
 	sendbuf[45+25*2]=value_statue[16];
 	
-  uint32_t length=85+7;
-  sendbuf[2]=(uint8_t)length;
+	uint32_t length=85+7;
+	sendbuf[2]=(uint8_t)length;
 	sendbuf[3]=(uint8_t)(length>>8);
 	sendbuf[46+25*2]=0;
 	for(uint8_t i=1;i<(46+25*2);i++)
@@ -618,69 +619,74 @@ void BoardAutoPeroidWave(void)
 	int16_t *p;
 	uint16_t packege_flag=0;
 	uint16_t buflength=PERIODBOARDPOINTS+1+7+2;//1个字节通道号 7个字节时间，2个字节包号
- for(uint32_t ii=0;ii<Acceleration_ADCHS;ii++){
- if(((config.DataToSendChannel>>ii)&0x01)==0)  //未使能的通道不发送
+	
+	for(uint32_t ii=0;ii<Acceleration_ADCHS;ii++)
 	{
-	 continue;
-	}
-// for(uint32_t i=0;i<(config.channel_freq[ii]);i++) //*config.ADtime
-	 
-		 switch(ii){
-			 case 0:
-					p=&piz_emu_data[SAMPLEblock][0];
-				 break;
-			 case 1:
-					p=&mems_emu_data[SAMPLEblock][0][0];
-				 break;
-			 case 2:
-					p=&mems_emu_data[SAMPLEblock][1][0];
-				 break;
-			 case 3:
-					p=&mems_emu_data[SAMPLEblock][2][0];
-				 break;
-			 default:
-				 break;
-			}
-		 float inter_factor=config.floatadc[ii]*config.floatscale[ii]*1500.0f/config.floatrange[ii];
-	for(uint32_t i=0;i<config.channel_freq[ii];i++) //*config.ADtime
-	 {
-		 
-		yy=*p;
-		p++;
-		sendperioddata=yy*inter_factor;//(int16_t)(yy*Parameter.ReciprocalofRange[ii]);
+		if(((config.DataToSendChannel>>ii)&0x01)==0)  //未使能的通道不发送
+		{
+			continue;
+		}
+		// for(uint32_t i=0;i<(config.channel_freq[ii]);i++) //*config.ADtime
+
+		switch(ii)
+		{
+			case 0:
+			p=&piz_emu_data[SAMPLEblock][0];
+			break;
+			case 1:
+			p=&mems_emu_data[SAMPLEblock][0][0];
+			break;
+			case 2:
+			p=&mems_emu_data[SAMPLEblock][1][0];
+			break;
+			case 3:
+			p=&mems_emu_data[SAMPLEblock][2][0];
+			break;
+			default:
+			break;
+		}
+		float inter_factor=config.floatadc[ii]*config.floatscale[ii]*1500.0f/config.floatrange[ii];
 		
-		PeriodWaveToSend[wpp+14]=sendperioddata;
-		PeriodWaveToSend[wpp+15]=sendperioddata>>8;
-		checksum+=(PeriodWaveToSend[wpp+14]+PeriodWaveToSend[wpp+15]);			 
-		wpp=wpp+2;			
-  if(wpp>(PERIODBOARDPOINTS-1)) {	
-		PeriodWaveToSend[0]=0x7e;//TELid;
-		PeriodWaveToSend[1]=0x70;//TELid>>8;	
-		PeriodWaveToSend[2]=buflength;//TELid>>16;
-		PeriodWaveToSend[3]=(uint8_t)(buflength>>8);// TELid>>24; //2,3????????482??
-		PeriodWaveToSend[4]=ii+1;// TELid>>24;
-		PeriodWaveToSend[5]=g_tRTC.Year;
-		PeriodWaveToSend[6]=g_tRTC.Year>>8;
-		PeriodWaveToSend[7]=g_tRTC.Mon;
-		PeriodWaveToSend[8]=g_tRTC.Day; //时间用32位表示
-		PeriodWaveToSend[9]=g_tRTC.Hour;
-		PeriodWaveToSend[10]=g_tRTC.Min;
-		PeriodWaveToSend[11]=g_tRTC.Sec; //时间用32位表示		
-		PeriodWaveToSend[12]=packege_flag; //时间用32位表示
-		PeriodWaveToSend[13]=packege_flag>>8; //时间用32位表示
-		for(uint32_t ii=1;ii<14;ii++)
-		checksum+=PeriodWaveToSend[ii];  //adch是从1开始的
-		PeriodWaveToSend[14+PERIODBOARDPOINTS]=checksum;  //2,3????????482??
-		PeriodWaveToSend[15+PERIODBOARDPOINTS]=0x7e; 
-		packege_flag++;
-		WriteDataToTXDBUF(PeriodWaveToSend,PERIODBOARDPOINTS+16);	
-		wpp=0;
-		checksum=0;
-		osDelay(1);
-		}	 
+		for(uint32_t i=0;i<config.channel_freq[ii];i++) //*config.ADtime
+		{
+			yy = *p;
+			p ++;
+			sendperioddata = yy * inter_factor;//(int16_t)(yy*Parameter.ReciprocalofRange[ii]);
+
+			PeriodWaveToSend[wpp + 14] = sendperioddata;
+			PeriodWaveToSend[wpp + 15] = sendperioddata >>8;
+			checksum += (PeriodWaveToSend[wpp + 14] + PeriodWaveToSend[wpp + 15]);			 
+			wpp = wpp + 2;			
+			if(wpp > (PERIODBOARDPOINTS - 1)) 
+			{	
+				PeriodWaveToSend[0]=0x7e;//TELid;
+				PeriodWaveToSend[1]=0x70;//TELid>>8;	
+				PeriodWaveToSend[2]=buflength;//TELid>>16;
+				PeriodWaveToSend[3]=(uint8_t)(buflength>>8);// TELid>>24; //2,3????????482??
+				PeriodWaveToSend[4]=ii+1;// TELid>>24;
+				PeriodWaveToSend[5]=g_tRTC.Year;
+				PeriodWaveToSend[6]=g_tRTC.Year>>8;
+				PeriodWaveToSend[7]=g_tRTC.Mon;
+				PeriodWaveToSend[8]=g_tRTC.Day; //时间用32位表示
+				PeriodWaveToSend[9]=g_tRTC.Hour;
+				PeriodWaveToSend[10]=g_tRTC.Min;
+				PeriodWaveToSend[11]=g_tRTC.Sec; //时间用32位表示		
+				PeriodWaveToSend[12]=packege_flag; //时间用32位表示
+				PeriodWaveToSend[13]=packege_flag>>8; //时间用32位表示
+				for(uint32_t ii=1;ii<14;ii++)
+					checksum+=PeriodWaveToSend[ii];  //adch是从1开始的
+				
+				PeriodWaveToSend[14+PERIODBOARDPOINTS]=checksum;  //2,3????????482??
+				PeriodWaveToSend[15+PERIODBOARDPOINTS]=0x7e; 
+				packege_flag++;
+				WriteDataToTXDBUF(PeriodWaveToSend,PERIODBOARDPOINTS+16);	
+				wpp=0;
+				checksum=0;
+				osDelay(1);
+			}	 
+		}
 	}
-}
-  
+
 
 }
 

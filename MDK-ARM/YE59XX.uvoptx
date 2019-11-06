@@ -120,7 +120,7 @@
         <SetRegEntry>
           <Number>0</Number>
           <Key>DLGUARM</Key>
-          <Name></Name>
+          <Name>d</Name>
         </SetRegEntry>
         <SetRegEntry>
           <Number>0</Number>
@@ -154,7 +154,7 @@
           <Type>0</Type>
           <LineNumber>1059</LineNumber>
           <EnabledFlag>1</EnabledFlag>
-          <Address>134264378</Address>
+          <Address>134262838</Address>
           <ByteObject>0</ByteObject>
           <HtxType>0</HtxType>
           <ManyObjects>0</ManyObjects>
@@ -170,7 +170,7 @@
           <Type>0</Type>
           <LineNumber>1057</LineNumber>
           <EnabledFlag>1</EnabledFlag>
-          <Address>134264366</Address>
+          <Address>134262826</Address>
           <ByteObject>0</ByteObject>
           <HtxType>0</HtxType>
           <ManyObjects>0</ManyObjects>
@@ -184,9 +184,25 @@
         <Bp>
           <Number>2</Number>
           <Type>0</Type>
-          <LineNumber>652</LineNumber>
+          <LineNumber>91</LineNumber>
           <EnabledFlag>1</EnabledFlag>
-          <Address>134225900</Address>
+          <Address>134244630</Address>
+          <ByteObject>0</ByteObject>
+          <HtxType>0</HtxType>
+          <ManyObjects>0</ManyObjects>
+          <SizeOfObject>0</SizeOfObject>
+          <BreakByAccess>0</BreakByAccess>
+          <BreakIfRCount>1</BreakIfRCount>
+          <Filename>../Src/stm32l4xx_it.c</Filename>
+          <ExecCommand></ExecCommand>
+          <Expression>\\V1_0\../Src/stm32l4xx_it.c\91</Expression>
+        </Bp>
+        <Bp>
+          <Number>3</Number>
+          <Type>0</Type>
+          <LineNumber>564</LineNumber>
+          <EnabledFlag>1</EnabledFlag>
+          <Address>134263850</Address>
           <ByteObject>0</ByteObject>
           <HtxType>0</HtxType>
           <ManyObjects>0</ManyObjects>
@@ -195,7 +211,7 @@
           <BreakIfRCount>1</BreakIfRCount>
           <Filename>.\RxdBufProcessTask.c</Filename>
           <ExecCommand></ExecCommand>
-          <Expression>\\\RxdBufProcessTask.c\652</Expression>
+          <Expression>\\V1_0\RxdBufProcessTask.c\564</Expression>
         </Bp>
       </Breakpoint>
       <WatchWindow1>
@@ -212,7 +228,7 @@
         <Ww>
           <count>2</count>
           <WinNumber>1</WinNumber>
-          <ItemText>config</ItemText>
+          <ItemText>config,0x0A</ItemText>
         </Ww>
         <Ww>
           <count>3</count>
@@ -232,7 +248,7 @@
         <Ww>
           <count>6</count>
           <WinNumber>1</WinNumber>
-          <ItemText>RxdTelBuf</ItemText>
+          <ItemText>RXDCmdBuf</ItemText>
         </Ww>
       </WatchWindow1>
       <WatchWindow2>
@@ -246,7 +262,7 @@
         <Mm>
           <WinNumber>1</WinNumber>
           <SubType>0</SubType>
-          <ItemText>0X081b0000</ItemText>
+          <ItemText>0x200845a8</ItemText>
           <AccSizeX>0</AccSizeX>
         </Mm>
       </MemoryWindow1>

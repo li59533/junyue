@@ -544,7 +544,7 @@ void STMFLASH_Write(uint32_t WriteAddr,uint64_t *pBuffer,uint32_t NumToWrite);		
 void STMFLASH_Read(uint32_t ReadAddr,uint32_t *pBuffer,uint32_t NumToRead);   		//从指定地址开始读出指定长度的数据
 void initEEPROM(void);
 void saveConfig(void);
-
+void loadConfig(void);
 
 #endif
 /***************************** 安富莱电子 www.armfly.com (END OF FILE) *********************************/
