@@ -1,1557 +1,1498 @@
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 116
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:20 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 116
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:21 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 116
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:22 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 116
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:23 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 116
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:24 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 116
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:25 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 116
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:26 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 116
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:27 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 116
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:28 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 116
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:29 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:command is :%x 112
-DateTime:2019-11-02 14:40:30 周六 Message:back remain counts:  1 1 1
-DateTime:2019-11-02 14:49:15 周六 Message:back remain counts:  0 0 0
-DateTime:2019-11-02 14:49:15 周六 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-02 16:54:39 周六 Message:back remain counts:  0 0 0
-DateTime:2019-11-02 17:19:52 周六 Message:back remain counts:  0 0 0
-DateTime:2019-11-02 17:34:38 周六 Message:back remain counts:  0 0 0
-DateTime:2019-11-04 11:25:38 周一 Message:back remain counts:  0 0 0
-DateTime:2019-11-04 11:25:38 周一 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-04 11:25:38 周一 Message:QIODevice::write (QTcpSocket): device not open
-DateTime:2019-11-04 11:31:11 周一 Message:new connection
-DateTime:2019-11-04 11:31:11 周一 Message:sock count after add: 1
-DateTime:2019-11-04 11:31:12 周一 Message:command is :%x 3
-DateTime:2019-11-04 11:31:12 周一 Message:command is :%x 2
-DateTime:2019-11-04 11:31:12 周一 Message:"276e07775db5d817" 1000 true
-DateTime:2019-11-04 11:31:12 周一 Message:command is :%x 128
-DateTime:2019-11-04 11:31:12 周一 Message:command is :%x 87
-DateTime:2019-11-04 11:31:12 周一 Message:command is :%x 6
-DateTime:2019-11-04 11:31:12 周一 Message:type: 1000
-DateTime:2019-11-04 11:31:12 周一 Message:command is :%x 83
-DateTime:2019-11-04 11:31:12 周一 Message:command is :%x 86
-DateTime:2019-11-04 11:31:12 周一 Message:command is :%x 25
-DateTime:2019-11-04 11:31:12 周一 Message:command is :%x 8
-DateTime:2019-11-04 11:31:12 周一 Message:command is :%x 115
-DateTime:2019-11-04 11:31:12 周一 Message:command is :%x 118
-DateTime:2019-11-04 11:31:12 周一 Message:command is :%x 80
-DateTime:2019-11-04 11:31:12 周一 Message:command is :%x 1
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 116
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:17 周一 Message:command is :%x 24
-DateTime:2019-11-04 11:31:19 周一 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-04 11:31:19 周一 Message:QIODevice::write (QTcpSocket): device not open
-DateTime:2019-11-04 11:31:34 周一 Message:new connection
-DateTime:2019-11-04 11:31:34 周一 Message:sock count after add: 2
-DateTime:2019-11-04 11:31:34 周一 Message:command is :%x 3
-DateTime:2019-11-04 11:31:34 周一 Message:command is :%x 2
-DateTime:2019-11-04 11:31:34 周一 Message:"276e07775db5d817" 1000 true
-DateTime:2019-11-04 11:31:34 周一 Message:command is :%x 128
-DateTime:2019-11-04 11:31:34 周一 Message:type: 1000
-DateTime:2019-11-04 11:31:34 周一 Message:command is :%x 87
-DateTime:2019-11-04 11:31:34 周一 Message:command is :%x 6
-DateTime:2019-11-04 11:31:34 周一 Message:command is :%x 83
-DateTime:2019-11-04 11:31:34 周一 Message:command is :%x 86
-DateTime:2019-11-04 11:31:34 周一 Message:command is :%x 25
-DateTime:2019-11-04 11:31:34 周一 Message:command is :%x 8
-DateTime:2019-11-04 11:31:34 周一 Message:command is :%x 115
-DateTime:2019-11-04 11:31:34 周一 Message:command is :%x 118
-DateTime:2019-11-04 11:31:34 周一 Message:command is :%x 80
-DateTime:2019-11-04 11:31:34 周一 Message:command is :%x 1
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 116
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 112
-DateTime:2019-11-04 11:31:37 周一 Message:command is :%x 24
-DateTime:2019-11-04 11:31:40 周一 Message:back remain counts:  2 2 2
-DateTime:2019-11-04 11:31:40 周一 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-04 11:31:40 周一 Message:QIODevice::write (QTcpSocket): device not open
-DateTime:2019-11-04 11:54:40 周一 Message:back remain counts:  0 0 0
-DateTime:2019-11-04 11:54:40 周一 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-04 11:54:40 周一 Message:QIODevice::write (QTcpSocket): device not open
-DateTime:2019-11-04 14:27:36 周一 Message:back remain counts:  0 0 0
-DateTime:2019-11-04 14:27:36 周一 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-04 14:27:36 周一 Message:QIODevice::write (QTcpSocket): device not open
-DateTime:2019-11-04 14:52:45 周一 Message:back remain counts:  0 0 0
-DateTime:2019-11-04 14:52:45 周一 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-04 14:52:45 周一 Message:QIODevice::write (QTcpSocket): device not open
-DateTime:2019-11-04 15:04:03 周一 Message:back remain counts:  0 0 0
-DateTime:2019-11-04 15:04:03 周一 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-04 15:04:03 周一 Message:QIODevice::write (QTcpSocket): device not open
-DateTime:2019-11-04 15:19:04 周一 Message:back remain counts:  0 0 0
-DateTime:2019-11-04 15:19:04 周一 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-04 15:19:04 周一 Message:QIODevice::write (QTcpSocket): device not open
-DateTime:2019-11-04 15:28:52 周一 Message:back remain counts:  0 0 0
-DateTime:2019-11-04 15:28:52 周一 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-04 15:28:52 周一 Message:QIODevice::write (QTcpSocket): device not open
-DateTime:2019-11-04 15:31:55 周一 Message:back remain counts:  0 0 0
-DateTime:2019-11-04 15:31:55 周一 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-04 15:31:55 周一 Message:QIODevice::write (QTcpSocket): device not open
-DateTime:2019-11-04 15:34:50 周一 Message:back remain counts:  0 0 0
-DateTime:2019-11-04 15:34:50 周一 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-04 15:34:50 周一 Message:QIODevice::write (QTcpSocket): device not open
-DateTime:2019-11-04 16:25:52 周一 Message:back remain counts:  0 0 0
-DateTime:2019-11-04 16:25:52 周一 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-04 16:25:52 周一 Message:QIODevice::write (QTcpSocket): device not open
-DateTime:2019-11-05 09:33:25 周二 Message:back remain counts:  0 0 0
-DateTime:2019-11-05 09:33:25 周二 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-05 09:33:25 周二 Message:QIODevice::write (QTcpSocket): device not open
-DateTime:2019-11-05 09:34:10 周二 Message:back remain counts:  0 0 0
-DateTime:2019-11-05 09:34:10 周二 Message:QNativeSocketEngine::write() was not called in QAbstractSocket::ConnectedState
-DateTime:2019-11-05 09:34:10 周二 Message:QIODevice::write (QTcpSocket): device not open
-DateTime:2019-11-05 11:17:49 周二 Message:new connection
-DateTime:2019-11-05 11:17:49 周二 Message:sock count after add: 1
-DateTime:2019-11-05 11:17:50 周二 Message:type: 1000
-DateTime:2019-11-05 11:17:50 周二 Message:guid is: "{5284c4cd-0e03-4406-bc44-5371c8aa003c}"
-DateTime:2019-11-05 11:17:53 周二 Message:into sendOver 4
-DateTime:2019-11-05 11:17:59 周二 Message:back remain counts:  1 1 1
-DateTime:2019-11-05 11:17:59 周二 Message:QCoreApplication::postEvent: Unexpected null receiver
-DateTime:2019-11-05 11:36:27 周二 Message:new connection
-DateTime:2019-11-05 11:36:27 周二 Message:sock count after add: 1
-DateTime:2019-11-05 11:36:27 周二 Message:type: 1000
-DateTime:2019-11-05 11:36:27 周二 Message:guid is: "{45e36787-f39e-439a-8638-1fca9847ab22}"
-DateTime:2019-11-05 11:36:27 周二 Message:into sendOver 4
-DateTime:2019-11-05 11:36:35 周二 Message:back remain counts:  1 1 1
-DateTime:2019-11-05 11:36:35 周二 Message:QCoreApplication::postEvent: Unexpected null receiver
-DateTime:2019-11-05 15:56:30 周二 Message:back remain counts:  0 0 0
-DateTime:2019-11-05 15:56:31 周二 Message:QCoreApplication::postEvent: Unexpected null receiver
-DateTime:2019-11-06 15:41:06 周三 Message:back remain counts:  0 0 0
-DateTime:2019-11-06 15:41:06 周三 Message:QCoreApplication::postEvent: Unexpected null receiver
-DateTime:2019-11-06 15:45:17 周三 Message:new connection
-DateTime:2019-11-06 15:45:17 周三 Message:sock count after add: 1
-DateTime:2019-11-06 15:45:17 周三 Message:type: 1000
-DateTime:2019-11-06 15:45:17 周三 Message:guid is: "{7608f301-cf9c-45ca-aac1-a1652b0604d5}"
-DateTime:2019-11-06 15:45:17 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:45:34 周三 Message:new connection
-DateTime:2019-11-06 15:45:34 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:45:34 周三 Message:type: 1000
-DateTime:2019-11-06 15:45:37 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:45:37 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:45:37 周三 Message:"设备断开连接,socket号：1820 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:45:37 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:45:58 周三 Message:new connection
-DateTime:2019-11-06 15:45:58 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:45:58 周三 Message:type: 1000
-DateTime:2019-11-06 15:45:58 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:45:58 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:46:03 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:46:03 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:46:03 周三 Message:"设备断开连接,socket号：1972 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:46:03 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:46:15 周三 Message:new connection
-DateTime:2019-11-06 15:46:15 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:46:15 周三 Message:type: 1000
-DateTime:2019-11-06 15:46:16 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:46:16 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:46:17 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:46:17 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:46:17 周三 Message:"设备断开连接,socket号：1800 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:46:17 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:46:34 周三 Message:new connection
-DateTime:2019-11-06 15:46:34 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:46:34 周三 Message:type: 1000
-DateTime:2019-11-06 15:46:35 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:46:35 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:46:35 周三 Message:"设备断开连接,socket号：2340 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:46:35 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:46:37 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:46:54 周三 Message:new connection
-DateTime:2019-11-06 15:46:54 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:46:54 周三 Message:type: 1000
-DateTime:2019-11-06 15:46:55 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:46:55 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:46:56 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:46:56 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:46:56 周三 Message:"设备断开连接,socket号：2184 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:46:56 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:47:12 周三 Message:new connection
-DateTime:2019-11-06 15:47:12 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:47:12 周三 Message:type: 1000
-DateTime:2019-11-06 15:47:13 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:47:13 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:47:14 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:47:14 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:47:14 周三 Message:"设备断开连接,socket号：2340 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:47:14 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:47:30 周三 Message:new connection
-DateTime:2019-11-06 15:47:30 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:47:30 周三 Message:type: 1000
-DateTime:2019-11-06 15:47:30 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:47:30 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:47:32 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:47:32 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:47:32 周三 Message:"设备断开连接,socket号：2364 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:47:32 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:47:47 周三 Message:new connection
-DateTime:2019-11-06 15:47:47 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:47:47 周三 Message:type: 1000
-DateTime:2019-11-06 15:47:49 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:47:49 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:47:49 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:47:49 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:47:49 周三 Message:"设备断开连接,socket号：2368 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:47:49 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:48:06 周三 Message:new connection
-DateTime:2019-11-06 15:48:06 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:48:07 周三 Message:type: 1000
-DateTime:2019-11-06 15:48:07 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:48:07 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:48:08 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:48:08 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:48:08 周三 Message:"设备断开连接,socket号：2336 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:48:08 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:48:16 周三 Message:back remain counts:  1 1 1
-DateTime:2019-11-06 15:48:16 周三 Message:QCoreApplication::postEvent: Unexpected null receiver
-DateTime:2019-11-06 15:52:46 周三 Message:new connection
-DateTime:2019-11-06 15:52:46 周三 Message:sock count after add: 1
-DateTime:2019-11-06 15:52:46 周三 Message:type: 1000
-DateTime:2019-11-06 15:52:46 周三 Message:guid is: "{f29c2309-f3fc-4458-a588-059cf3fd62b2}"
-DateTime:2019-11-06 15:52:46 周三 Message:stoped by ui
-DateTime:2019-11-06 15:52:47 周三 Message:mysocket count:  0
-DateTime:2019-11-06 15:52:47 周三 Message:analysis count:  0
-DateTime:2019-11-06 15:52:47 周三 Message:"设备断开连接,socket号：2132 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:52:47 周三 Message:tcpserver thread count:  0
-DateTime:2019-11-06 15:52:49 周三 Message:new connection
-DateTime:2019-11-06 15:52:49 周三 Message:sock count after add: 1
-DateTime:2019-11-06 15:53:05 周三 Message:stoped by ui
-DateTime:2019-11-06 15:53:06 周三 Message:mysocket count:  0
-DateTime:2019-11-06 15:53:06 周三 Message:analysis count:  0
-DateTime:2019-11-06 15:53:06 周三 Message:"设备断开连接,socket号：2284 SN: "
-DateTime:2019-11-06 15:53:06 周三 Message:tcpserver thread count:  0
-DateTime:2019-11-06 15:53:06 周三 Message:errCode:  "c0000005"
-DateTime:2019-11-06 15:53:06 周三 Message:errAddr:  "351742"
-DateTime:2019-11-06 15:53:06 周三 Message:errFlag:  "0"
-DateTime:2019-11-06 15:53:06 周三 Message:errPara:  "2"
-DateTime:2019-11-06 15:53:13 周三 Message:new connection
-DateTime:2019-11-06 15:53:13 周三 Message:sock count after add: 1
-DateTime:2019-11-06 15:53:13 周三 Message:type: 1000
-DateTime:2019-11-06 15:53:13 周三 Message:guid is: "{2d6f3a98-b529-4e7d-914d-81501c68d121}"
-DateTime:2019-11-06 15:53:34 周三 Message:mysocket count:  0
-DateTime:2019-11-06 15:53:34 周三 Message:analysis count:  0
-DateTime:2019-11-06 15:53:34 周三 Message:new connection
-DateTime:2019-11-06 15:53:34 周三 Message:"设备断开连接,socket号：2156 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:53:34 周三 Message:sock count after add: 1
-DateTime:2019-11-06 15:53:34 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:53:34 周三 Message:type: 1000
-DateTime:2019-11-06 15:53:35 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:53:52 周三 Message:new connection
-DateTime:2019-11-06 15:53:52 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:53:52 周三 Message:type: 1000
-DateTime:2019-11-06 15:53:52 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:53:52 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:53:54 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:53:54 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:53:54 周三 Message:"设备断开连接,socket号：2160 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:53:54 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:54:09 周三 Message:new connection
-DateTime:2019-11-06 15:54:09 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:54:09 周三 Message:type: 1000
-DateTime:2019-11-06 15:54:10 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:54:10 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:54:11 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:54:11 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:54:11 周三 Message:"设备断开连接,socket号：2308 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:54:11 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:54:26 周三 Message:new connection
-DateTime:2019-11-06 15:54:26 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:54:27 周三 Message:type: 1000
-DateTime:2019-11-06 15:54:27 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:54:27 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:54:29 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:54:29 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:54:29 周三 Message:"设备断开连接,socket号：2292 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:54:29 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:54:44 周三 Message:new connection
-DateTime:2019-11-06 15:54:44 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:54:44 周三 Message:type: 1000
-DateTime:2019-11-06 15:54:46 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:54:46 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:54:46 周三 Message:"设备断开连接,socket号：2368 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:54:46 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:54:47 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:55:03 周三 Message:new connection
-DateTime:2019-11-06 15:55:03 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:55:04 周三 Message:type: 1000
-DateTime:2019-11-06 15:55:04 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:55:04 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:55:06 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:55:06 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:55:06 周三 Message:"设备断开连接,socket号：2336 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:55:06 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:55:23 周三 Message:mysocket count:  0
-DateTime:2019-11-06 15:55:23 周三 Message:analysis count:  0
-DateTime:2019-11-06 15:55:23 周三 Message:"设备断开连接,socket号：1764 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:55:23 周三 Message:tcpserver thread count:  0
-DateTime:2019-11-06 15:55:45 周三 Message:new connection
-DateTime:2019-11-06 15:55:45 周三 Message:sock count after add: 1
-DateTime:2019-11-06 15:55:45 周三 Message:type: 1000
-DateTime:2019-11-06 15:55:49 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:56:09 周三 Message:new connection
-DateTime:2019-11-06 15:56:09 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:56:10 周三 Message:type: 1000
-DateTime:2019-11-06 15:56:10 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:56:10 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:56:14 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:56:14 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:56:14 周三 Message:"设备断开连接,socket号：2276 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:56:14 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:56:27 周三 Message:new connection
-DateTime:2019-11-06 15:56:27 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:56:27 周三 Message:type: 1000
-DateTime:2019-11-06 15:56:28 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:56:28 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:56:29 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:56:29 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:56:29 周三 Message:"设备断开连接,socket号：868 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:56:29 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:56:44 周三 Message:new connection
-DateTime:2019-11-06 15:56:44 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:56:44 周三 Message:type: 1000
-DateTime:2019-11-06 15:56:47 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:56:47 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:56:47 周三 Message:"设备断开连接,socket号：2280 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:56:47 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:56:47 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:57:05 周三 Message:new connection
-DateTime:2019-11-06 15:57:05 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:57:05 周三 Message:type: 1000
-DateTime:2019-11-06 15:57:05 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:57:05 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:57:06 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:57:06 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:57:06 周三 Message:"设备断开连接,socket号：1696 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:57:06 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:57:23 周三 Message:new connection
-DateTime:2019-11-06 15:57:23 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:57:23 周三 Message:type: 1000
-DateTime:2019-11-06 15:57:24 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:57:24 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:57:24 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:57:24 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:57:24 周三 Message:"设备断开连接,socket号：2436 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:57:24 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:57:41 周三 Message:new connection
-DateTime:2019-11-06 15:57:41 周三 Message:mysocket count:  0
-DateTime:2019-11-06 15:57:41 周三 Message:sock count after add: 1
-DateTime:2019-11-06 15:57:41 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:57:41 周三 Message:"设备断开连接,socket号：2424 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:57:41 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:57:41 周三 Message:type: 1000
-DateTime:2019-11-06 15:57:42 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:57:59 周三 Message:new connection
-DateTime:2019-11-06 15:57:59 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:58:00 周三 Message:type: 1000
-DateTime:2019-11-06 15:58:00 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:58:00 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:58:02 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:58:02 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:58:02 周三 Message:"设备断开连接,socket号：2476 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:58:02 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:58:17 周三 Message:mysocket count:  0
-DateTime:2019-11-06 15:58:17 周三 Message:analysis count:  0
-DateTime:2019-11-06 15:58:17 周三 Message:"设备断开连接,socket号：2348 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:58:17 周三 Message:tcpserver thread count:  0
-DateTime:2019-11-06 15:58:17 周三 Message:new connection
-DateTime:2019-11-06 15:58:17 周三 Message:sock count after add: 1
-DateTime:2019-11-06 15:58:17 周三 Message:type: 1000
-DateTime:2019-11-06 15:58:18 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:58:34 周三 Message:new connection
-DateTime:2019-11-06 15:58:34 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:58:34 周三 Message:type: 1000
-DateTime:2019-11-06 15:58:37 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:58:37 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:58:37 周三 Message:"设备断开连接,socket号：2476 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:58:37 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:58:39 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:58:56 周三 Message:new connection
-DateTime:2019-11-06 15:58:56 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:58:56 周三 Message:type: 1000
-DateTime:2019-11-06 15:58:56 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:58:56 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:58:58 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:58:58 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:58:58 周三 Message:"设备断开连接,socket号：2508 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:58:58 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:59:13 周三 Message:new connection
-DateTime:2019-11-06 15:59:13 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:59:13 周三 Message:type: 1000
-DateTime:2019-11-06 15:59:14 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:59:14 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:59:15 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:59:15 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:59:15 周三 Message:"设备断开连接,socket号：2452 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:59:15 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:59:30 周三 Message:new connection
-DateTime:2019-11-06 15:59:30 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:59:30 周三 Message:type: 1000
-DateTime:2019-11-06 15:59:33 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:59:33 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:59:33 周三 Message:"设备断开连接,socket号：2420 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:59:33 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 15:59:35 周三 Message:into sendOver 4
+DateTime:2019-11-06 15:59:52 周三 Message:new connection
+DateTime:2019-11-06 15:59:52 周三 Message:sock count after add: 2
+DateTime:2019-11-06 15:59:52 周三 Message:type: 1000
+DateTime:2019-11-06 15:59:54 周三 Message:mysocket count:  1
+DateTime:2019-11-06 15:59:54 周三 Message:analysis count:  1
+DateTime:2019-11-06 15:59:54 周三 Message:"设备断开连接,socket号：2488 SN: 276e07775db5d817"
+DateTime:2019-11-06 15:59:54 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 15:59:58 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:00:15 周三 Message:new connection
+DateTime:2019-11-06 16:00:15 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:00:15 周三 Message:type: 1000
+DateTime:2019-11-06 16:00:16 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:00:16 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:00:17 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:00:17 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:00:17 周三 Message:"设备断开连接,socket号：2476 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:00:17 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:00:33 周三 Message:new connection
+DateTime:2019-11-06 16:00:33 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:00:33 周三 Message:type: 1000
+DateTime:2019-11-06 16:00:34 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:00:34 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:00:35 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:00:35 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:00:35 周三 Message:"设备断开连接,socket号：2528 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:00:35 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:00:51 周三 Message:new connection
+DateTime:2019-11-06 16:00:51 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:00:51 周三 Message:type: 1000
+DateTime:2019-11-06 16:00:52 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:00:52 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:00:53 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:00:53 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:00:53 周三 Message:"设备断开连接,socket号：2496 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:00:53 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:01:08 周三 Message:new connection
+DateTime:2019-11-06 16:01:08 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:01:08 周三 Message:type: 1000
+DateTime:2019-11-06 16:01:09 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:01:09 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:01:11 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:01:11 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:01:11 周三 Message:"设备断开连接,socket号：2524 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:01:11 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:01:26 周三 Message:new connection
+DateTime:2019-11-06 16:01:26 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:01:26 周三 Message:type: 1000
+DateTime:2019-11-06 16:01:28 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:01:28 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:01:28 周三 Message:"设备断开连接,socket号：2548 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:01:28 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:01:49 周三 Message:new connection
+DateTime:2019-11-06 16:01:49 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:01:49 周三 Message:type: 1000
+DateTime:2019-11-06 16:01:54 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:01:54 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:01:55 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:01:55 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:01:55 周三 Message:"设备断开连接,socket号：2532 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:01:55 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:02:12 周三 Message:new connection
+DateTime:2019-11-06 16:02:12 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:02:12 周三 Message:type: 1000
+DateTime:2019-11-06 16:02:13 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:02:13 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:02:13 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:02:13 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:02:13 周三 Message:"设备断开连接,socket号：2452 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:02:13 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:02:30 周三 Message:new connection
+DateTime:2019-11-06 16:02:30 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:02:30 周三 Message:type: 1000
+DateTime:2019-11-06 16:02:32 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:02:32 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:02:32 周三 Message:"设备断开连接,socket号：2440 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:02:32 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:02:33 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:02:49 周三 Message:new connection
+DateTime:2019-11-06 16:02:49 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:02:49 周三 Message:type: 1000
+DateTime:2019-11-06 16:02:50 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:02:50 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:02:52 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:02:52 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:02:52 周三 Message:"设备断开连接,socket号：2452 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:02:52 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:03:07 周三 Message:new connection
+DateTime:2019-11-06 16:03:07 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:03:07 周三 Message:type: 1000
+DateTime:2019-11-06 16:03:07 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:03:07 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:03:09 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:03:09 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:03:09 周三 Message:"设备断开连接,socket号：2516 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:03:09 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:03:24 周三 Message:new connection
+DateTime:2019-11-06 16:03:24 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:03:24 周三 Message:type: 1000
+DateTime:2019-11-06 16:03:25 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:03:25 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:03:26 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:03:26 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:03:26 周三 Message:"设备断开连接,socket号：2404 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:03:26 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:03:43 周三 Message:new connection
+DateTime:2019-11-06 16:03:43 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:03:43 周三 Message:type: 1000
+DateTime:2019-11-06 16:03:43 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:03:43 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:03:51 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:03:51 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:03:51 周三 Message:"设备断开连接,socket号：2520 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:03:51 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:04:00 周三 Message:new connection
+DateTime:2019-11-06 16:04:00 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:04:00 周三 Message:type: 1000
+DateTime:2019-11-06 16:04:01 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:04:01 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:04:02 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:04:02 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:04:02 周三 Message:"设备断开连接,socket号：2576 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:04:02 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:04:17 周三 Message:new connection
+DateTime:2019-11-06 16:04:17 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:04:17 周三 Message:type: 1000
+DateTime:2019-11-06 16:04:18 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:04:18 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:04:20 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:04:20 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:04:20 周三 Message:"设备断开连接,socket号：2500 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:04:20 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:04:35 周三 Message:new connection
+DateTime:2019-11-06 16:04:35 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:04:35 周三 Message:type: 1000
+DateTime:2019-11-06 16:04:35 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:04:35 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:04:37 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:04:37 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:04:37 周三 Message:"设备断开连接,socket号：2404 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:04:37 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:04:52 周三 Message:new connection
+DateTime:2019-11-06 16:04:52 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:04:52 周三 Message:type: 1000
+DateTime:2019-11-06 16:04:53 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:04:53 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:04:54 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:04:54 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:04:54 周三 Message:"设备断开连接,socket号：948 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:04:54 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:05:11 周三 Message:new connection
+DateTime:2019-11-06 16:05:11 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:05:11 周三 Message:type: 1000
+DateTime:2019-11-06 16:05:11 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:05:11 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:05:13 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:05:13 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:05:13 周三 Message:"设备断开连接,socket号：2588 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:05:13 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:05:28 周三 Message:new connection
+DateTime:2019-11-06 16:05:28 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:05:28 周三 Message:type: 1000
+DateTime:2019-11-06 16:05:29 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:05:29 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:05:30 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:05:30 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:05:30 周三 Message:"设备断开连接,socket号：2592 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:05:30 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:05:45 周三 Message:new connection
+DateTime:2019-11-06 16:05:45 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:05:45 周三 Message:type: 1000
+DateTime:2019-11-06 16:05:46 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:05:46 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:05:48 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:05:48 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:05:48 周三 Message:"设备断开连接,socket号：2584 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:05:48 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:06:03 周三 Message:new connection
+DateTime:2019-11-06 16:06:03 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:06:03 周三 Message:type: 1000
+DateTime:2019-11-06 16:06:05 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:06:05 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:06:05 周三 Message:"设备断开连接,socket号：2452 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:06:05 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:06:07 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:06:25 周三 Message:new connection
+DateTime:2019-11-06 16:06:25 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:06:25 周三 Message:type: 1000
+DateTime:2019-11-06 16:06:26 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:06:26 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:06:27 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:06:27 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:06:27 周三 Message:"设备断开连接,socket号：2608 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:06:27 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:06:43 周三 Message:new connection
+DateTime:2019-11-06 16:06:43 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:06:44 周三 Message:type: 1000
+DateTime:2019-11-06 16:06:54 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:06:54 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:06:54 周三 Message:"设备断开连接,socket号：2584 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:06:54 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:07:15 周三 Message:mysocket count:  0
+DateTime:2019-11-06 16:07:15 周三 Message:analysis count:  0
+DateTime:2019-11-06 16:07:15 周三 Message:"设备断开连接,socket号：2520 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:07:15 周三 Message:tcpserver thread count:  0
+DateTime:2019-11-06 16:07:26 周三 Message:new connection
+DateTime:2019-11-06 16:07:26 周三 Message:sock count after add: 1
+DateTime:2019-11-06 16:07:27 周三 Message:type: 1000
+DateTime:2019-11-06 16:07:31 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:07:51 周三 Message:mysocket count:  0
+DateTime:2019-11-06 16:07:51 周三 Message:analysis count:  0
+DateTime:2019-11-06 16:07:51 周三 Message:"设备断开连接,socket号：2520 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:07:51 周三 Message:tcpserver thread count:  0
+DateTime:2019-11-06 16:07:51 周三 Message:new connection
+DateTime:2019-11-06 16:07:51 周三 Message:sock count after add: 1
+DateTime:2019-11-06 16:07:51 周三 Message:type: 1000
+DateTime:2019-11-06 16:07:52 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:08:08 周三 Message:new connection
+DateTime:2019-11-06 16:08:08 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:08:08 周三 Message:type: 1000
+DateTime:2019-11-06 16:08:09 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:08:09 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:08:11 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:08:11 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:08:11 周三 Message:"设备断开连接,socket号：2600 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:08:11 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:08:26 周三 Message:new connection
+DateTime:2019-11-06 16:08:26 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:08:26 周三 Message:type: 1000
+DateTime:2019-11-06 16:08:26 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:08:26 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:08:28 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:08:28 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:08:28 周三 Message:"设备断开连接,socket号：2588 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:08:28 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:08:43 周三 Message:new connection
+DateTime:2019-11-06 16:08:43 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:08:43 周三 Message:type: 1000
+DateTime:2019-11-06 16:08:44 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:08:44 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:08:45 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:08:45 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:08:45 周三 Message:"设备断开连接,socket号：2552 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:08:45 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:09:00 周三 Message:new connection
+DateTime:2019-11-06 16:09:00 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:09:00 周三 Message:type: 1000
+DateTime:2019-11-06 16:09:01 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:09:01 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:09:03 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:09:03 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:09:03 周三 Message:"设备断开连接,socket号：2588 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:09:03 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:09:18 周三 Message:new connection
+DateTime:2019-11-06 16:09:18 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:09:18 周三 Message:type: 1000
+DateTime:2019-11-06 16:09:19 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:09:19 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:09:20 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:09:20 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:09:20 周三 Message:"设备断开连接,socket号：2624 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:09:20 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:09:36 周三 Message:new connection
+DateTime:2019-11-06 16:09:36 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:09:36 周三 Message:type: 1000
+DateTime:2019-11-06 16:09:37 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:09:38 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:09:38 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:09:38 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:09:38 周三 Message:"设备断开连接,socket号：2596 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:09:38 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:09:54 周三 Message:new connection
+DateTime:2019-11-06 16:09:54 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:09:54 周三 Message:type: 1000
+DateTime:2019-11-06 16:09:55 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:09:55 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:09:57 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:09:57 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:09:57 周三 Message:"设备断开连接,socket号：2352 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:09:57 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:10:11 周三 Message:new connection
+DateTime:2019-11-06 16:10:11 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:10:12 周三 Message:type: 1000
+DateTime:2019-11-06 16:10:12 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:10:12 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:10:14 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:10:14 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:10:14 周三 Message:"设备断开连接,socket号：2492 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:10:14 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:10:29 周三 Message:new connection
+DateTime:2019-11-06 16:10:29 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:10:29 周三 Message:type: 1000
+DateTime:2019-11-06 16:10:30 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:10:30 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:10:31 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:10:31 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:10:31 周三 Message:"设备断开连接,socket号：2476 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:10:31 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:10:46 周三 Message:new connection
+DateTime:2019-11-06 16:10:46 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:10:46 周三 Message:type: 1000
+DateTime:2019-11-06 16:10:47 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:10:47 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:10:49 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:10:49 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:10:49 周三 Message:"设备断开连接,socket号：2544 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:10:49 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:11:04 周三 Message:new connection
+DateTime:2019-11-06 16:11:04 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:11:04 周三 Message:type: 1000
+DateTime:2019-11-06 16:11:06 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:11:06 周三 Message:QAbstractSocket::waitForBytesWritten() is not allowed in UnconnectedState
+DateTime:2019-11-06 16:11:06 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:11:06 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:11:06 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:11:06 周三 Message:"设备断开连接,socket号：2640 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:11:06 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:11:25 周三 Message:new connection
+DateTime:2019-11-06 16:11:25 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:11:25 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:11:25 周三 Message:into sendOver 0
+DateTime:2019-11-06 16:11:25 周三 Message:QAbstractSocket::waitForBytesWritten() is not allowed in UnconnectedState
+DateTime:2019-11-06 16:11:25 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:11:25 周三 Message:type: 1000
+DateTime:2019-11-06 16:11:25 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:11:25 周三 Message:"设备断开连接,socket号：2568 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:11:25 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:11:43 周三 Message:new connection
+DateTime:2019-11-06 16:11:43 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:11:43 周三 Message:type: 1000
+DateTime:2019-11-06 16:11:44 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:11:44 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:11:44 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:11:44 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:11:44 周三 Message:"设备断开连接,socket号：2596 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:11:44 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:12:00 周三 Message:new connection
+DateTime:2019-11-06 16:12:00 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:12:00 周三 Message:type: 1000
+DateTime:2019-11-06 16:12:01 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:12:01 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:12:03 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:12:03 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:12:03 周三 Message:"设备断开连接,socket号：2516 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:12:03 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:12:18 周三 Message:new connection
+DateTime:2019-11-06 16:12:18 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:12:18 周三 Message:type: 1000
+DateTime:2019-11-06 16:12:19 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:12:20 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:12:20 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:12:20 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:12:20 周三 Message:"设备断开连接,socket号：2596 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:12:20 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:12:36 周三 Message:new connection
+DateTime:2019-11-06 16:12:36 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:12:36 周三 Message:type: 1000
+DateTime:2019-11-06 16:12:37 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:12:37 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:12:38 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:12:38 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:12:38 周三 Message:"设备断开连接,socket号：2676 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:12:38 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:12:54 周三 Message:new connection
+DateTime:2019-11-06 16:12:54 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:12:54 周三 Message:type: 1000
+DateTime:2019-11-06 16:12:56 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:12:56 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:12:56 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:12:56 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:12:56 周三 Message:"设备断开连接,socket号：2640 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:12:56 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:13:13 周三 Message:new connection
+DateTime:2019-11-06 16:13:13 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:13:13 周三 Message:type: 1000
+DateTime:2019-11-06 16:13:14 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:13:14 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:13:15 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:13:15 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:13:15 周三 Message:"设备断开连接,socket号：2560 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:13:15 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:13:31 周三 Message:new connection
+DateTime:2019-11-06 16:13:31 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:13:31 周三 Message:type: 1000
+DateTime:2019-11-06 16:13:31 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:13:31 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:13:33 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:13:33 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:13:33 周三 Message:"设备断开连接,socket号：2532 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:13:33 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:13:50 周三 Message:mysocket count:  0
+DateTime:2019-11-06 16:13:50 周三 Message:analysis count:  0
+DateTime:2019-11-06 16:13:50 周三 Message:"设备断开连接,socket号：2620 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:13:50 周三 Message:tcpserver thread count:  0
+DateTime:2019-11-06 16:14:08 周三 Message:new connection
+DateTime:2019-11-06 16:14:08 周三 Message:sock count after add: 1
+DateTime:2019-11-06 16:14:08 周三 Message:type: 1000
+DateTime:2019-11-06 16:14:11 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:14:32 周三 Message:new connection
+DateTime:2019-11-06 16:14:32 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:14:32 周三 Message:type: 1000
+DateTime:2019-11-06 16:14:33 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:14:33 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:14:36 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:14:36 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:14:36 周三 Message:"设备断开连接,socket号：2304 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:14:36 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:14:49 周三 Message:new connection
+DateTime:2019-11-06 16:14:49 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:14:49 周三 Message:type: 1000
+DateTime:2019-11-06 16:14:50 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:14:50 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:14:52 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:14:52 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:14:52 周三 Message:"设备断开连接,socket号：2568 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:14:52 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:15:07 周三 Message:new connection
+DateTime:2019-11-06 16:15:07 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:15:07 周三 Message:type: 1000
+DateTime:2019-11-06 16:15:07 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:15:07 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:15:09 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:15:09 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:15:09 周三 Message:"设备断开连接,socket号：2304 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:15:09 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:15:24 周三 Message:new connection
+DateTime:2019-11-06 16:15:24 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:15:25 周三 Message:type: 1000
+DateTime:2019-11-06 16:15:25 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:15:25 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:15:26 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:15:26 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:15:26 周三 Message:"设备断开连接,socket号：2568 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:15:26 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:15:42 周三 Message:new connection
+DateTime:2019-11-06 16:15:42 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:15:42 周三 Message:type: 1000
+DateTime:2019-11-06 16:15:42 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:15:42 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:15:44 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:15:44 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:15:44 周三 Message:"设备断开连接,socket号：2684 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:15:44 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:15:59 周三 Message:new connection
+DateTime:2019-11-06 16:15:59 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:15:59 周三 Message:type: 1000
+DateTime:2019-11-06 16:16:00 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:16:00 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:16:01 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:16:01 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:16:01 周三 Message:"设备断开连接,socket号：2636 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:16:01 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:16:16 周三 Message:new connection
+DateTime:2019-11-06 16:16:16 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:16:17 周三 Message:type: 1000
+DateTime:2019-11-06 16:16:17 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:16:17 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:16:19 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:16:19 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:16:19 周三 Message:"设备断开连接,socket号：2536 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:16:19 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:16:35 周三 Message:new connection
+DateTime:2019-11-06 16:16:35 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:16:35 周三 Message:type: 1000
+DateTime:2019-11-06 16:16:36 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:16:36 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:16:36 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:16:36 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:16:36 周三 Message:"设备断开连接,socket号：2620 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:16:36 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:16:52 周三 Message:new connection
+DateTime:2019-11-06 16:16:52 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:16:52 周三 Message:type: 1000
+DateTime:2019-11-06 16:16:53 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:16:53 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:16:55 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:16:55 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:16:55 周三 Message:"设备断开连接,socket号：2352 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:16:55 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:17:10 周三 Message:new connection
+DateTime:2019-11-06 16:17:10 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:17:10 周三 Message:type: 1000
+DateTime:2019-11-06 16:17:10 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:17:10 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:17:12 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:17:12 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:17:12 周三 Message:"设备断开连接,socket号：944 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:17:12 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:17:27 周三 Message:new connection
+DateTime:2019-11-06 16:17:27 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:17:27 周三 Message:type: 1000
+DateTime:2019-11-06 16:17:28 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:17:28 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:17:29 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:17:29 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:17:29 周三 Message:"设备断开连接,socket号：2608 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:17:29 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:17:44 周三 Message:new connection
+DateTime:2019-11-06 16:17:44 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:17:44 周三 Message:type: 1000
+DateTime:2019-11-06 16:17:45 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:17:45 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:17:47 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:17:47 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:17:47 周三 Message:"设备断开连接,socket号：944 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:17:47 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:18:02 周三 Message:new connection
+DateTime:2019-11-06 16:18:02 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:18:02 周三 Message:type: 1000
+DateTime:2019-11-06 16:18:02 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:18:02 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:18:04 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:18:04 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:18:04 周三 Message:"设备断开连接,socket号：2632 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:18:04 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:18:19 周三 Message:new connection
+DateTime:2019-11-06 16:18:19 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:18:19 周三 Message:type: 1000
+DateTime:2019-11-06 16:18:20 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:18:20 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:18:21 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:18:21 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:18:21 周三 Message:"设备断开连接,socket号：2700 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:18:21 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:18:36 周三 Message:new connection
+DateTime:2019-11-06 16:18:36 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:18:36 周三 Message:type: 1000
+DateTime:2019-11-06 16:18:37 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:18:37 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:18:39 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:18:39 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:18:39 周三 Message:"设备断开连接,socket号：2504 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:18:39 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:18:54 周三 Message:new connection
+DateTime:2019-11-06 16:18:54 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:18:54 周三 Message:type: 1000
+DateTime:2019-11-06 16:18:54 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:18:54 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:18:56 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:18:56 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:18:56 周三 Message:"设备断开连接,socket号：2292 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:18:56 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:19:11 周三 Message:new connection
+DateTime:2019-11-06 16:19:11 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:19:11 周三 Message:type: 1000
+DateTime:2019-11-06 16:19:13 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:19:13 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:19:13 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:19:13 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:19:13 周三 Message:"设备断开连接,socket号：2692 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:19:13 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:19:31 周三 Message:new connection
+DateTime:2019-11-06 16:19:31 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:19:31 周三 Message:type: 1000
+DateTime:2019-11-06 16:19:33 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:19:33 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:19:33 周三 Message:"设备断开连接,socket号：2720 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:19:33 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:19:33 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:19:52 周三 Message:mysocket count:  0
+DateTime:2019-11-06 16:19:52 周三 Message:analysis count:  0
+DateTime:2019-11-06 16:19:52 周三 Message:"设备断开连接,socket号：2692 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:19:52 周三 Message:tcpserver thread count:  0
+DateTime:2019-11-06 16:20:07 周三 Message:new connection
+DateTime:2019-11-06 16:20:07 周三 Message:sock count after add: 1
+DateTime:2019-11-06 16:20:07 周三 Message:type: 1000
+DateTime:2019-11-06 16:20:11 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:20:32 周三 Message:new connection
+DateTime:2019-11-06 16:20:32 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:20:32 周三 Message:type: 1000
+DateTime:2019-11-06 16:20:33 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:20:33 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:20:36 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:20:36 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:20:36 周三 Message:"设备断开连接,socket号：2700 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:20:36 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:20:49 周三 Message:new connection
+DateTime:2019-11-06 16:20:49 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:20:50 周三 Message:type: 1000
+DateTime:2019-11-06 16:20:51 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:20:51 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:20:52 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:20:52 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:20:52 周三 Message:"设备断开连接,socket号：944 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:20:52 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:21:08 周三 Message:new connection
+DateTime:2019-11-06 16:21:08 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:21:08 周三 Message:type: 1000
+DateTime:2019-11-06 16:21:09 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:21:09 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:21:10 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:21:10 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:21:10 周三 Message:"设备断开连接,socket号：2728 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:21:10 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:21:25 周三 Message:new connection
+DateTime:2019-11-06 16:21:25 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:21:25 周三 Message:type: 1000
+DateTime:2019-11-06 16:21:26 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:21:26 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:21:37 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:21:37 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:21:37 周三 Message:"设备断开连接,socket号：2748 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:21:37 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:21:43 周三 Message:new connection
+DateTime:2019-11-06 16:21:43 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:21:43 周三 Message:type: 1000
+DateTime:2019-11-06 16:21:43 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:21:43 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:21:45 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:21:45 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:21:45 周三 Message:"设备断开连接,socket号：2744 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:21:45 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:22:00 周三 Message:new connection
+DateTime:2019-11-06 16:22:00 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:22:00 周三 Message:type: 1000
+DateTime:2019-11-06 16:22:01 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:22:01 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:22:02 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:22:02 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:22:02 周三 Message:"设备断开连接,socket号：2692 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:22:02 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:22:17 周三 Message:new connection
+DateTime:2019-11-06 16:22:17 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:22:18 周三 Message:type: 1000
+DateTime:2019-11-06 16:22:18 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:22:18 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:22:20 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:22:20 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:22:20 周三 Message:"设备断开连接,socket号：2764 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:22:20 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:22:35 周三 Message:new connection
+DateTime:2019-11-06 16:22:35 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:22:35 周三 Message:type: 1000
+DateTime:2019-11-06 16:22:37 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:22:37 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:22:37 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:22:37 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:22:37 周三 Message:"设备断开连接,socket号：2740 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:22:37 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:22:54 周三 Message:new connection
+DateTime:2019-11-06 16:22:54 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:22:55 周三 Message:type: 1000
+DateTime:2019-11-06 16:22:55 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:22:55 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:22:56 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:22:56 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:22:56 周三 Message:"设备断开连接,socket号：2692 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:22:56 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:23:13 周三 Message:new connection
+DateTime:2019-11-06 16:23:13 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:23:13 周三 Message:type: 1000
+DateTime:2019-11-06 16:23:13 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:23:14 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:23:19 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:23:19 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:23:19 周三 Message:"设备断开连接,socket号：2796 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:23:19 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:23:30 周三 Message:new connection
+DateTime:2019-11-06 16:23:30 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:23:30 周三 Message:type: 1000
+DateTime:2019-11-06 16:23:31 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:23:31 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:23:32 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:23:32 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:23:32 周三 Message:"设备断开连接,socket号：2492 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:23:32 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:23:47 周三 Message:new connection
+DateTime:2019-11-06 16:23:47 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:23:47 周三 Message:type: 1000
+DateTime:2019-11-06 16:23:48 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:23:48 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:23:50 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:23:50 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:23:50 周三 Message:"设备断开连接,socket号：2792 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:23:50 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:24:06 周三 Message:new connection
+DateTime:2019-11-06 16:24:06 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:24:06 周三 Message:type: 1000
+DateTime:2019-11-06 16:24:06 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:24:06 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:24:07 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:24:07 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:24:07 周三 Message:"设备断开连接,socket号：2744 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:24:07 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:24:23 周三 Message:new connection
+DateTime:2019-11-06 16:24:23 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:24:23 周三 Message:type: 1000
+DateTime:2019-11-06 16:24:24 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:24:24 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:24:25 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:24:25 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:24:25 周三 Message:"设备断开连接,socket号：2692 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:24:25 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:24:40 周三 Message:new connection
+DateTime:2019-11-06 16:24:40 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:24:41 周三 Message:type: 1000
+DateTime:2019-11-06 16:24:41 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:24:41 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:24:43 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:24:43 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:24:43 周三 Message:"设备断开连接,socket号：2492 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:24:43 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:24:58 周三 Message:new connection
+DateTime:2019-11-06 16:24:58 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:24:58 周三 Message:type: 1000
+DateTime:2019-11-06 16:24:58 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:24:59 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:25:00 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:25:00 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:25:00 周三 Message:"设备断开连接,socket号：2796 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:25:00 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:25:15 周三 Message:new connection
+DateTime:2019-11-06 16:25:15 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:25:16 周三 Message:type: 1000
+DateTime:2019-11-06 16:25:16 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:25:16 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:25:17 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:25:17 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:25:17 周三 Message:"设备断开连接,socket号：2780 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:25:18 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:25:33 周三 Message:new connection
+DateTime:2019-11-06 16:25:33 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:25:33 周三 Message:type: 1000
+DateTime:2019-11-06 16:25:34 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:25:34 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:25:35 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:25:35 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:25:35 周三 Message:"设备断开连接,socket号：2728 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:25:35 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:25:50 周三 Message:new connection
+DateTime:2019-11-06 16:25:50 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:25:50 周三 Message:type: 1000
+DateTime:2019-11-06 16:25:51 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:25:51 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:25:53 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:25:53 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:25:53 周三 Message:"设备断开连接,socket号：2788 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:25:53 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:26:07 周三 Message:new connection
+DateTime:2019-11-06 16:26:07 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:26:08 周三 Message:type: 1000
+DateTime:2019-11-06 16:26:08 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:26:08 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:26:10 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:26:10 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:26:10 周三 Message:"设备断开连接,socket号：2792 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:26:10 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:26:25 周三 Message:new connection
+DateTime:2019-11-06 16:26:25 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:26:25 周三 Message:type: 1000
+DateTime:2019-11-06 16:26:26 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:26:26 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:26:27 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:26:27 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:26:27 周三 Message:"设备断开连接,socket号：2448 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:26:27 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:26:45 周三 Message:mysocket count:  0
+DateTime:2019-11-06 16:26:45 周三 Message:analysis count:  0
+DateTime:2019-11-06 16:26:45 周三 Message:"设备断开连接,socket号：2728 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:26:45 周三 Message:tcpserver thread count:  0
+DateTime:2019-11-06 16:27:00 周三 Message:new connection
+DateTime:2019-11-06 16:27:00 周三 Message:sock count after add: 1
+DateTime:2019-11-06 16:27:00 周三 Message:type: 1000
+DateTime:2019-11-06 16:27:03 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:27:24 周三 Message:new connection
+DateTime:2019-11-06 16:27:24 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:27:24 周三 Message:type: 1000
+DateTime:2019-11-06 16:27:25 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:27:25 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:27:28 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:27:28 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:27:28 周三 Message:"设备断开连接,socket号：2384 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:27:28 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:27:41 周三 Message:new connection
+DateTime:2019-11-06 16:27:41 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:27:41 周三 Message:type: 1000
+DateTime:2019-11-06 16:27:42 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:27:42 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:27:44 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:27:44 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:27:44 周三 Message:"设备断开连接,socket号：2828 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:27:44 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:28:01 周三 Message:mysocket count:  0
+DateTime:2019-11-06 16:28:01 周三 Message:analysis count:  0
+DateTime:2019-11-06 16:28:01 周三 Message:"设备断开连接,socket号：2732 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:28:01 周三 Message:tcpserver thread count:  0
+DateTime:2019-11-06 16:28:09 周三 Message:new connection
+DateTime:2019-11-06 16:28:09 周三 Message:sock count after add: 1
+DateTime:2019-11-06 16:28:09 周三 Message:type: 1000
+DateTime:2019-11-06 16:28:09 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:28:26 周三 Message:new connection
+DateTime:2019-11-06 16:28:26 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:28:26 周三 Message:type: 1000
+DateTime:2019-11-06 16:28:27 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:28:27 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:28:28 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:28:28 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:28:28 周三 Message:"设备断开连接,socket号：2732 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:28:28 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:28:43 周三 Message:new connection
+DateTime:2019-11-06 16:28:43 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:28:43 周三 Message:type: 1000
+DateTime:2019-11-06 16:28:44 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:28:44 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:28:46 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:28:46 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:28:46 周三 Message:"设备断开连接,socket号：2464 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:28:46 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:29:01 周三 Message:new connection
+DateTime:2019-11-06 16:29:01 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:29:01 周三 Message:type: 1000
+DateTime:2019-11-06 16:29:01 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:29:01 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:29:03 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:29:03 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:29:03 周三 Message:"设备断开连接,socket号：2804 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:29:03 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:29:18 周三 Message:new connection
+DateTime:2019-11-06 16:29:18 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:29:18 周三 Message:type: 1000
+DateTime:2019-11-06 16:29:19 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:29:19 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:29:20 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:29:20 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:29:20 周三 Message:"设备断开连接,socket号：2708 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:29:20 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:29:35 周三 Message:new connection
+DateTime:2019-11-06 16:29:35 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:29:35 周三 Message:type: 1000
+DateTime:2019-11-06 16:29:36 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:29:36 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:29:38 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:29:38 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:29:38 周三 Message:"设备断开连接,socket号：2808 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:29:38 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:29:53 周三 Message:new connection
+DateTime:2019-11-06 16:29:53 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:29:53 周三 Message:type: 1000
+DateTime:2019-11-06 16:29:54 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:29:54 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:29:55 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:29:55 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:29:55 周三 Message:"设备断开连接,socket号：2708 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:29:55 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:30:10 周三 Message:new connection
+DateTime:2019-11-06 16:30:10 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:30:10 周三 Message:type: 1000
+DateTime:2019-11-06 16:30:11 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:30:11 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:30:13 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:30:13 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:30:13 周三 Message:"设备断开连接,socket号：2820 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:30:13 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:30:27 周三 Message:new connection
+DateTime:2019-11-06 16:30:27 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:30:28 周三 Message:type: 1000
+DateTime:2019-11-06 16:30:28 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:30:28 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:30:30 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:30:30 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:30:30 周三 Message:"设备断开连接,socket号：2844 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:30:30 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:30:45 周三 Message:new connection
+DateTime:2019-11-06 16:30:45 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:30:45 周三 Message:type: 1000
+DateTime:2019-11-06 16:30:46 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:30:46 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:30:47 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:30:47 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:30:47 周三 Message:"设备断开连接,socket号：2868 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:30:47 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:31:02 周三 Message:new connection
+DateTime:2019-11-06 16:31:02 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:31:02 周三 Message:type: 1000
+DateTime:2019-11-06 16:31:03 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:31:03 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:31:05 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:31:05 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:31:05 周三 Message:"设备断开连接,socket号：2384 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:31:05 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:31:20 周三 Message:new connection
+DateTime:2019-11-06 16:31:20 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:31:20 周三 Message:type: 1000
+DateTime:2019-11-06 16:31:20 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:31:20 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:31:22 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:31:22 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:31:22 周三 Message:"设备断开连接,socket号：2828 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:31:22 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:31:37 周三 Message:new connection
+DateTime:2019-11-06 16:31:37 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:31:37 周三 Message:type: 1000
+DateTime:2019-11-06 16:31:38 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:31:38 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:31:39 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:31:39 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:31:39 周三 Message:"设备断开连接,socket号：2292 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:31:39 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:31:57 周三 Message:mysocket count:  0
+DateTime:2019-11-06 16:31:57 周三 Message:analysis count:  0
+DateTime:2019-11-06 16:31:57 周三 Message:"设备断开连接,socket号：2404 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:31:57 周三 Message:tcpserver thread count:  0
+DateTime:2019-11-06 16:32:12 周三 Message:new connection
+DateTime:2019-11-06 16:32:12 周三 Message:sock count after add: 1
+DateTime:2019-11-06 16:32:12 周三 Message:type: 1000
+DateTime:2019-11-06 16:32:15 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:32:36 周三 Message:new connection
+DateTime:2019-11-06 16:32:36 周三 Message:sock count after add: 2
+DateTime:2019-11-06 16:32:36 周三 Message:type: 1000
+DateTime:2019-11-06 16:32:37 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:32:37 周三 Message:into sendOver 4
+DateTime:2019-11-06 16:32:41 周三 Message:mysocket count:  1
+DateTime:2019-11-06 16:32:41 周三 Message:analysis count:  1
+DateTime:2019-11-06 16:32:41 周三 Message:"设备断开连接,socket号：2872 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:32:41 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 16:32:56 周三 Message:mysocket count:  0
+DateTime:2019-11-06 16:32:56 周三 Message:analysis count:  0
+DateTime:2019-11-06 16:32:56 周三 Message:"设备断开连接,socket号：2884 SN: 276e07775db5d817"
+DateTime:2019-11-06 16:32:56 周三 Message:tcpserver thread count:  0
+DateTime:2019-11-06 17:01:09 周三 Message:new connection
+DateTime:2019-11-06 17:01:09 周三 Message:sock count after add: 1
+DateTime:2019-11-06 17:01:09 周三 Message:type: 1000
+DateTime:2019-11-06 17:01:09 周三 Message:guid is: "{2d6f3a98-b529-4e7d-914d-81501c68d121}"
+DateTime:2019-11-06 17:01:13 周三 Message:into sendOver 4
+DateTime:2019-11-06 17:01:34 周三 Message:new connection
+DateTime:2019-11-06 17:01:34 周三 Message:sock count after add: 2
+DateTime:2019-11-06 17:01:34 周三 Message:type: 1000
+DateTime:2019-11-06 17:01:34 周三 Message:into sendOver 4
+DateTime:2019-11-06 17:01:34 周三 Message:into sendOver 4
+DateTime:2019-11-06 17:01:38 周三 Message:mysocket count:  1
+DateTime:2019-11-06 17:01:38 周三 Message:analysis count:  1
+DateTime:2019-11-06 17:01:38 周三 Message:"设备断开连接,socket号：2872 SN: 279e437749b9f011"
+DateTime:2019-11-06 17:01:38 周三 Message:tcpserver thread count:  1
+DateTime:2019-11-06 17:01:53 周三 Message:mysocket count:  0
+DateTime:2019-11-06 17:01:53 周三 Message:analysis count:  0
+DateTime:2019-11-06 17:01:53 周三 Message:"设备断开连接,socket号：2916 SN: 279e437749b9f011"
+DateTime:2019-11-06 17:01:53 周三 Message:tcpserver thread count:  0
+DateTime:2019-11-06 18:26:20 周三 Message:back remain counts:  0 0 0
+DateTime:2019-11-06 18:26:20 周三 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-07 13:14:17 周四 Message:back remain counts:  0 0 0
+DateTime:2019-11-07 13:14:17 周四 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-07 13:15:29 周四 Message:new connection
+DateTime:2019-11-07 13:15:29 周四 Message:sock count after add: 1
+DateTime:2019-11-07 13:15:29 周四 Message:type: 1000
+DateTime:2019-11-07 13:15:29 周四 Message:guid is: "{1c356bbd-dc6e-4bc6-87c5-44b4e7e58e4c}"
+DateTime:2019-11-07 13:15:33 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:15:55 周四 Message:new connection
+DateTime:2019-11-07 13:15:55 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:15:55 周四 Message:type: 1000
+DateTime:2019-11-07 13:15:55 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:15:55 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:15:58 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:15:58 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:15:58 周四 Message:"设备断开连接,socket号：1300 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:15:58 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:16:13 周四 Message:new connection
+DateTime:2019-11-07 13:16:13 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:16:13 周四 Message:type: 1000
+DateTime:2019-11-07 13:16:14 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:16:14 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:16:14 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:16:14 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:16:14 周四 Message:"设备断开连接,socket号：1972 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:16:14 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:16:29 周四 Message:new connection
+DateTime:2019-11-07 13:16:29 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:16:29 周四 Message:type: 1000
+DateTime:2019-11-07 13:16:30 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:16:30 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:16:33 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:16:33 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:16:33 周四 Message:"设备断开连接,socket号：1300 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:16:33 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:16:49 周四 Message:new connection
+DateTime:2019-11-07 13:16:49 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:16:49 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:16:49 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:16:49 周四 Message:"设备断开连接,socket号：1108 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:16:49 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:16:49 周四 Message:type: 1000
+DateTime:2019-11-07 13:17:10 周四 Message:mysocket count:  0
+DateTime:2019-11-07 13:17:10 周四 Message:analysis count:  0
+DateTime:2019-11-07 13:17:10 周四 Message:"设备断开连接,socket号：2288 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:17:10 周四 Message:tcpserver thread count:  0
+DateTime:2019-11-07 13:17:10 周四 Message:new connection
+DateTime:2019-11-07 13:17:10 周四 Message:sock count after add: 1
+DateTime:2019-11-07 13:17:10 周四 Message:type: 1000
+DateTime:2019-11-07 13:17:11 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:17:29 周四 Message:new connection
+DateTime:2019-11-07 13:17:29 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:17:29 周四 Message:type: 1000
+DateTime:2019-11-07 13:17:30 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:17:30 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:17:30 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:17:30 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:17:30 周四 Message:"设备断开连接,socket号：2236 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:17:30 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:17:47 周四 Message:new connection
+DateTime:2019-11-07 13:17:47 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:17:47 周四 Message:type: 1000
+DateTime:2019-11-07 13:17:48 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:17:48 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:17:49 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:17:49 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:17:49 周四 Message:"设备断开连接,socket号：2336 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:17:49 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:18:04 周四 Message:new connection
+DateTime:2019-11-07 13:18:04 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:18:04 周四 Message:type: 1000
+DateTime:2019-11-07 13:18:05 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:18:05 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:18:07 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:18:07 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:18:07 周四 Message:"设备断开连接,socket号：2236 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:18:07 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:18:23 周四 Message:new connection
+DateTime:2019-11-07 13:18:23 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:18:23 周四 Message:type: 1000
+DateTime:2019-11-07 13:18:23 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:18:23 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:18:24 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:18:24 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:18:24 周四 Message:"设备断开连接,socket号：2272 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:18:24 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:18:39 周四 Message:new connection
+DateTime:2019-11-07 13:18:39 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:18:39 周四 Message:type: 1000
+DateTime:2019-11-07 13:18:40 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:18:40 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:18:43 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:18:43 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:18:43 周四 Message:"设备断开连接,socket号：2336 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:18:43 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:18:57 周四 Message:new connection
+DateTime:2019-11-07 13:18:57 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:18:58 周四 Message:type: 1000
+DateTime:2019-11-07 13:18:58 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:18:58 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:18:59 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:18:59 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:18:59 周四 Message:"设备断开连接,socket号：2284 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:18:59 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:19:14 周四 Message:new connection
+DateTime:2019-11-07 13:19:14 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:19:14 周四 Message:type: 1000
+DateTime:2019-11-07 13:19:14 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:19:15 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:19:17 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:19:17 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:19:17 周四 Message:"设备断开连接,socket号：2268 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:19:17 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:19:32 周四 Message:new connection
+DateTime:2019-11-07 13:19:32 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:19:32 周四 Message:type: 1000
+DateTime:2019-11-07 13:19:33 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:19:33 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:19:34 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:19:34 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:19:34 周四 Message:"设备断开连接,socket号：2272 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:19:34 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:19:51 周四 Message:new connection
+DateTime:2019-11-07 13:19:51 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:19:51 周四 Message:type: 1000
+DateTime:2019-11-07 13:19:51 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:19:51 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:19:52 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:19:52 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:19:52 周四 Message:"设备断开连接,socket号：2416 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:19:52 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:20:09 周四 Message:new connection
+DateTime:2019-11-07 13:20:09 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:20:09 周四 Message:type: 1000
+DateTime:2019-11-07 13:20:10 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:20:10 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:20:10 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:20:10 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:20:10 周四 Message:"设备断开连接,socket号：2412 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:20:10 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:20:27 周四 Message:new connection
+DateTime:2019-11-07 13:20:27 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:20:28 周四 Message:type: 1000
+DateTime:2019-11-07 13:20:28 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:20:28 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:20:29 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:20:29 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:20:29 周四 Message:"设备断开连接,socket号：2420 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:20:29 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:20:46 周四 Message:new connection
+DateTime:2019-11-07 13:20:46 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:20:46 周四 Message:type: 1000
+DateTime:2019-11-07 13:20:46 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:20:47 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:20:47 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:20:47 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:20:47 周四 Message:"设备断开连接,socket号：2364 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:20:47 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:21:02 周四 Message:new connection
+DateTime:2019-11-07 13:21:02 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:21:02 周四 Message:type: 1000
+DateTime:2019-11-07 13:21:03 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:21:03 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:21:05 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:21:05 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:21:06 周四 Message:"设备断开连接,socket号：2400 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:21:06 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:21:18 周四 Message:new connection
+DateTime:2019-11-07 13:21:18 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:21:19 周四 Message:type: 1000
+DateTime:2019-11-07 13:21:19 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:21:19 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:21:22 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:21:22 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:21:22 周四 Message:"设备断开连接,socket号：2308 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:21:22 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:21:37 周四 Message:new connection
+DateTime:2019-11-07 13:21:37 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:21:38 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:21:38 周四 Message:type: 1000
+DateTime:2019-11-07 13:21:38 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:21:38 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:21:38 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:21:38 周四 Message:"设备断开连接,socket号：2400 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:21:38 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:21:57 周四 Message:new connection
+DateTime:2019-11-07 13:21:57 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:21:57 周四 Message:type: 1000
+DateTime:2019-11-07 13:21:59 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:21:59 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:21:59 周四 Message:"设备断开连接,socket号：2244 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:21:59 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:22:19 周四 Message:new connection
+DateTime:2019-11-07 13:22:19 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:22:19 周四 Message:type: 1000
+DateTime:2019-11-07 13:22:20 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:22:20 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:22:26 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:22:26 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:22:26 周四 Message:"设备断开连接,socket号：2272 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:22:26 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:22:38 周四 Message:new connection
+DateTime:2019-11-07 13:22:38 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:22:38 周四 Message:type: 1000
+DateTime:2019-11-07 13:22:38 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:22:38 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:22:39 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:22:39 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:22:39 周四 Message:"设备断开连接,socket号：2444 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:22:39 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:22:56 周四 Message:new connection
+DateTime:2019-11-07 13:22:56 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:22:56 周四 Message:type: 1000
+DateTime:2019-11-07 13:22:57 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:22:57 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:22:58 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:22:58 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:22:58 周四 Message:"设备断开连接,socket号：2368 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:22:58 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:23:14 周四 Message:new connection
+DateTime:2019-11-07 13:23:14 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:23:15 周四 Message:type: 1000
+DateTime:2019-11-07 13:23:15 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:23:15 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:23:16 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:23:16 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:23:16 周四 Message:"设备断开连接,socket号：2472 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:23:16 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:23:34 周四 Message:new connection
+DateTime:2019-11-07 13:23:34 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:23:34 周四 Message:type: 1000
+DateTime:2019-11-07 13:23:34 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:23:34 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:23:34 周四 Message:"设备断开连接,socket号：2500 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:23:34 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:23:35 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:23:53 周四 Message:mysocket count:  0
+DateTime:2019-11-07 13:23:53 周四 Message:analysis count:  0
+DateTime:2019-11-07 13:23:53 周四 Message:"设备断开连接,socket号：2484 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:23:53 周四 Message:tcpserver thread count:  0
+DateTime:2019-11-07 13:23:53 周四 Message:new connection
+DateTime:2019-11-07 13:23:53 周四 Message:sock count after add: 1
+DateTime:2019-11-07 13:23:53 周四 Message:type: 1000
+DateTime:2019-11-07 13:23:54 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:24:11 周四 Message:new connection
+DateTime:2019-11-07 13:24:11 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:24:12 周四 Message:type: 1000
+DateTime:2019-11-07 13:24:12 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:24:12 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:24:14 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:24:14 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:24:14 周四 Message:"设备断开连接,socket号：2284 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:24:14 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:24:30 周四 Message:new connection
+DateTime:2019-11-07 13:24:30 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:24:30 周四 Message:type: 1000
+DateTime:2019-11-07 13:24:30 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:24:31 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:24:31 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:24:31 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:24:31 周四 Message:"设备断开连接,socket号：2272 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:24:31 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:24:49 周四 Message:new connection
+DateTime:2019-11-07 13:24:49 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:24:49 周四 Message:type: 1000
+DateTime:2019-11-07 13:24:49 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:24:49 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:24:49 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:24:50 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:24:50 周四 Message:"设备断开连接,socket号：2268 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:24:50 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:25:05 周四 Message:new connection
+DateTime:2019-11-07 13:25:05 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:25:05 周四 Message:type: 1000
+DateTime:2019-11-07 13:25:06 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:25:06 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:25:14 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:25:14 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:25:14 周四 Message:"设备断开连接,socket号：2272 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:25:14 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:25:23 周四 Message:new connection
+DateTime:2019-11-07 13:25:23 周四 Message:sock count after add: 2
+DateTime:2019-11-07 13:25:24 周四 Message:type: 1000
+DateTime:2019-11-07 13:25:24 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:25:24 周四 Message:into sendOver 4
+DateTime:2019-11-07 13:25:25 周四 Message:mysocket count:  1
+DateTime:2019-11-07 13:25:25 周四 Message:analysis count:  1
+DateTime:2019-11-07 13:25:25 周四 Message:"设备断开连接,socket号：2432 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:25:25 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 13:25:43 周四 Message:mysocket count:  0
+DateTime:2019-11-07 13:25:43 周四 Message:analysis count:  0
+DateTime:2019-11-07 13:25:43 周四 Message:"设备断开连接,socket号：2448 SN: 279e437749b6f011"
+DateTime:2019-11-07 13:25:43 周四 Message:tcpserver thread count:  0
+DateTime:2019-11-07 15:12:51 周四 Message:back remain counts:  0 0 0
+DateTime:2019-11-07 15:12:51 周四 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-07 15:12:58 周四 Message:new connection
+DateTime:2019-11-07 15:12:58 周四 Message:sock count after add: 1
+DateTime:2019-11-07 15:12:58 周四 Message:type: 1000
+DateTime:2019-11-07 15:12:58 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
+DateTime:2019-11-07 15:13:21 周四 Message:new connection
+DateTime:2019-11-07 15:13:21 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:13:21 周四 Message:type: 1000
+DateTime:2019-11-07 15:13:22 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:13:22 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:13:27 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:13:27 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:13:27 周四 Message:"设备断开连接,socket号：1360 SN: 279e4377fdb30c10"
+DateTime:2019-11-07 15:13:27 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:13:37 周四 Message:new connection
+DateTime:2019-11-07 15:13:37 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:13:38 周四 Message:type: 1000
+DateTime:2019-11-07 15:13:38 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:13:38 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:13:41 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:13:41 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:13:41 周四 Message:"设备断开连接,socket号：2004 SN: 279e4377fdb30c10"
+DateTime:2019-11-07 15:13:41 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:13:54 周四 Message:new connection
+DateTime:2019-11-07 15:13:54 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:13:54 周四 Message:type: 1000
+DateTime:2019-11-07 15:13:54 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:13:54 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:13:57 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:13:57 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:13:57 周四 Message:"设备断开连接,socket号：1380 SN: 279e4377fdb30c10"
+DateTime:2019-11-07 15:13:57 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:14:12 周四 Message:new connection
+DateTime:2019-11-07 15:14:12 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:14:12 周四 Message:type: 1000
+DateTime:2019-11-07 15:14:13 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:14:13 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:14:13 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:14:13 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:14:13 周四 Message:"设备断开连接,socket号：2260 SN: 279e4377fdb30c10"
+DateTime:2019-11-07 15:14:13 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:14:30 周四 Message:new connection
+DateTime:2019-11-07 15:14:30 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:14:31 周四 Message:type: 1000
+DateTime:2019-11-07 15:14:31 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:14:31 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:14:32 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:14:32 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:14:32 周四 Message:"设备断开连接,socket号：2252 SN: 279e4377fdb30c10"
+DateTime:2019-11-07 15:14:32 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:14:50 周四 Message:new connection
+DateTime:2019-11-07 15:14:50 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:14:50 周四 Message:type: 1000
+DateTime:2019-11-07 15:14:50 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
+DateTime:2019-11-07 15:14:50 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:14:50 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:14:50 周四 Message:"设备断开连接,socket号：2000 SN: 279e4377fdb30c10"
+DateTime:2019-11-07 15:14:50 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:14:54 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:15:13 周四 Message:new connection
+DateTime:2019-11-07 15:15:13 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:15:14 周四 Message:type: 1000
+DateTime:2019-11-07 15:15:14 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:15:14 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:15:19 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:15:19 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:15:19 周四 Message:"设备断开连接,socket号：2336 SN: 276e0777e5bb2416"
+DateTime:2019-11-07 15:15:19 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:15:30 周四 Message:new connection
+DateTime:2019-11-07 15:15:30 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:15:31 周四 Message:type: 1000
+DateTime:2019-11-07 15:15:31 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:15:32 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:15:33 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:15:33 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:15:33 周四 Message:"设备断开连接,socket号：2328 SN: 276e0777e5bb2416"
+DateTime:2019-11-07 15:15:33 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:15:50 周四 Message:new connection
+DateTime:2019-11-07 15:15:50 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:15:50 周四 Message:type: 1000
+DateTime:2019-11-07 15:15:51 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:15:51 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:15:51 周四 Message:"设备断开连接,socket号：2336 SN: 276e0777e5bb2416"
+DateTime:2019-11-07 15:15:51 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:15:54 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:16:13 周四 Message:mysocket count:  0
+DateTime:2019-11-07 15:16:13 周四 Message:analysis count:  0
+DateTime:2019-11-07 15:16:13 周四 Message:"设备断开连接,socket号：2344 SN: 276e0777e5bb2416"
+DateTime:2019-11-07 15:16:13 周四 Message:tcpserver thread count:  0
+DateTime:2019-11-07 15:18:17 周四 Message:new connection
+DateTime:2019-11-07 15:18:17 周四 Message:sock count after add: 1
+DateTime:2019-11-07 15:18:18 周四 Message:type: 1000
+DateTime:2019-11-07 15:18:18 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
+DateTime:2019-11-07 15:18:21 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:18:41 周四 Message:new connection
+DateTime:2019-11-07 15:18:41 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:18:41 周四 Message:type: 1000
+DateTime:2019-11-07 15:18:41 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:18:41 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:18:46 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:18:46 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:18:46 周四 Message:"设备断开连接,socket号：2348 SN: 279e437745b20c10"
+DateTime:2019-11-07 15:18:46 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:19:00 周四 Message:mysocket count:  0
+DateTime:2019-11-07 15:19:00 周四 Message:analysis count:  0
+DateTime:2019-11-07 15:19:00 周四 Message:"设备断开连接,socket号：2316 SN: 279e437745b20c10"
+DateTime:2019-11-07 15:19:00 周四 Message:tcpserver thread count:  0
+DateTime:2019-11-07 15:19:06 周四 Message:new connection
+DateTime:2019-11-07 15:19:06 周四 Message:sock count after add: 1
+DateTime:2019-11-07 15:19:06 周四 Message:type: 1000
+DateTime:2019-11-07 15:19:06 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
+DateTime:2019-11-07 15:19:10 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:19:32 周四 Message:new connection
+DateTime:2019-11-07 15:19:32 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:19:32 周四 Message:type: 1000
+DateTime:2019-11-07 15:19:32 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:19:32 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:19:35 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:19:35 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:19:35 周四 Message:"设备断开连接,socket号：2268 SN: 276e0777e5b4d817"
+DateTime:2019-11-07 15:19:35 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:19:51 周四 Message:mysocket count:  0
+DateTime:2019-11-07 15:19:51 周四 Message:analysis count:  0
+DateTime:2019-11-07 15:19:51 周四 Message:"设备断开连接,socket号：2368 SN: 276e0777e5b4d817"
+DateTime:2019-11-07 15:19:51 周四 Message:tcpserver thread count:  0
+DateTime:2019-11-07 15:21:42 周四 Message:new connection
+DateTime:2019-11-07 15:21:42 周四 Message:sock count after add: 1
+DateTime:2019-11-07 15:21:42 周四 Message:type: 1000
+DateTime:2019-11-07 15:21:42 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
+DateTime:2019-11-07 15:21:45 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:22:07 周四 Message:new connection
+DateTime:2019-11-07 15:22:07 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:22:07 周四 Message:type: 1000
+DateTime:2019-11-07 15:22:10 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:22:10 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:22:10 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:22:10 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:22:10 周四 Message:"设备断开连接,socket号：2416 SN: 279e43776dbb0c10"
+DateTime:2019-11-07 15:22:10 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:22:27 周四 Message:new connection
+DateTime:2019-11-07 15:22:27 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:22:27 周四 Message:type: 1000
+DateTime:2019-11-07 15:22:28 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:22:28 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:22:29 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:22:29 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:22:29 周四 Message:"设备断开连接,socket号：2424 SN: 279e43776dbb0c10"
+DateTime:2019-11-07 15:22:29 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:22:47 周四 Message:mysocket count:  0
+DateTime:2019-11-07 15:22:47 周四 Message:analysis count:  0
+DateTime:2019-11-07 15:22:47 周四 Message:"设备断开连接,socket号：2420 SN: 279e43776dbb0c10"
+DateTime:2019-11-07 15:22:47 周四 Message:tcpserver thread count:  0
+DateTime:2019-11-07 15:22:58 周四 Message:new connection
+DateTime:2019-11-07 15:22:58 周四 Message:sock count after add: 1
+DateTime:2019-11-07 15:22:58 周四 Message:type: 1000
+DateTime:2019-11-07 15:22:58 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
+DateTime:2019-11-07 15:23:02 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:23:22 周四 Message:new connection
+DateTime:2019-11-07 15:23:22 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:23:22 周四 Message:type: 1000
+DateTime:2019-11-07 15:23:22 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:23:22 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:23:27 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:23:27 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:23:27 周四 Message:"设备断开连接,socket号：2360 SN: 276e0777c1b99c17"
+DateTime:2019-11-07 15:23:27 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:23:41 周四 Message:mysocket count:  0
+DateTime:2019-11-07 15:23:41 周四 Message:analysis count:  0
+DateTime:2019-11-07 15:23:41 周四 Message:"设备断开连接,socket号：2260 SN: 276e0777c1b99c17"
+DateTime:2019-11-07 15:23:41 周四 Message:tcpserver thread count:  0
+DateTime:2019-11-07 15:25:51 周四 Message:new connection
+DateTime:2019-11-07 15:25:51 周四 Message:sock count after add: 1
+DateTime:2019-11-07 15:25:51 周四 Message:type: 1000
+DateTime:2019-11-07 15:25:51 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
+DateTime:2019-11-07 15:27:02 周四 Message:mysocket count:  0
+DateTime:2019-11-07 15:27:02 周四 Message:analysis count:  0
+DateTime:2019-11-07 15:27:02 周四 Message:new connection
+DateTime:2019-11-07 15:27:02 周四 Message:"设备断开连接,socket号：2444 SN: 276e0777fdb3d817"
+DateTime:2019-11-07 15:27:02 周四 Message:sock count after add: 1
+DateTime:2019-11-07 15:27:02 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:27:02 周四 Message:type: 1000
+DateTime:2019-11-07 15:27:26 周四 Message:new connection
+DateTime:2019-11-07 15:27:26 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:27:26 周四 Message:type: 1000
+DateTime:2019-11-07 15:27:31 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:27:31 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:27:31 周四 Message:"设备断开连接,socket号：1428 SN: 276e0777fdb3d817"
+DateTime:2019-11-07 15:27:31 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:27:54 周四 Message:mysocket count:  0
+DateTime:2019-11-07 15:27:54 周四 Message:analysis count:  0
+DateTime:2019-11-07 15:27:54 周四 Message:"设备断开连接,socket号：2444 SN: 276e0777fdb3d817"
+DateTime:2019-11-07 15:27:54 周四 Message:tcpserver thread count:  0
+DateTime:2019-11-07 15:30:47 周四 Message:new connection
+DateTime:2019-11-07 15:30:47 周四 Message:sock count after add: 1
+DateTime:2019-11-07 15:30:47 周四 Message:type: 1000
+DateTime:2019-11-07 15:30:51 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:31:16 周四 Message:mysocket count:  0
+DateTime:2019-11-07 15:31:16 周四 Message:analysis count:  0
+DateTime:2019-11-07 15:31:16 周四 Message:"设备断开连接,socket号：2472 SN: 276e0777e5b4d817"
+DateTime:2019-11-07 15:31:16 周四 Message:tcpserver thread count:  0
+DateTime:2019-11-07 15:35:54 周四 Message:new connection
+DateTime:2019-11-07 15:35:54 周四 Message:sock count after add: 1
+DateTime:2019-11-07 15:35:54 周四 Message:type: 1000
+DateTime:2019-11-07 15:35:54 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
+DateTime:2019-11-07 15:36:05 周四 Message:new connection
+DateTime:2019-11-07 15:36:05 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:36:05 周四 Message:type: 1000
+DateTime:2019-11-07 15:36:23 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:36:23 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:36:23 周四 Message:"设备断开连接,socket号：2320 SN: 279e43770db60c10"
+DateTime:2019-11-07 15:36:23 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:36:34 周四 Message:mysocket count:  0
+DateTime:2019-11-07 15:36:34 周四 Message:analysis count:  0
+DateTime:2019-11-07 15:36:34 周四 Message:"设备断开连接,socket号：2480 SN: 276e0777fdb3d817"
+DateTime:2019-11-07 15:36:34 周四 Message:tcpserver thread count:  0
+DateTime:2019-11-07 15:44:25 周四 Message:new connection
+DateTime:2019-11-07 15:44:25 周四 Message:sock count after add: 1
+DateTime:2019-11-07 15:44:25 周四 Message:type: 1000
+DateTime:2019-11-07 15:44:29 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:44:49 周四 Message:new connection
+DateTime:2019-11-07 15:44:49 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:44:49 周四 Message:type: 1000
+DateTime:2019-11-07 15:44:55 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:44:55 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:44:55 周四 Message:"设备断开连接,socket号：2444 SN: 279e437745b20c10"
+DateTime:2019-11-07 15:44:55 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:45:10 周四 Message:new connection
+DateTime:2019-11-07 15:45:10 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:45:11 周四 Message:type: 1000
+DateTime:2019-11-07 15:45:14 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:45:14 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:45:18 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:45:18 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:45:18 周四 Message:"设备断开连接,socket号：2332 SN: 276e0777e5b4d817"
+DateTime:2019-11-07 15:45:18 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:45:31 周四 Message:new connection
+DateTime:2019-11-07 15:45:31 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:45:31 周四 Message:type: 1000
+DateTime:2019-11-07 15:45:34 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:45:34 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:45:41 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:45:41 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:45:41 周四 Message:"设备断开连接,socket号：2488 SN: 279e43776dbb0c10"
+DateTime:2019-11-07 15:45:41 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:45:54 周四 Message:new connection
+DateTime:2019-11-07 15:45:54 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:45:55 周四 Message:type: 1000
+DateTime:2019-11-07 15:45:58 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:45:58 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:46:00 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:46:00 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:46:00 周四 Message:"设备断开连接,socket号：2516 SN: 276e0777c1b99c17"
+DateTime:2019-11-07 15:46:00 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:46:20 周四 Message:new connection
+DateTime:2019-11-07 15:46:20 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:46:20 周四 Message:type: 1000
+DateTime:2019-11-07 15:46:20 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:46:21 周四 Message:into sendOver 4
+DateTime:2019-11-07 15:46:24 周四 Message:mysocket count:  1
+DateTime:2019-11-07 15:46:24 周四 Message:analysis count:  1
+DateTime:2019-11-07 15:46:24 周四 Message:"设备断开连接,socket号：2444 SN: 279e4377fdb30c10"
+DateTime:2019-11-07 15:46:24 周四 Message:tcpserver thread count:  1
+DateTime:2019-11-07 15:46:36 周四 Message:new connection
+DateTime:2019-11-07 15:46:36 周四 Message:sock count after add: 2
+DateTime:2019-11-07 15:46:36 周四 Message:type: 1000
+DateTime:2019-11-07 15:46:40 周四 Message:mysocket count:  1
