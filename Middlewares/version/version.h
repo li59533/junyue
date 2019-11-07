@@ -29,7 +29,7 @@
  */
 #define VERSION_MAJOR		1   // 0~255
 #define VERSION_MINOR		1   // 0~255
-#define VERSION_LITE		1	// 0~255
+#define VERSION_LITE		2	// 0~255
 /**
  * @}
  */
