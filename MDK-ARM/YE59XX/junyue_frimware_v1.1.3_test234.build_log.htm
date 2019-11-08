@@ -22,16 +22,28 @@ Dialog DLL:      TCM.DLL V1.36.2.0
  
 <h2>Project:</h2>
 E:\github_project\junyue\MDK-ARM\YE59XX.uvprojx
-Project File Date:  11/07/2019
+Project File Date:  11/08/2019
 
 <h2>Output:</h2>
 *** Using Compiler 'V5.06 update 6 (build 750)', folder: 'D:\Keil_v5\ARM\ARMCC\Bin'
 Build target 'YE59XX'
-compiling main.c...
+compiling version.c...
+compiling RxdBufProcessTask.c...
+RxdBufProcessTask.c(320): warning:  #1295-D: Deprecated declaration emu_sprase_index - give arg types
+  extern void emu_sprase_index();
+RxdBufProcessTask.c(533): warning:  #177-D: variable "channelnum"  was declared but never referenced
+  	uint8_t channelnum=(((uint32_t)CmdBuf[3]<<8)+CmdBuf[2])/17;
+RxdBufProcessTask.c(1095): warning:  #188-D: enumerated type mixed with another type
+  			config.Alarm_source[rule_index][i].parameter_NAME=RXDCmdBuf[8+persource_byte_length*i];
+RxdBufProcessTask.c(1096): warning:  #188-D: enumerated type mixed with another type
+  			config.Alarm_source[rule_index][i].logical=RXDCmdBuf[9+persource_byte_length*i];
+RxdBufProcessTask.c(1097): warning:  #188-D: enumerated type mixed with another type
+  			config.Alarm_source[rule_index][i].relationship=RXDCmdBuf[10+persource_byte_length*i];
+RxdBufProcessTask.c: 5 warnings, 0 errors
 linking...
-Program Size: Code=59664 RO-data=88572 RW-data=3472 ZI-data=538728  
+Program Size: Code=59672 RO-data=88572 RW-data=3472 ZI-data=538728  
 FromELF: creating hex file...
-"YE59XX\junyue_frimware_v1.1.4.hex" - 0 Error(s), 0 Warning(s).
+"YE59XX\junyue_frimware_v1.1.3_test234.hex" - 0 Error(s), 5 Warning(s).
 
 <h2>Software Packages used:</h2>
 
