@@ -1,1498 +1,1481 @@
-DateTime:2019-11-06 15:59:35 周三 Message:into sendOver 4
-DateTime:2019-11-06 15:59:52 周三 Message:new connection
-DateTime:2019-11-06 15:59:52 周三 Message:sock count after add: 2
-DateTime:2019-11-06 15:59:52 周三 Message:type: 1000
-DateTime:2019-11-06 15:59:54 周三 Message:mysocket count:  1
-DateTime:2019-11-06 15:59:54 周三 Message:analysis count:  1
-DateTime:2019-11-06 15:59:54 周三 Message:"设备断开连接,socket号：2488 SN: 276e07775db5d817"
-DateTime:2019-11-06 15:59:54 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 15:59:58 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:00:15 周三 Message:new connection
-DateTime:2019-11-06 16:00:15 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:00:15 周三 Message:type: 1000
-DateTime:2019-11-06 16:00:16 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:00:16 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:00:17 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:00:17 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:00:17 周三 Message:"设备断开连接,socket号：2476 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:00:17 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:00:33 周三 Message:new connection
-DateTime:2019-11-06 16:00:33 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:00:33 周三 Message:type: 1000
-DateTime:2019-11-06 16:00:34 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:00:34 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:00:35 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:00:35 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:00:35 周三 Message:"设备断开连接,socket号：2528 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:00:35 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:00:51 周三 Message:new connection
-DateTime:2019-11-06 16:00:51 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:00:51 周三 Message:type: 1000
-DateTime:2019-11-06 16:00:52 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:00:52 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:00:53 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:00:53 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:00:53 周三 Message:"设备断开连接,socket号：2496 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:00:53 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:01:08 周三 Message:new connection
-DateTime:2019-11-06 16:01:08 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:01:08 周三 Message:type: 1000
-DateTime:2019-11-06 16:01:09 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:01:09 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:01:11 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:01:11 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:01:11 周三 Message:"设备断开连接,socket号：2524 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:01:11 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:01:26 周三 Message:new connection
-DateTime:2019-11-06 16:01:26 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:01:26 周三 Message:type: 1000
-DateTime:2019-11-06 16:01:28 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:01:28 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:01:28 周三 Message:"设备断开连接,socket号：2548 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:01:28 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:01:49 周三 Message:new connection
-DateTime:2019-11-06 16:01:49 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:01:49 周三 Message:type: 1000
-DateTime:2019-11-06 16:01:54 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:01:54 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:01:55 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:01:55 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:01:55 周三 Message:"设备断开连接,socket号：2532 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:01:55 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:02:12 周三 Message:new connection
-DateTime:2019-11-06 16:02:12 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:02:12 周三 Message:type: 1000
-DateTime:2019-11-06 16:02:13 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:02:13 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:02:13 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:02:13 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:02:13 周三 Message:"设备断开连接,socket号：2452 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:02:13 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:02:30 周三 Message:new connection
-DateTime:2019-11-06 16:02:30 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:02:30 周三 Message:type: 1000
-DateTime:2019-11-06 16:02:32 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:02:32 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:02:32 周三 Message:"设备断开连接,socket号：2440 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:02:32 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:02:33 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:02:49 周三 Message:new connection
-DateTime:2019-11-06 16:02:49 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:02:49 周三 Message:type: 1000
-DateTime:2019-11-06 16:02:50 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:02:50 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:02:52 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:02:52 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:02:52 周三 Message:"设备断开连接,socket号：2452 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:02:52 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:03:07 周三 Message:new connection
-DateTime:2019-11-06 16:03:07 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:03:07 周三 Message:type: 1000
-DateTime:2019-11-06 16:03:07 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:03:07 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:03:09 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:03:09 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:03:09 周三 Message:"设备断开连接,socket号：2516 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:03:09 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:03:24 周三 Message:new connection
-DateTime:2019-11-06 16:03:24 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:03:24 周三 Message:type: 1000
-DateTime:2019-11-06 16:03:25 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:03:25 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:03:26 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:03:26 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:03:26 周三 Message:"设备断开连接,socket号：2404 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:03:26 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:03:43 周三 Message:new connection
-DateTime:2019-11-06 16:03:43 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:03:43 周三 Message:type: 1000
-DateTime:2019-11-06 16:03:43 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:03:43 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:03:51 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:03:51 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:03:51 周三 Message:"设备断开连接,socket号：2520 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:03:51 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:04:00 周三 Message:new connection
-DateTime:2019-11-06 16:04:00 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:04:00 周三 Message:type: 1000
-DateTime:2019-11-06 16:04:01 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:04:01 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:04:02 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:04:02 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:04:02 周三 Message:"设备断开连接,socket号：2576 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:04:02 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:04:17 周三 Message:new connection
-DateTime:2019-11-06 16:04:17 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:04:17 周三 Message:type: 1000
-DateTime:2019-11-06 16:04:18 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:04:18 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:04:20 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:04:20 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:04:20 周三 Message:"设备断开连接,socket号：2500 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:04:20 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:04:35 周三 Message:new connection
-DateTime:2019-11-06 16:04:35 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:04:35 周三 Message:type: 1000
-DateTime:2019-11-06 16:04:35 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:04:35 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:04:37 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:04:37 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:04:37 周三 Message:"设备断开连接,socket号：2404 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:04:37 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:04:52 周三 Message:new connection
-DateTime:2019-11-06 16:04:52 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:04:52 周三 Message:type: 1000
-DateTime:2019-11-06 16:04:53 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:04:53 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:04:54 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:04:54 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:04:54 周三 Message:"设备断开连接,socket号：948 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:04:54 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:05:11 周三 Message:new connection
-DateTime:2019-11-06 16:05:11 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:05:11 周三 Message:type: 1000
-DateTime:2019-11-06 16:05:11 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:05:11 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:05:13 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:05:13 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:05:13 周三 Message:"设备断开连接,socket号：2588 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:05:13 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:05:28 周三 Message:new connection
-DateTime:2019-11-06 16:05:28 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:05:28 周三 Message:type: 1000
-DateTime:2019-11-06 16:05:29 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:05:29 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:05:30 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:05:30 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:05:30 周三 Message:"设备断开连接,socket号：2592 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:05:30 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:05:45 周三 Message:new connection
-DateTime:2019-11-06 16:05:45 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:05:45 周三 Message:type: 1000
-DateTime:2019-11-06 16:05:46 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:05:46 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:05:48 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:05:48 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:05:48 周三 Message:"设备断开连接,socket号：2584 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:05:48 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:06:03 周三 Message:new connection
-DateTime:2019-11-06 16:06:03 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:06:03 周三 Message:type: 1000
-DateTime:2019-11-06 16:06:05 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:06:05 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:06:05 周三 Message:"设备断开连接,socket号：2452 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:06:05 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:06:07 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:06:25 周三 Message:new connection
-DateTime:2019-11-06 16:06:25 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:06:25 周三 Message:type: 1000
-DateTime:2019-11-06 16:06:26 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:06:26 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:06:27 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:06:27 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:06:27 周三 Message:"设备断开连接,socket号：2608 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:06:27 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:06:43 周三 Message:new connection
-DateTime:2019-11-06 16:06:43 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:06:44 周三 Message:type: 1000
-DateTime:2019-11-06 16:06:54 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:06:54 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:06:54 周三 Message:"设备断开连接,socket号：2584 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:06:54 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:07:15 周三 Message:mysocket count:  0
-DateTime:2019-11-06 16:07:15 周三 Message:analysis count:  0
-DateTime:2019-11-06 16:07:15 周三 Message:"设备断开连接,socket号：2520 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:07:15 周三 Message:tcpserver thread count:  0
-DateTime:2019-11-06 16:07:26 周三 Message:new connection
-DateTime:2019-11-06 16:07:26 周三 Message:sock count after add: 1
-DateTime:2019-11-06 16:07:27 周三 Message:type: 1000
-DateTime:2019-11-06 16:07:31 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:07:51 周三 Message:mysocket count:  0
-DateTime:2019-11-06 16:07:51 周三 Message:analysis count:  0
-DateTime:2019-11-06 16:07:51 周三 Message:"设备断开连接,socket号：2520 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:07:51 周三 Message:tcpserver thread count:  0
-DateTime:2019-11-06 16:07:51 周三 Message:new connection
-DateTime:2019-11-06 16:07:51 周三 Message:sock count after add: 1
-DateTime:2019-11-06 16:07:51 周三 Message:type: 1000
-DateTime:2019-11-06 16:07:52 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:08:08 周三 Message:new connection
-DateTime:2019-11-06 16:08:08 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:08:08 周三 Message:type: 1000
-DateTime:2019-11-06 16:08:09 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:08:09 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:08:11 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:08:11 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:08:11 周三 Message:"设备断开连接,socket号：2600 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:08:11 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:08:26 周三 Message:new connection
-DateTime:2019-11-06 16:08:26 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:08:26 周三 Message:type: 1000
-DateTime:2019-11-06 16:08:26 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:08:26 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:08:28 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:08:28 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:08:28 周三 Message:"设备断开连接,socket号：2588 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:08:28 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:08:43 周三 Message:new connection
-DateTime:2019-11-06 16:08:43 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:08:43 周三 Message:type: 1000
-DateTime:2019-11-06 16:08:44 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:08:44 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:08:45 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:08:45 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:08:45 周三 Message:"设备断开连接,socket号：2552 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:08:45 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:09:00 周三 Message:new connection
-DateTime:2019-11-06 16:09:00 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:09:00 周三 Message:type: 1000
-DateTime:2019-11-06 16:09:01 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:09:01 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:09:03 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:09:03 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:09:03 周三 Message:"设备断开连接,socket号：2588 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:09:03 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:09:18 周三 Message:new connection
-DateTime:2019-11-06 16:09:18 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:09:18 周三 Message:type: 1000
-DateTime:2019-11-06 16:09:19 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:09:19 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:09:20 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:09:20 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:09:20 周三 Message:"设备断开连接,socket号：2624 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:09:20 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:09:36 周三 Message:new connection
-DateTime:2019-11-06 16:09:36 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:09:36 周三 Message:type: 1000
-DateTime:2019-11-06 16:09:37 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:09:38 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:09:38 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:09:38 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:09:38 周三 Message:"设备断开连接,socket号：2596 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:09:38 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:09:54 周三 Message:new connection
-DateTime:2019-11-06 16:09:54 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:09:54 周三 Message:type: 1000
-DateTime:2019-11-06 16:09:55 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:09:55 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:09:57 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:09:57 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:09:57 周三 Message:"设备断开连接,socket号：2352 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:09:57 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:10:11 周三 Message:new connection
-DateTime:2019-11-06 16:10:11 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:10:12 周三 Message:type: 1000
-DateTime:2019-11-06 16:10:12 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:10:12 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:10:14 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:10:14 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:10:14 周三 Message:"设备断开连接,socket号：2492 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:10:14 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:10:29 周三 Message:new connection
-DateTime:2019-11-06 16:10:29 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:10:29 周三 Message:type: 1000
-DateTime:2019-11-06 16:10:30 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:10:30 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:10:31 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:10:31 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:10:31 周三 Message:"设备断开连接,socket号：2476 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:10:31 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:10:46 周三 Message:new connection
-DateTime:2019-11-06 16:10:46 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:10:46 周三 Message:type: 1000
-DateTime:2019-11-06 16:10:47 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:10:47 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:10:49 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:10:49 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:10:49 周三 Message:"设备断开连接,socket号：2544 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:10:49 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:11:04 周三 Message:new connection
-DateTime:2019-11-06 16:11:04 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:11:04 周三 Message:type: 1000
-DateTime:2019-11-06 16:11:06 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:11:06 周三 Message:QAbstractSocket::waitForBytesWritten() is not allowed in UnconnectedState
-DateTime:2019-11-06 16:11:06 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:11:06 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:11:06 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:11:06 周三 Message:"设备断开连接,socket号：2640 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:11:06 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:11:25 周三 Message:new connection
-DateTime:2019-11-06 16:11:25 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:11:25 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:11:25 周三 Message:into sendOver 0
-DateTime:2019-11-06 16:11:25 周三 Message:QAbstractSocket::waitForBytesWritten() is not allowed in UnconnectedState
-DateTime:2019-11-06 16:11:25 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:11:25 周三 Message:type: 1000
-DateTime:2019-11-06 16:11:25 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:11:25 周三 Message:"设备断开连接,socket号：2568 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:11:25 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:11:43 周三 Message:new connection
-DateTime:2019-11-06 16:11:43 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:11:43 周三 Message:type: 1000
-DateTime:2019-11-06 16:11:44 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:11:44 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:11:44 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:11:44 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:11:44 周三 Message:"设备断开连接,socket号：2596 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:11:44 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:12:00 周三 Message:new connection
-DateTime:2019-11-06 16:12:00 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:12:00 周三 Message:type: 1000
-DateTime:2019-11-06 16:12:01 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:12:01 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:12:03 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:12:03 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:12:03 周三 Message:"设备断开连接,socket号：2516 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:12:03 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:12:18 周三 Message:new connection
-DateTime:2019-11-06 16:12:18 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:12:18 周三 Message:type: 1000
-DateTime:2019-11-06 16:12:19 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:12:20 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:12:20 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:12:20 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:12:20 周三 Message:"设备断开连接,socket号：2596 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:12:20 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:12:36 周三 Message:new connection
-DateTime:2019-11-06 16:12:36 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:12:36 周三 Message:type: 1000
-DateTime:2019-11-06 16:12:37 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:12:37 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:12:38 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:12:38 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:12:38 周三 Message:"设备断开连接,socket号：2676 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:12:38 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:12:54 周三 Message:new connection
-DateTime:2019-11-06 16:12:54 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:12:54 周三 Message:type: 1000
-DateTime:2019-11-06 16:12:56 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:12:56 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:12:56 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:12:56 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:12:56 周三 Message:"设备断开连接,socket号：2640 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:12:56 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:13:13 周三 Message:new connection
-DateTime:2019-11-06 16:13:13 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:13:13 周三 Message:type: 1000
-DateTime:2019-11-06 16:13:14 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:13:14 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:13:15 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:13:15 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:13:15 周三 Message:"设备断开连接,socket号：2560 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:13:15 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:13:31 周三 Message:new connection
-DateTime:2019-11-06 16:13:31 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:13:31 周三 Message:type: 1000
-DateTime:2019-11-06 16:13:31 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:13:31 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:13:33 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:13:33 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:13:33 周三 Message:"设备断开连接,socket号：2532 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:13:33 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:13:50 周三 Message:mysocket count:  0
-DateTime:2019-11-06 16:13:50 周三 Message:analysis count:  0
-DateTime:2019-11-06 16:13:50 周三 Message:"设备断开连接,socket号：2620 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:13:50 周三 Message:tcpserver thread count:  0
-DateTime:2019-11-06 16:14:08 周三 Message:new connection
-DateTime:2019-11-06 16:14:08 周三 Message:sock count after add: 1
-DateTime:2019-11-06 16:14:08 周三 Message:type: 1000
-DateTime:2019-11-06 16:14:11 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:14:32 周三 Message:new connection
-DateTime:2019-11-06 16:14:32 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:14:32 周三 Message:type: 1000
-DateTime:2019-11-06 16:14:33 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:14:33 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:14:36 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:14:36 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:14:36 周三 Message:"设备断开连接,socket号：2304 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:14:36 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:14:49 周三 Message:new connection
-DateTime:2019-11-06 16:14:49 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:14:49 周三 Message:type: 1000
-DateTime:2019-11-06 16:14:50 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:14:50 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:14:52 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:14:52 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:14:52 周三 Message:"设备断开连接,socket号：2568 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:14:52 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:15:07 周三 Message:new connection
-DateTime:2019-11-06 16:15:07 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:15:07 周三 Message:type: 1000
-DateTime:2019-11-06 16:15:07 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:15:07 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:15:09 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:15:09 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:15:09 周三 Message:"设备断开连接,socket号：2304 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:15:09 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:15:24 周三 Message:new connection
-DateTime:2019-11-06 16:15:24 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:15:25 周三 Message:type: 1000
-DateTime:2019-11-06 16:15:25 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:15:25 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:15:26 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:15:26 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:15:26 周三 Message:"设备断开连接,socket号：2568 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:15:26 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:15:42 周三 Message:new connection
-DateTime:2019-11-06 16:15:42 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:15:42 周三 Message:type: 1000
-DateTime:2019-11-06 16:15:42 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:15:42 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:15:44 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:15:44 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:15:44 周三 Message:"设备断开连接,socket号：2684 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:15:44 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:15:59 周三 Message:new connection
-DateTime:2019-11-06 16:15:59 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:15:59 周三 Message:type: 1000
-DateTime:2019-11-06 16:16:00 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:16:00 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:16:01 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:16:01 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:16:01 周三 Message:"设备断开连接,socket号：2636 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:16:01 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:16:16 周三 Message:new connection
-DateTime:2019-11-06 16:16:16 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:16:17 周三 Message:type: 1000
-DateTime:2019-11-06 16:16:17 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:16:17 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:16:19 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:16:19 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:16:19 周三 Message:"设备断开连接,socket号：2536 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:16:19 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:16:35 周三 Message:new connection
-DateTime:2019-11-06 16:16:35 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:16:35 周三 Message:type: 1000
-DateTime:2019-11-06 16:16:36 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:16:36 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:16:36 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:16:36 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:16:36 周三 Message:"设备断开连接,socket号：2620 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:16:36 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:16:52 周三 Message:new connection
-DateTime:2019-11-06 16:16:52 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:16:52 周三 Message:type: 1000
-DateTime:2019-11-06 16:16:53 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:16:53 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:16:55 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:16:55 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:16:55 周三 Message:"设备断开连接,socket号：2352 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:16:55 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:17:10 周三 Message:new connection
-DateTime:2019-11-06 16:17:10 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:17:10 周三 Message:type: 1000
-DateTime:2019-11-06 16:17:10 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:17:10 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:17:12 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:17:12 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:17:12 周三 Message:"设备断开连接,socket号：944 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:17:12 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:17:27 周三 Message:new connection
-DateTime:2019-11-06 16:17:27 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:17:27 周三 Message:type: 1000
-DateTime:2019-11-06 16:17:28 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:17:28 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:17:29 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:17:29 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:17:29 周三 Message:"设备断开连接,socket号：2608 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:17:29 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:17:44 周三 Message:new connection
-DateTime:2019-11-06 16:17:44 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:17:44 周三 Message:type: 1000
-DateTime:2019-11-06 16:17:45 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:17:45 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:17:47 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:17:47 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:17:47 周三 Message:"设备断开连接,socket号：944 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:17:47 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:18:02 周三 Message:new connection
-DateTime:2019-11-06 16:18:02 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:18:02 周三 Message:type: 1000
-DateTime:2019-11-06 16:18:02 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:18:02 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:18:04 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:18:04 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:18:04 周三 Message:"设备断开连接,socket号：2632 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:18:04 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:18:19 周三 Message:new connection
-DateTime:2019-11-06 16:18:19 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:18:19 周三 Message:type: 1000
-DateTime:2019-11-06 16:18:20 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:18:20 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:18:21 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:18:21 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:18:21 周三 Message:"设备断开连接,socket号：2700 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:18:21 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:18:36 周三 Message:new connection
-DateTime:2019-11-06 16:18:36 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:18:36 周三 Message:type: 1000
-DateTime:2019-11-06 16:18:37 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:18:37 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:18:39 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:18:39 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:18:39 周三 Message:"设备断开连接,socket号：2504 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:18:39 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:18:54 周三 Message:new connection
-DateTime:2019-11-06 16:18:54 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:18:54 周三 Message:type: 1000
-DateTime:2019-11-06 16:18:54 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:18:54 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:18:56 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:18:56 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:18:56 周三 Message:"设备断开连接,socket号：2292 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:18:56 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:19:11 周三 Message:new connection
-DateTime:2019-11-06 16:19:11 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:19:11 周三 Message:type: 1000
-DateTime:2019-11-06 16:19:13 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:19:13 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:19:13 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:19:13 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:19:13 周三 Message:"设备断开连接,socket号：2692 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:19:13 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:19:31 周三 Message:new connection
-DateTime:2019-11-06 16:19:31 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:19:31 周三 Message:type: 1000
-DateTime:2019-11-06 16:19:33 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:19:33 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:19:33 周三 Message:"设备断开连接,socket号：2720 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:19:33 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:19:33 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:19:52 周三 Message:mysocket count:  0
-DateTime:2019-11-06 16:19:52 周三 Message:analysis count:  0
-DateTime:2019-11-06 16:19:52 周三 Message:"设备断开连接,socket号：2692 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:19:52 周三 Message:tcpserver thread count:  0
-DateTime:2019-11-06 16:20:07 周三 Message:new connection
-DateTime:2019-11-06 16:20:07 周三 Message:sock count after add: 1
-DateTime:2019-11-06 16:20:07 周三 Message:type: 1000
-DateTime:2019-11-06 16:20:11 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:20:32 周三 Message:new connection
-DateTime:2019-11-06 16:20:32 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:20:32 周三 Message:type: 1000
-DateTime:2019-11-06 16:20:33 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:20:33 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:20:36 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:20:36 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:20:36 周三 Message:"设备断开连接,socket号：2700 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:20:36 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:20:49 周三 Message:new connection
-DateTime:2019-11-06 16:20:49 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:20:50 周三 Message:type: 1000
-DateTime:2019-11-06 16:20:51 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:20:51 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:20:52 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:20:52 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:20:52 周三 Message:"设备断开连接,socket号：944 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:20:52 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:21:08 周三 Message:new connection
-DateTime:2019-11-06 16:21:08 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:21:08 周三 Message:type: 1000
-DateTime:2019-11-06 16:21:09 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:21:09 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:21:10 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:21:10 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:21:10 周三 Message:"设备断开连接,socket号：2728 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:21:10 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:21:25 周三 Message:new connection
-DateTime:2019-11-06 16:21:25 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:21:25 周三 Message:type: 1000
-DateTime:2019-11-06 16:21:26 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:21:26 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:21:37 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:21:37 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:21:37 周三 Message:"设备断开连接,socket号：2748 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:21:37 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:21:43 周三 Message:new connection
-DateTime:2019-11-06 16:21:43 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:21:43 周三 Message:type: 1000
-DateTime:2019-11-06 16:21:43 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:21:43 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:21:45 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:21:45 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:21:45 周三 Message:"设备断开连接,socket号：2744 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:21:45 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:22:00 周三 Message:new connection
-DateTime:2019-11-06 16:22:00 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:22:00 周三 Message:type: 1000
-DateTime:2019-11-06 16:22:01 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:22:01 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:22:02 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:22:02 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:22:02 周三 Message:"设备断开连接,socket号：2692 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:22:02 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:22:17 周三 Message:new connection
-DateTime:2019-11-06 16:22:17 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:22:18 周三 Message:type: 1000
-DateTime:2019-11-06 16:22:18 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:22:18 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:22:20 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:22:20 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:22:20 周三 Message:"设备断开连接,socket号：2764 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:22:20 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:22:35 周三 Message:new connection
-DateTime:2019-11-06 16:22:35 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:22:35 周三 Message:type: 1000
-DateTime:2019-11-06 16:22:37 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:22:37 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:22:37 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:22:37 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:22:37 周三 Message:"设备断开连接,socket号：2740 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:22:37 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:22:54 周三 Message:new connection
-DateTime:2019-11-06 16:22:54 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:22:55 周三 Message:type: 1000
-DateTime:2019-11-06 16:22:55 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:22:55 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:22:56 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:22:56 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:22:56 周三 Message:"设备断开连接,socket号：2692 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:22:56 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:23:13 周三 Message:new connection
-DateTime:2019-11-06 16:23:13 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:23:13 周三 Message:type: 1000
-DateTime:2019-11-06 16:23:13 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:23:14 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:23:19 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:23:19 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:23:19 周三 Message:"设备断开连接,socket号：2796 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:23:19 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:23:30 周三 Message:new connection
-DateTime:2019-11-06 16:23:30 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:23:30 周三 Message:type: 1000
-DateTime:2019-11-06 16:23:31 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:23:31 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:23:32 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:23:32 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:23:32 周三 Message:"设备断开连接,socket号：2492 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:23:32 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:23:47 周三 Message:new connection
-DateTime:2019-11-06 16:23:47 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:23:47 周三 Message:type: 1000
-DateTime:2019-11-06 16:23:48 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:23:48 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:23:50 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:23:50 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:23:50 周三 Message:"设备断开连接,socket号：2792 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:23:50 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:24:06 周三 Message:new connection
-DateTime:2019-11-06 16:24:06 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:24:06 周三 Message:type: 1000
-DateTime:2019-11-06 16:24:06 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:24:06 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:24:07 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:24:07 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:24:07 周三 Message:"设备断开连接,socket号：2744 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:24:07 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:24:23 周三 Message:new connection
-DateTime:2019-11-06 16:24:23 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:24:23 周三 Message:type: 1000
-DateTime:2019-11-06 16:24:24 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:24:24 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:24:25 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:24:25 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:24:25 周三 Message:"设备断开连接,socket号：2692 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:24:25 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:24:40 周三 Message:new connection
-DateTime:2019-11-06 16:24:40 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:24:41 周三 Message:type: 1000
-DateTime:2019-11-06 16:24:41 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:24:41 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:24:43 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:24:43 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:24:43 周三 Message:"设备断开连接,socket号：2492 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:24:43 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:24:58 周三 Message:new connection
-DateTime:2019-11-06 16:24:58 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:24:58 周三 Message:type: 1000
-DateTime:2019-11-06 16:24:58 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:24:59 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:25:00 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:25:00 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:25:00 周三 Message:"设备断开连接,socket号：2796 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:25:00 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:25:15 周三 Message:new connection
-DateTime:2019-11-06 16:25:15 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:25:16 周三 Message:type: 1000
-DateTime:2019-11-06 16:25:16 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:25:16 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:25:17 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:25:17 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:25:17 周三 Message:"设备断开连接,socket号：2780 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:25:18 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:25:33 周三 Message:new connection
-DateTime:2019-11-06 16:25:33 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:25:33 周三 Message:type: 1000
-DateTime:2019-11-06 16:25:34 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:25:34 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:25:35 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:25:35 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:25:35 周三 Message:"设备断开连接,socket号：2728 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:25:35 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:25:50 周三 Message:new connection
-DateTime:2019-11-06 16:25:50 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:25:50 周三 Message:type: 1000
-DateTime:2019-11-06 16:25:51 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:25:51 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:25:53 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:25:53 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:25:53 周三 Message:"设备断开连接,socket号：2788 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:25:53 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:26:07 周三 Message:new connection
-DateTime:2019-11-06 16:26:07 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:26:08 周三 Message:type: 1000
-DateTime:2019-11-06 16:26:08 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:26:08 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:26:10 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:26:10 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:26:10 周三 Message:"设备断开连接,socket号：2792 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:26:10 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:26:25 周三 Message:new connection
-DateTime:2019-11-06 16:26:25 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:26:25 周三 Message:type: 1000
-DateTime:2019-11-06 16:26:26 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:26:26 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:26:27 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:26:27 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:26:27 周三 Message:"设备断开连接,socket号：2448 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:26:27 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:26:45 周三 Message:mysocket count:  0
-DateTime:2019-11-06 16:26:45 周三 Message:analysis count:  0
-DateTime:2019-11-06 16:26:45 周三 Message:"设备断开连接,socket号：2728 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:26:45 周三 Message:tcpserver thread count:  0
-DateTime:2019-11-06 16:27:00 周三 Message:new connection
-DateTime:2019-11-06 16:27:00 周三 Message:sock count after add: 1
-DateTime:2019-11-06 16:27:00 周三 Message:type: 1000
-DateTime:2019-11-06 16:27:03 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:27:24 周三 Message:new connection
-DateTime:2019-11-06 16:27:24 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:27:24 周三 Message:type: 1000
-DateTime:2019-11-06 16:27:25 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:27:25 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:27:28 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:27:28 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:27:28 周三 Message:"设备断开连接,socket号：2384 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:27:28 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:27:41 周三 Message:new connection
-DateTime:2019-11-06 16:27:41 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:27:41 周三 Message:type: 1000
-DateTime:2019-11-06 16:27:42 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:27:42 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:27:44 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:27:44 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:27:44 周三 Message:"设备断开连接,socket号：2828 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:27:44 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:28:01 周三 Message:mysocket count:  0
-DateTime:2019-11-06 16:28:01 周三 Message:analysis count:  0
-DateTime:2019-11-06 16:28:01 周三 Message:"设备断开连接,socket号：2732 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:28:01 周三 Message:tcpserver thread count:  0
-DateTime:2019-11-06 16:28:09 周三 Message:new connection
-DateTime:2019-11-06 16:28:09 周三 Message:sock count after add: 1
-DateTime:2019-11-06 16:28:09 周三 Message:type: 1000
-DateTime:2019-11-06 16:28:09 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:28:26 周三 Message:new connection
-DateTime:2019-11-06 16:28:26 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:28:26 周三 Message:type: 1000
-DateTime:2019-11-06 16:28:27 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:28:27 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:28:28 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:28:28 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:28:28 周三 Message:"设备断开连接,socket号：2732 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:28:28 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:28:43 周三 Message:new connection
-DateTime:2019-11-06 16:28:43 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:28:43 周三 Message:type: 1000
-DateTime:2019-11-06 16:28:44 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:28:44 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:28:46 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:28:46 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:28:46 周三 Message:"设备断开连接,socket号：2464 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:28:46 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:29:01 周三 Message:new connection
-DateTime:2019-11-06 16:29:01 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:29:01 周三 Message:type: 1000
-DateTime:2019-11-06 16:29:01 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:29:01 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:29:03 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:29:03 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:29:03 周三 Message:"设备断开连接,socket号：2804 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:29:03 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:29:18 周三 Message:new connection
-DateTime:2019-11-06 16:29:18 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:29:18 周三 Message:type: 1000
-DateTime:2019-11-06 16:29:19 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:29:19 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:29:20 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:29:20 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:29:20 周三 Message:"设备断开连接,socket号：2708 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:29:20 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:29:35 周三 Message:new connection
-DateTime:2019-11-06 16:29:35 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:29:35 周三 Message:type: 1000
-DateTime:2019-11-06 16:29:36 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:29:36 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:29:38 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:29:38 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:29:38 周三 Message:"设备断开连接,socket号：2808 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:29:38 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:29:53 周三 Message:new connection
-DateTime:2019-11-06 16:29:53 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:29:53 周三 Message:type: 1000
-DateTime:2019-11-06 16:29:54 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:29:54 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:29:55 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:29:55 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:29:55 周三 Message:"设备断开连接,socket号：2708 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:29:55 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:30:10 周三 Message:new connection
-DateTime:2019-11-06 16:30:10 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:30:10 周三 Message:type: 1000
-DateTime:2019-11-06 16:30:11 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:30:11 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:30:13 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:30:13 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:30:13 周三 Message:"设备断开连接,socket号：2820 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:30:13 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:30:27 周三 Message:new connection
-DateTime:2019-11-06 16:30:27 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:30:28 周三 Message:type: 1000
-DateTime:2019-11-06 16:30:28 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:30:28 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:30:30 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:30:30 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:30:30 周三 Message:"设备断开连接,socket号：2844 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:30:30 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:30:45 周三 Message:new connection
-DateTime:2019-11-06 16:30:45 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:30:45 周三 Message:type: 1000
-DateTime:2019-11-06 16:30:46 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:30:46 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:30:47 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:30:47 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:30:47 周三 Message:"设备断开连接,socket号：2868 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:30:47 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:31:02 周三 Message:new connection
-DateTime:2019-11-06 16:31:02 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:31:02 周三 Message:type: 1000
-DateTime:2019-11-06 16:31:03 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:31:03 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:31:05 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:31:05 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:31:05 周三 Message:"设备断开连接,socket号：2384 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:31:05 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:31:20 周三 Message:new connection
-DateTime:2019-11-06 16:31:20 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:31:20 周三 Message:type: 1000
-DateTime:2019-11-06 16:31:20 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:31:20 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:31:22 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:31:22 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:31:22 周三 Message:"设备断开连接,socket号：2828 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:31:22 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:31:37 周三 Message:new connection
-DateTime:2019-11-06 16:31:37 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:31:37 周三 Message:type: 1000
-DateTime:2019-11-06 16:31:38 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:31:38 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:31:39 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:31:39 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:31:39 周三 Message:"设备断开连接,socket号：2292 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:31:39 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:31:57 周三 Message:mysocket count:  0
-DateTime:2019-11-06 16:31:57 周三 Message:analysis count:  0
-DateTime:2019-11-06 16:31:57 周三 Message:"设备断开连接,socket号：2404 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:31:57 周三 Message:tcpserver thread count:  0
-DateTime:2019-11-06 16:32:12 周三 Message:new connection
-DateTime:2019-11-06 16:32:12 周三 Message:sock count after add: 1
-DateTime:2019-11-06 16:32:12 周三 Message:type: 1000
-DateTime:2019-11-06 16:32:15 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:32:36 周三 Message:new connection
-DateTime:2019-11-06 16:32:36 周三 Message:sock count after add: 2
-DateTime:2019-11-06 16:32:36 周三 Message:type: 1000
-DateTime:2019-11-06 16:32:37 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:32:37 周三 Message:into sendOver 4
-DateTime:2019-11-06 16:32:41 周三 Message:mysocket count:  1
-DateTime:2019-11-06 16:32:41 周三 Message:analysis count:  1
-DateTime:2019-11-06 16:32:41 周三 Message:"设备断开连接,socket号：2872 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:32:41 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 16:32:56 周三 Message:mysocket count:  0
-DateTime:2019-11-06 16:32:56 周三 Message:analysis count:  0
-DateTime:2019-11-06 16:32:56 周三 Message:"设备断开连接,socket号：2884 SN: 276e07775db5d817"
-DateTime:2019-11-06 16:32:56 周三 Message:tcpserver thread count:  0
-DateTime:2019-11-06 17:01:09 周三 Message:new connection
-DateTime:2019-11-06 17:01:09 周三 Message:sock count after add: 1
-DateTime:2019-11-06 17:01:09 周三 Message:type: 1000
-DateTime:2019-11-06 17:01:09 周三 Message:guid is: "{2d6f3a98-b529-4e7d-914d-81501c68d121}"
-DateTime:2019-11-06 17:01:13 周三 Message:into sendOver 4
-DateTime:2019-11-06 17:01:34 周三 Message:new connection
-DateTime:2019-11-06 17:01:34 周三 Message:sock count after add: 2
-DateTime:2019-11-06 17:01:34 周三 Message:type: 1000
-DateTime:2019-11-06 17:01:34 周三 Message:into sendOver 4
-DateTime:2019-11-06 17:01:34 周三 Message:into sendOver 4
-DateTime:2019-11-06 17:01:38 周三 Message:mysocket count:  1
-DateTime:2019-11-06 17:01:38 周三 Message:analysis count:  1
-DateTime:2019-11-06 17:01:38 周三 Message:"设备断开连接,socket号：2872 SN: 279e437749b9f011"
-DateTime:2019-11-06 17:01:38 周三 Message:tcpserver thread count:  1
-DateTime:2019-11-06 17:01:53 周三 Message:mysocket count:  0
-DateTime:2019-11-06 17:01:53 周三 Message:analysis count:  0
-DateTime:2019-11-06 17:01:53 周三 Message:"设备断开连接,socket号：2916 SN: 279e437749b9f011"
-DateTime:2019-11-06 17:01:53 周三 Message:tcpserver thread count:  0
-DateTime:2019-11-06 18:26:20 周三 Message:back remain counts:  0 0 0
-DateTime:2019-11-06 18:26:20 周三 Message:QCoreApplication::postEvent: Unexpected null receiver
-DateTime:2019-11-07 13:14:17 周四 Message:back remain counts:  0 0 0
-DateTime:2019-11-07 13:14:17 周四 Message:QCoreApplication::postEvent: Unexpected null receiver
-DateTime:2019-11-07 13:15:29 周四 Message:new connection
-DateTime:2019-11-07 13:15:29 周四 Message:sock count after add: 1
-DateTime:2019-11-07 13:15:29 周四 Message:type: 1000
-DateTime:2019-11-07 13:15:29 周四 Message:guid is: "{1c356bbd-dc6e-4bc6-87c5-44b4e7e58e4c}"
-DateTime:2019-11-07 13:15:33 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:15:55 周四 Message:new connection
-DateTime:2019-11-07 13:15:55 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:15:55 周四 Message:type: 1000
-DateTime:2019-11-07 13:15:55 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:15:55 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:15:58 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:15:58 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:15:58 周四 Message:"设备断开连接,socket号：1300 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:15:58 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:16:13 周四 Message:new connection
-DateTime:2019-11-07 13:16:13 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:16:13 周四 Message:type: 1000
-DateTime:2019-11-07 13:16:14 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:16:14 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:16:14 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:16:14 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:16:14 周四 Message:"设备断开连接,socket号：1972 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:16:14 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:16:29 周四 Message:new connection
-DateTime:2019-11-07 13:16:29 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:16:29 周四 Message:type: 1000
-DateTime:2019-11-07 13:16:30 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:16:30 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:16:33 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:16:33 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:16:33 周四 Message:"设备断开连接,socket号：1300 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:16:33 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:16:49 周四 Message:new connection
-DateTime:2019-11-07 13:16:49 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:16:49 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:16:49 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:16:49 周四 Message:"设备断开连接,socket号：1108 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:16:49 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:16:49 周四 Message:type: 1000
-DateTime:2019-11-07 13:17:10 周四 Message:mysocket count:  0
-DateTime:2019-11-07 13:17:10 周四 Message:analysis count:  0
-DateTime:2019-11-07 13:17:10 周四 Message:"设备断开连接,socket号：2288 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:17:10 周四 Message:tcpserver thread count:  0
-DateTime:2019-11-07 13:17:10 周四 Message:new connection
-DateTime:2019-11-07 13:17:10 周四 Message:sock count after add: 1
-DateTime:2019-11-07 13:17:10 周四 Message:type: 1000
-DateTime:2019-11-07 13:17:11 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:17:29 周四 Message:new connection
-DateTime:2019-11-07 13:17:29 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:17:29 周四 Message:type: 1000
-DateTime:2019-11-07 13:17:30 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:17:30 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:17:30 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:17:30 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:17:30 周四 Message:"设备断开连接,socket号：2236 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:17:30 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:17:47 周四 Message:new connection
-DateTime:2019-11-07 13:17:47 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:17:47 周四 Message:type: 1000
-DateTime:2019-11-07 13:17:48 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:17:48 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:17:49 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:17:49 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:17:49 周四 Message:"设备断开连接,socket号：2336 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:17:49 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:18:04 周四 Message:new connection
-DateTime:2019-11-07 13:18:04 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:18:04 周四 Message:type: 1000
-DateTime:2019-11-07 13:18:05 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:18:05 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:18:07 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:18:07 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:18:07 周四 Message:"设备断开连接,socket号：2236 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:18:07 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:18:23 周四 Message:new connection
-DateTime:2019-11-07 13:18:23 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:18:23 周四 Message:type: 1000
-DateTime:2019-11-07 13:18:23 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:18:23 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:18:24 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:18:24 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:18:24 周四 Message:"设备断开连接,socket号：2272 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:18:24 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:18:39 周四 Message:new connection
-DateTime:2019-11-07 13:18:39 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:18:39 周四 Message:type: 1000
-DateTime:2019-11-07 13:18:40 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:18:40 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:18:43 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:18:43 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:18:43 周四 Message:"设备断开连接,socket号：2336 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:18:43 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:18:57 周四 Message:new connection
-DateTime:2019-11-07 13:18:57 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:18:58 周四 Message:type: 1000
-DateTime:2019-11-07 13:18:58 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:18:58 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:18:59 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:18:59 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:18:59 周四 Message:"设备断开连接,socket号：2284 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:18:59 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:19:14 周四 Message:new connection
-DateTime:2019-11-07 13:19:14 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:19:14 周四 Message:type: 1000
-DateTime:2019-11-07 13:19:14 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:19:15 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:19:17 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:19:17 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:19:17 周四 Message:"设备断开连接,socket号：2268 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:19:17 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:19:32 周四 Message:new connection
-DateTime:2019-11-07 13:19:32 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:19:32 周四 Message:type: 1000
-DateTime:2019-11-07 13:19:33 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:19:33 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:19:34 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:19:34 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:19:34 周四 Message:"设备断开连接,socket号：2272 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:19:34 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:19:51 周四 Message:new connection
-DateTime:2019-11-07 13:19:51 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:19:51 周四 Message:type: 1000
-DateTime:2019-11-07 13:19:51 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:19:51 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:19:52 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:19:52 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:19:52 周四 Message:"设备断开连接,socket号：2416 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:19:52 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:20:09 周四 Message:new connection
-DateTime:2019-11-07 13:20:09 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:20:09 周四 Message:type: 1000
-DateTime:2019-11-07 13:20:10 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:20:10 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:20:10 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:20:10 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:20:10 周四 Message:"设备断开连接,socket号：2412 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:20:10 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:20:27 周四 Message:new connection
-DateTime:2019-11-07 13:20:27 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:20:28 周四 Message:type: 1000
-DateTime:2019-11-07 13:20:28 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:20:28 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:20:29 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:20:29 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:20:29 周四 Message:"设备断开连接,socket号：2420 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:20:29 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:20:46 周四 Message:new connection
-DateTime:2019-11-07 13:20:46 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:20:46 周四 Message:type: 1000
-DateTime:2019-11-07 13:20:46 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:20:47 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:20:47 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:20:47 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:20:47 周四 Message:"设备断开连接,socket号：2364 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:20:47 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:21:02 周四 Message:new connection
-DateTime:2019-11-07 13:21:02 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:21:02 周四 Message:type: 1000
-DateTime:2019-11-07 13:21:03 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:21:03 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:21:05 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:21:05 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:21:06 周四 Message:"设备断开连接,socket号：2400 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:21:06 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:21:18 周四 Message:new connection
-DateTime:2019-11-07 13:21:18 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:21:19 周四 Message:type: 1000
-DateTime:2019-11-07 13:21:19 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:21:19 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:21:22 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:21:22 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:21:22 周四 Message:"设备断开连接,socket号：2308 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:21:22 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:21:37 周四 Message:new connection
-DateTime:2019-11-07 13:21:37 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:21:38 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:21:38 周四 Message:type: 1000
-DateTime:2019-11-07 13:21:38 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:21:38 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:21:38 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:21:38 周四 Message:"设备断开连接,socket号：2400 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:21:38 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:21:57 周四 Message:new connection
-DateTime:2019-11-07 13:21:57 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:21:57 周四 Message:type: 1000
-DateTime:2019-11-07 13:21:59 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:21:59 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:21:59 周四 Message:"设备断开连接,socket号：2244 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:21:59 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:22:19 周四 Message:new connection
-DateTime:2019-11-07 13:22:19 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:22:19 周四 Message:type: 1000
-DateTime:2019-11-07 13:22:20 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:22:20 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:22:26 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:22:26 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:22:26 周四 Message:"设备断开连接,socket号：2272 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:22:26 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:22:38 周四 Message:new connection
-DateTime:2019-11-07 13:22:38 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:22:38 周四 Message:type: 1000
-DateTime:2019-11-07 13:22:38 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:22:38 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:22:39 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:22:39 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:22:39 周四 Message:"设备断开连接,socket号：2444 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:22:39 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:22:56 周四 Message:new connection
-DateTime:2019-11-07 13:22:56 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:22:56 周四 Message:type: 1000
-DateTime:2019-11-07 13:22:57 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:22:57 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:22:58 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:22:58 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:22:58 周四 Message:"设备断开连接,socket号：2368 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:22:58 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:23:14 周四 Message:new connection
-DateTime:2019-11-07 13:23:14 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:23:15 周四 Message:type: 1000
-DateTime:2019-11-07 13:23:15 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:23:15 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:23:16 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:23:16 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:23:16 周四 Message:"设备断开连接,socket号：2472 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:23:16 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:23:34 周四 Message:new connection
-DateTime:2019-11-07 13:23:34 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:23:34 周四 Message:type: 1000
-DateTime:2019-11-07 13:23:34 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:23:34 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:23:34 周四 Message:"设备断开连接,socket号：2500 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:23:34 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:23:35 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:23:53 周四 Message:mysocket count:  0
-DateTime:2019-11-07 13:23:53 周四 Message:analysis count:  0
-DateTime:2019-11-07 13:23:53 周四 Message:"设备断开连接,socket号：2484 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:23:53 周四 Message:tcpserver thread count:  0
-DateTime:2019-11-07 13:23:53 周四 Message:new connection
-DateTime:2019-11-07 13:23:53 周四 Message:sock count after add: 1
-DateTime:2019-11-07 13:23:53 周四 Message:type: 1000
-DateTime:2019-11-07 13:23:54 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:24:11 周四 Message:new connection
-DateTime:2019-11-07 13:24:11 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:24:12 周四 Message:type: 1000
-DateTime:2019-11-07 13:24:12 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:24:12 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:24:14 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:24:14 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:24:14 周四 Message:"设备断开连接,socket号：2284 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:24:14 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:24:30 周四 Message:new connection
-DateTime:2019-11-07 13:24:30 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:24:30 周四 Message:type: 1000
-DateTime:2019-11-07 13:24:30 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:24:31 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:24:31 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:24:31 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:24:31 周四 Message:"设备断开连接,socket号：2272 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:24:31 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:24:49 周四 Message:new connection
-DateTime:2019-11-07 13:24:49 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:24:49 周四 Message:type: 1000
-DateTime:2019-11-07 13:24:49 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:24:49 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:24:49 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:24:50 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:24:50 周四 Message:"设备断开连接,socket号：2268 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:24:50 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:25:05 周四 Message:new connection
-DateTime:2019-11-07 13:25:05 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:25:05 周四 Message:type: 1000
-DateTime:2019-11-07 13:25:06 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:25:06 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:25:14 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:25:14 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:25:14 周四 Message:"设备断开连接,socket号：2272 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:25:14 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:25:23 周四 Message:new connection
-DateTime:2019-11-07 13:25:23 周四 Message:sock count after add: 2
-DateTime:2019-11-07 13:25:24 周四 Message:type: 1000
-DateTime:2019-11-07 13:25:24 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:25:24 周四 Message:into sendOver 4
-DateTime:2019-11-07 13:25:25 周四 Message:mysocket count:  1
-DateTime:2019-11-07 13:25:25 周四 Message:analysis count:  1
-DateTime:2019-11-07 13:25:25 周四 Message:"设备断开连接,socket号：2432 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:25:25 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 13:25:43 周四 Message:mysocket count:  0
-DateTime:2019-11-07 13:25:43 周四 Message:analysis count:  0
-DateTime:2019-11-07 13:25:43 周四 Message:"设备断开连接,socket号：2448 SN: 279e437749b6f011"
-DateTime:2019-11-07 13:25:43 周四 Message:tcpserver thread count:  0
-DateTime:2019-11-07 15:12:51 周四 Message:back remain counts:  0 0 0
-DateTime:2019-11-07 15:12:51 周四 Message:QCoreApplication::postEvent: Unexpected null receiver
-DateTime:2019-11-07 15:12:58 周四 Message:new connection
-DateTime:2019-11-07 15:12:58 周四 Message:sock count after add: 1
-DateTime:2019-11-07 15:12:58 周四 Message:type: 1000
-DateTime:2019-11-07 15:12:58 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
-DateTime:2019-11-07 15:13:21 周四 Message:new connection
-DateTime:2019-11-07 15:13:21 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:13:21 周四 Message:type: 1000
-DateTime:2019-11-07 15:13:22 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:13:22 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:13:27 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:13:27 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:13:27 周四 Message:"设备断开连接,socket号：1360 SN: 279e4377fdb30c10"
-DateTime:2019-11-07 15:13:27 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:13:37 周四 Message:new connection
-DateTime:2019-11-07 15:13:37 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:13:38 周四 Message:type: 1000
-DateTime:2019-11-07 15:13:38 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:13:38 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:13:41 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:13:41 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:13:41 周四 Message:"设备断开连接,socket号：2004 SN: 279e4377fdb30c10"
-DateTime:2019-11-07 15:13:41 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:13:54 周四 Message:new connection
-DateTime:2019-11-07 15:13:54 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:13:54 周四 Message:type: 1000
-DateTime:2019-11-07 15:13:54 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:13:54 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:13:57 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:13:57 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:13:57 周四 Message:"设备断开连接,socket号：1380 SN: 279e4377fdb30c10"
-DateTime:2019-11-07 15:13:57 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:14:12 周四 Message:new connection
-DateTime:2019-11-07 15:14:12 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:14:12 周四 Message:type: 1000
-DateTime:2019-11-07 15:14:13 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:14:13 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:14:13 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:14:13 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:14:13 周四 Message:"设备断开连接,socket号：2260 SN: 279e4377fdb30c10"
-DateTime:2019-11-07 15:14:13 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:14:30 周四 Message:new connection
-DateTime:2019-11-07 15:14:30 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:14:31 周四 Message:type: 1000
-DateTime:2019-11-07 15:14:31 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:14:31 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:14:32 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:14:32 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:14:32 周四 Message:"设备断开连接,socket号：2252 SN: 279e4377fdb30c10"
-DateTime:2019-11-07 15:14:32 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:14:50 周四 Message:new connection
-DateTime:2019-11-07 15:14:50 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:14:50 周四 Message:type: 1000
-DateTime:2019-11-07 15:14:50 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
-DateTime:2019-11-07 15:14:50 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:14:50 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:14:50 周四 Message:"设备断开连接,socket号：2000 SN: 279e4377fdb30c10"
-DateTime:2019-11-07 15:14:50 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:14:54 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:15:13 周四 Message:new connection
-DateTime:2019-11-07 15:15:13 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:15:14 周四 Message:type: 1000
-DateTime:2019-11-07 15:15:14 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:15:14 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:15:19 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:15:19 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:15:19 周四 Message:"设备断开连接,socket号：2336 SN: 276e0777e5bb2416"
-DateTime:2019-11-07 15:15:19 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:15:30 周四 Message:new connection
-DateTime:2019-11-07 15:15:30 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:15:31 周四 Message:type: 1000
-DateTime:2019-11-07 15:15:31 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:15:32 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:15:33 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:15:33 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:15:33 周四 Message:"设备断开连接,socket号：2328 SN: 276e0777e5bb2416"
-DateTime:2019-11-07 15:15:33 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:15:50 周四 Message:new connection
-DateTime:2019-11-07 15:15:50 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:15:50 周四 Message:type: 1000
-DateTime:2019-11-07 15:15:51 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:15:51 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:15:51 周四 Message:"设备断开连接,socket号：2336 SN: 276e0777e5bb2416"
-DateTime:2019-11-07 15:15:51 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:15:54 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:16:13 周四 Message:mysocket count:  0
-DateTime:2019-11-07 15:16:13 周四 Message:analysis count:  0
-DateTime:2019-11-07 15:16:13 周四 Message:"设备断开连接,socket号：2344 SN: 276e0777e5bb2416"
-DateTime:2019-11-07 15:16:13 周四 Message:tcpserver thread count:  0
-DateTime:2019-11-07 15:18:17 周四 Message:new connection
-DateTime:2019-11-07 15:18:17 周四 Message:sock count after add: 1
-DateTime:2019-11-07 15:18:18 周四 Message:type: 1000
-DateTime:2019-11-07 15:18:18 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
-DateTime:2019-11-07 15:18:21 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:18:41 周四 Message:new connection
-DateTime:2019-11-07 15:18:41 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:18:41 周四 Message:type: 1000
-DateTime:2019-11-07 15:18:41 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:18:41 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:18:46 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:18:46 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:18:46 周四 Message:"设备断开连接,socket号：2348 SN: 279e437745b20c10"
-DateTime:2019-11-07 15:18:46 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:19:00 周四 Message:mysocket count:  0
-DateTime:2019-11-07 15:19:00 周四 Message:analysis count:  0
-DateTime:2019-11-07 15:19:00 周四 Message:"设备断开连接,socket号：2316 SN: 279e437745b20c10"
-DateTime:2019-11-07 15:19:00 周四 Message:tcpserver thread count:  0
-DateTime:2019-11-07 15:19:06 周四 Message:new connection
-DateTime:2019-11-07 15:19:06 周四 Message:sock count after add: 1
-DateTime:2019-11-07 15:19:06 周四 Message:type: 1000
-DateTime:2019-11-07 15:19:06 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
-DateTime:2019-11-07 15:19:10 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:19:32 周四 Message:new connection
-DateTime:2019-11-07 15:19:32 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:19:32 周四 Message:type: 1000
-DateTime:2019-11-07 15:19:32 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:19:32 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:19:35 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:19:35 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:19:35 周四 Message:"设备断开连接,socket号：2268 SN: 276e0777e5b4d817"
-DateTime:2019-11-07 15:19:35 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:19:51 周四 Message:mysocket count:  0
-DateTime:2019-11-07 15:19:51 周四 Message:analysis count:  0
-DateTime:2019-11-07 15:19:51 周四 Message:"设备断开连接,socket号：2368 SN: 276e0777e5b4d817"
-DateTime:2019-11-07 15:19:51 周四 Message:tcpserver thread count:  0
-DateTime:2019-11-07 15:21:42 周四 Message:new connection
-DateTime:2019-11-07 15:21:42 周四 Message:sock count after add: 1
-DateTime:2019-11-07 15:21:42 周四 Message:type: 1000
-DateTime:2019-11-07 15:21:42 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
-DateTime:2019-11-07 15:21:45 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:22:07 周四 Message:new connection
-DateTime:2019-11-07 15:22:07 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:22:07 周四 Message:type: 1000
-DateTime:2019-11-07 15:22:10 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:22:10 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:22:10 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:22:10 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:22:10 周四 Message:"设备断开连接,socket号：2416 SN: 279e43776dbb0c10"
-DateTime:2019-11-07 15:22:10 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:22:27 周四 Message:new connection
-DateTime:2019-11-07 15:22:27 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:22:27 周四 Message:type: 1000
-DateTime:2019-11-07 15:22:28 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:22:28 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:22:29 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:22:29 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:22:29 周四 Message:"设备断开连接,socket号：2424 SN: 279e43776dbb0c10"
-DateTime:2019-11-07 15:22:29 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:22:47 周四 Message:mysocket count:  0
-DateTime:2019-11-07 15:22:47 周四 Message:analysis count:  0
-DateTime:2019-11-07 15:22:47 周四 Message:"设备断开连接,socket号：2420 SN: 279e43776dbb0c10"
-DateTime:2019-11-07 15:22:47 周四 Message:tcpserver thread count:  0
-DateTime:2019-11-07 15:22:58 周四 Message:new connection
-DateTime:2019-11-07 15:22:58 周四 Message:sock count after add: 1
-DateTime:2019-11-07 15:22:58 周四 Message:type: 1000
-DateTime:2019-11-07 15:22:58 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
-DateTime:2019-11-07 15:23:02 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:23:22 周四 Message:new connection
-DateTime:2019-11-07 15:23:22 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:23:22 周四 Message:type: 1000
-DateTime:2019-11-07 15:23:22 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:23:22 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:23:27 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:23:27 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:23:27 周四 Message:"设备断开连接,socket号：2360 SN: 276e0777c1b99c17"
-DateTime:2019-11-07 15:23:27 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:23:41 周四 Message:mysocket count:  0
-DateTime:2019-11-07 15:23:41 周四 Message:analysis count:  0
-DateTime:2019-11-07 15:23:41 周四 Message:"设备断开连接,socket号：2260 SN: 276e0777c1b99c17"
-DateTime:2019-11-07 15:23:41 周四 Message:tcpserver thread count:  0
-DateTime:2019-11-07 15:25:51 周四 Message:new connection
-DateTime:2019-11-07 15:25:51 周四 Message:sock count after add: 1
-DateTime:2019-11-07 15:25:51 周四 Message:type: 1000
-DateTime:2019-11-07 15:25:51 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
-DateTime:2019-11-07 15:27:02 周四 Message:mysocket count:  0
-DateTime:2019-11-07 15:27:02 周四 Message:analysis count:  0
-DateTime:2019-11-07 15:27:02 周四 Message:new connection
-DateTime:2019-11-07 15:27:02 周四 Message:"设备断开连接,socket号：2444 SN: 276e0777fdb3d817"
-DateTime:2019-11-07 15:27:02 周四 Message:sock count after add: 1
-DateTime:2019-11-07 15:27:02 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:27:02 周四 Message:type: 1000
-DateTime:2019-11-07 15:27:26 周四 Message:new connection
-DateTime:2019-11-07 15:27:26 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:27:26 周四 Message:type: 1000
-DateTime:2019-11-07 15:27:31 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:27:31 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:27:31 周四 Message:"设备断开连接,socket号：1428 SN: 276e0777fdb3d817"
-DateTime:2019-11-07 15:27:31 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:27:54 周四 Message:mysocket count:  0
-DateTime:2019-11-07 15:27:54 周四 Message:analysis count:  0
-DateTime:2019-11-07 15:27:54 周四 Message:"设备断开连接,socket号：2444 SN: 276e0777fdb3d817"
-DateTime:2019-11-07 15:27:54 周四 Message:tcpserver thread count:  0
-DateTime:2019-11-07 15:30:47 周四 Message:new connection
-DateTime:2019-11-07 15:30:47 周四 Message:sock count after add: 1
-DateTime:2019-11-07 15:30:47 周四 Message:type: 1000
-DateTime:2019-11-07 15:30:51 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:31:16 周四 Message:mysocket count:  0
-DateTime:2019-11-07 15:31:16 周四 Message:analysis count:  0
-DateTime:2019-11-07 15:31:16 周四 Message:"设备断开连接,socket号：2472 SN: 276e0777e5b4d817"
-DateTime:2019-11-07 15:31:16 周四 Message:tcpserver thread count:  0
-DateTime:2019-11-07 15:35:54 周四 Message:new connection
-DateTime:2019-11-07 15:35:54 周四 Message:sock count after add: 1
-DateTime:2019-11-07 15:35:54 周四 Message:type: 1000
-DateTime:2019-11-07 15:35:54 周四 Message:guid is: "{9df28fe1-63b0-425e-a7b4-6e1b9af82cd7}"
-DateTime:2019-11-07 15:36:05 周四 Message:new connection
-DateTime:2019-11-07 15:36:05 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:36:05 周四 Message:type: 1000
-DateTime:2019-11-07 15:36:23 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:36:23 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:36:23 周四 Message:"设备断开连接,socket号：2320 SN: 279e43770db60c10"
-DateTime:2019-11-07 15:36:23 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:36:34 周四 Message:mysocket count:  0
-DateTime:2019-11-07 15:36:34 周四 Message:analysis count:  0
-DateTime:2019-11-07 15:36:34 周四 Message:"设备断开连接,socket号：2480 SN: 276e0777fdb3d817"
-DateTime:2019-11-07 15:36:34 周四 Message:tcpserver thread count:  0
-DateTime:2019-11-07 15:44:25 周四 Message:new connection
-DateTime:2019-11-07 15:44:25 周四 Message:sock count after add: 1
-DateTime:2019-11-07 15:44:25 周四 Message:type: 1000
-DateTime:2019-11-07 15:44:29 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:44:49 周四 Message:new connection
-DateTime:2019-11-07 15:44:49 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:44:49 周四 Message:type: 1000
-DateTime:2019-11-07 15:44:55 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:44:55 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:44:55 周四 Message:"设备断开连接,socket号：2444 SN: 279e437745b20c10"
-DateTime:2019-11-07 15:44:55 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:45:10 周四 Message:new connection
-DateTime:2019-11-07 15:45:10 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:45:11 周四 Message:type: 1000
-DateTime:2019-11-07 15:45:14 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:45:14 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:45:18 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:45:18 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:45:18 周四 Message:"设备断开连接,socket号：2332 SN: 276e0777e5b4d817"
-DateTime:2019-11-07 15:45:18 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:45:31 周四 Message:new connection
-DateTime:2019-11-07 15:45:31 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:45:31 周四 Message:type: 1000
-DateTime:2019-11-07 15:45:34 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:45:34 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:45:41 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:45:41 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:45:41 周四 Message:"设备断开连接,socket号：2488 SN: 279e43776dbb0c10"
-DateTime:2019-11-07 15:45:41 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:45:54 周四 Message:new connection
-DateTime:2019-11-07 15:45:54 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:45:55 周四 Message:type: 1000
-DateTime:2019-11-07 15:45:58 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:45:58 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:46:00 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:46:00 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:46:00 周四 Message:"设备断开连接,socket号：2516 SN: 276e0777c1b99c17"
-DateTime:2019-11-07 15:46:00 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:46:20 周四 Message:new connection
-DateTime:2019-11-07 15:46:20 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:46:20 周四 Message:type: 1000
-DateTime:2019-11-07 15:46:20 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:46:21 周四 Message:into sendOver 4
-DateTime:2019-11-07 15:46:24 周四 Message:mysocket count:  1
-DateTime:2019-11-07 15:46:24 周四 Message:analysis count:  1
-DateTime:2019-11-07 15:46:24 周四 Message:"设备断开连接,socket号：2444 SN: 279e4377fdb30c10"
-DateTime:2019-11-07 15:46:24 周四 Message:tcpserver thread count:  1
-DateTime:2019-11-07 15:46:36 周四 Message:new connection
-DateTime:2019-11-07 15:46:36 周四 Message:sock count after add: 2
-DateTime:2019-11-07 15:46:36 周四 Message:type: 1000
-DateTime:2019-11-07 15:46:40 周四 Message:mysocket count:  1
+DateTime:2019-11-08 16:22:28 周五 Message:tcpserver thread count:  0
+DateTime:2019-11-08 16:45:26 周五 Message:new connection
+DateTime:2019-11-08 16:45:26 周五 Message:sock count after add: 1
+DateTime:2019-11-08 16:45:26 周五 Message:type: 1000
+DateTime:2019-11-08 16:45:30 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:45:50 周五 Message:new connection
+DateTime:2019-11-08 16:45:50 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:45:50 周五 Message:type: 1000
+DateTime:2019-11-08 16:45:50 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:45:50 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:45:55 周五 Message:mysocket count:  1
+DateTime:2019-11-08 16:45:55 周五 Message:analysis count:  1
+DateTime:2019-11-08 16:45:55 周五 Message:"设备断开连接,socket号：2384 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:45:55 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 16:46:08 周五 Message:new connection
+DateTime:2019-11-08 16:46:08 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:46:08 周五 Message:type: 1000
+DateTime:2019-11-08 16:46:09 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:46:09 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:46:09 周五 Message:mysocket count:  1
+DateTime:2019-11-08 16:46:09 周五 Message:analysis count:  1
+DateTime:2019-11-08 16:46:09 周五 Message:"设备断开连接,socket号：2412 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:46:09 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 16:46:24 周五 Message:new connection
+DateTime:2019-11-08 16:46:24 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:46:24 周五 Message:type: 1000
+DateTime:2019-11-08 16:46:25 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:46:25 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:46:28 周五 Message:mysocket count:  1
+DateTime:2019-11-08 16:46:28 周五 Message:analysis count:  1
+DateTime:2019-11-08 16:46:28 周五 Message:"设备断开连接,socket号：2064 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:46:28 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 16:46:43 周五 Message:new connection
+DateTime:2019-11-08 16:46:43 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:46:43 周五 Message:type: 1000
+DateTime:2019-11-08 16:46:43 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:46:43 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:46:44 周五 Message:mysocket count:  1
+DateTime:2019-11-08 16:46:44 周五 Message:analysis count:  1
+DateTime:2019-11-08 16:46:44 周五 Message:"设备断开连接,socket号：2360 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:46:44 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 16:46:59 周五 Message:new connection
+DateTime:2019-11-08 16:46:59 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:46:59 周五 Message:type: 1000
+DateTime:2019-11-08 16:47:00 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:47:00 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:47:02 周五 Message:mysocket count:  1
+DateTime:2019-11-08 16:47:02 周五 Message:analysis count:  1
+DateTime:2019-11-08 16:47:02 周五 Message:"设备断开连接,socket号：2228 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:47:02 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 16:47:19 周五 Message:mysocket count:  0
+DateTime:2019-11-08 16:47:19 周五 Message:analysis count:  0
+DateTime:2019-11-08 16:47:19 周五 Message:"设备断开连接,socket号：2428 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:47:19 周五 Message:tcpserver thread count:  0
+DateTime:2019-11-08 16:53:53 周五 Message:new connection
+DateTime:2019-11-08 16:53:53 周五 Message:sock count after add: 1
+DateTime:2019-11-08 16:53:53 周五 Message:type: 1000
+DateTime:2019-11-08 16:53:57 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:54:16 周五 Message:new connection
+DateTime:2019-11-08 16:54:16 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:54:16 周五 Message:type: 1000
+DateTime:2019-11-08 16:54:17 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:54:17 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:54:22 周五 Message:mysocket count:  1
+DateTime:2019-11-08 16:54:22 周五 Message:analysis count:  1
+DateTime:2019-11-08 16:54:22 周五 Message:"设备断开连接,socket号：2380 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:54:22 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 16:54:35 周五 Message:new connection
+DateTime:2019-11-08 16:54:35 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:54:35 周五 Message:type: 1000
+DateTime:2019-11-08 16:54:35 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:54:35 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:54:36 周五 Message:mysocket count:  1
+DateTime:2019-11-08 16:54:36 周五 Message:analysis count:  1
+DateTime:2019-11-08 16:54:36 周五 Message:"设备断开连接,socket号：2392 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:54:36 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 16:54:51 周五 Message:new connection
+DateTime:2019-11-08 16:54:51 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:54:51 周五 Message:type: 1000
+DateTime:2019-11-08 16:54:52 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:54:52 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:54:54 周五 Message:mysocket count:  1
+DateTime:2019-11-08 16:54:54 周五 Message:analysis count:  1
+DateTime:2019-11-08 16:54:54 周五 Message:"设备断开连接,socket号：2064 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:54:54 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 16:55:07 周五 Message:new connection
+DateTime:2019-11-08 16:55:07 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:55:08 周五 Message:type: 1000
+DateTime:2019-11-08 16:55:08 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:55:08 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:55:11 周五 Message:mysocket count:  1
+DateTime:2019-11-08 16:55:11 周五 Message:analysis count:  1
+DateTime:2019-11-08 16:55:11 周五 Message:"设备断开连接,socket号：1996 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:55:11 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 16:55:24 周五 Message:new connection
+DateTime:2019-11-08 16:55:24 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:55:24 周五 Message:type: 1000
+DateTime:2019-11-08 16:55:24 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:55:25 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:55:27 周五 Message:mysocket count:  1
+DateTime:2019-11-08 16:55:27 周五 Message:analysis count:  1
+DateTime:2019-11-08 16:55:27 周五 Message:"设备断开连接,socket号：2232 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:55:27 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 16:55:43 周五 Message:mysocket count:  0
+DateTime:2019-11-08 16:55:43 周五 Message:analysis count:  0
+DateTime:2019-11-08 16:55:43 周五 Message:"设备断开连接,socket号：2384 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:55:43 周五 Message:tcpserver thread count:  0
+DateTime:2019-11-08 16:57:54 周五 Message:new connection
+DateTime:2019-11-08 16:57:54 周五 Message:sock count after add: 1
+DateTime:2019-11-08 16:57:54 周五 Message:type: 1000
+DateTime:2019-11-08 16:57:58 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:58:19 周五 Message:new connection
+DateTime:2019-11-08 16:58:19 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:58:20 周五 Message:type: 1000
+DateTime:2019-11-08 16:58:20 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:58:20 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:58:23 周五 Message:mysocket count:  1
+DateTime:2019-11-08 16:58:23 周五 Message:analysis count:  1
+DateTime:2019-11-08 16:58:23 周五 Message:"设备断开连接,socket号：2064 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:58:23 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 16:58:38 周五 Message:new connection
+DateTime:2019-11-08 16:58:38 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:58:38 周五 Message:type: 1000
+DateTime:2019-11-08 16:58:39 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:58:39 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:58:39 周五 Message:mysocket count:  1
+DateTime:2019-11-08 16:58:39 周五 Message:analysis count:  1
+DateTime:2019-11-08 16:58:39 周五 Message:"设备断开连接,socket号：2452 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:58:39 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 16:58:58 周五 Message:mysocket count:  0
+DateTime:2019-11-08 16:58:58 周五 Message:analysis count:  0
+DateTime:2019-11-08 16:58:58 周五 Message:"设备断开连接,socket号：2448 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:58:58 周五 Message:tcpserver thread count:  0
+DateTime:2019-11-08 16:59:06 周五 Message:new connection
+DateTime:2019-11-08 16:59:06 周五 Message:sock count after add: 1
+DateTime:2019-11-08 16:59:06 周五 Message:type: 1000
+DateTime:2019-11-08 16:59:07 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:59:23 周五 Message:new connection
+DateTime:2019-11-08 16:59:23 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:59:23 周五 Message:type: 1000
+DateTime:2019-11-08 16:59:23 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:59:23 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:59:26 周五 Message:mysocket count:  1
+DateTime:2019-11-08 16:59:26 周五 Message:analysis count:  1
+DateTime:2019-11-08 16:59:26 周五 Message:"设备断开连接,socket号：2440 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:59:26 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 16:59:41 周五 Message:new connection
+DateTime:2019-11-08 16:59:41 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:59:41 周五 Message:type: 1000
+DateTime:2019-11-08 16:59:42 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:59:42 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:59:42 周五 Message:mysocket count:  1
+DateTime:2019-11-08 16:59:42 周五 Message:analysis count:  1
+DateTime:2019-11-08 16:59:42 周五 Message:"设备断开连接,socket号：2436 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 16:59:42 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 16:59:57 周五 Message:new connection
+DateTime:2019-11-08 16:59:57 周五 Message:sock count after add: 2
+DateTime:2019-11-08 16:59:57 周五 Message:type: 1000
+DateTime:2019-11-08 16:59:58 周五 Message:into sendOver 4
+DateTime:2019-11-08 16:59:58 周五 Message:into sendOver 4
+DateTime:2019-11-08 17:00:01 周五 Message:mysocket count:  1
+DateTime:2019-11-08 17:00:01 周五 Message:analysis count:  1
+DateTime:2019-11-08 17:00:01 周五 Message:"设备断开连接,socket号：2444 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 17:00:01 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 17:00:14 周五 Message:new connection
+DateTime:2019-11-08 17:00:14 周五 Message:sock count after add: 2
+DateTime:2019-11-08 17:00:14 周五 Message:type: 1000
+DateTime:2019-11-08 17:00:14 周五 Message:into sendOver 4
+DateTime:2019-11-08 17:00:14 周五 Message:into sendOver 4
+DateTime:2019-11-08 17:00:17 周五 Message:mysocket count:  1
+DateTime:2019-11-08 17:00:17 周五 Message:analysis count:  1
+DateTime:2019-11-08 17:00:17 周五 Message:"设备断开连接,socket号：2020 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 17:00:17 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 17:00:32 周五 Message:new connection
+DateTime:2019-11-08 17:00:32 周五 Message:sock count after add: 2
+DateTime:2019-11-08 17:00:32 周五 Message:type: 1000
+DateTime:2019-11-08 17:00:33 周五 Message:into sendOver 4
+DateTime:2019-11-08 17:00:33 周五 Message:into sendOver 4
+DateTime:2019-11-08 17:00:33 周五 Message:mysocket count:  1
+DateTime:2019-11-08 17:00:33 周五 Message:analysis count:  1
+DateTime:2019-11-08 17:00:33 周五 Message:"设备断开连接,socket号：2444 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 17:00:33 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 17:00:48 周五 Message:new connection
+DateTime:2019-11-08 17:00:48 周五 Message:sock count after add: 2
+DateTime:2019-11-08 17:00:48 周五 Message:type: 1000
+DateTime:2019-11-08 17:00:49 周五 Message:into sendOver 4
+DateTime:2019-11-08 17:00:49 周五 Message:into sendOver 4
+DateTime:2019-11-08 17:00:52 周五 Message:mysocket count:  1
+DateTime:2019-11-08 17:00:52 周五 Message:analysis count:  1
+DateTime:2019-11-08 17:00:52 周五 Message:"设备断开连接,socket号：2472 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 17:00:52 周五 Message:tcpserver thread count:  1
+DateTime:2019-11-08 17:01:08 周五 Message:mysocket count:  0
+DateTime:2019-11-08 17:01:08 周五 Message:analysis count:  0
+DateTime:2019-11-08 17:01:08 周五 Message:"设备断开连接,socket号：2096 SN: 276e0777d5ba2416"
+DateTime:2019-11-08 17:01:08 周五 Message:tcpserver thread count:  0
+DateTime:2019-11-08 17:21:22 周五 Message:back remain counts:  0 0 0
+DateTime:2019-11-08 17:21:22 周五 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-11 10:25:51 周一 Message:new connection
+DateTime:2019-11-11 10:25:51 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:25:52 周一 Message:type: 1000
+DateTime:2019-11-11 10:25:52 周一 Message:guid is: "{db775787-9a2c-4e75-b8df-95e72c4f6d6e}"
+DateTime:2019-11-11 10:26:15 周一 Message:new connection
+DateTime:2019-11-11 10:26:15 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:26:15 周一 Message:type: 1000
+DateTime:2019-11-11 10:26:20 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:26:20 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:26:20 周一 Message:"设备断开连接,socket号：2200 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:26:20 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:26:39 周一 Message:new connection
+DateTime:2019-11-11 10:26:39 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:26:39 周一 Message:type: 1000
+DateTime:2019-11-11 10:26:44 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:26:44 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:26:44 周一 Message:"设备断开连接,socket号：2236 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:26:44 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:27:02 周一 Message:new connection
+DateTime:2019-11-11 10:27:02 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:27:02 周一 Message:type: 1000
+DateTime:2019-11-11 10:27:07 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:27:07 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:27:07 周一 Message:"设备断开连接,socket号：2220 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:27:07 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:27:26 周一 Message:new connection
+DateTime:2019-11-11 10:27:26 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:27:26 周一 Message:type: 1000
+DateTime:2019-11-11 10:27:31 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:27:31 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:27:31 周一 Message:"设备断开连接,socket号：1976 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:27:31 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:27:49 周一 Message:new connection
+DateTime:2019-11-11 10:27:49 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:27:49 周一 Message:type: 1000
+DateTime:2019-11-11 10:27:55 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:27:55 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:27:55 周一 Message:"设备断开连接,socket号：2212 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:27:55 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:28:13 周一 Message:new connection
+DateTime:2019-11-11 10:28:13 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:28:13 周一 Message:type: 1000
+DateTime:2019-11-11 10:28:18 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:28:18 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:28:18 周一 Message:"设备断开连接,socket号：2004 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:28:18 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:28:36 周一 Message:new connection
+DateTime:2019-11-11 10:28:36 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:28:37 周一 Message:type: 1000
+DateTime:2019-11-11 10:28:42 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:28:42 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:28:42 周一 Message:"设备断开连接,socket号：2204 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:28:42 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:29:00 周一 Message:new connection
+DateTime:2019-11-11 10:29:00 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:29:00 周一 Message:type: 1000
+DateTime:2019-11-11 10:29:05 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:29:05 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:29:05 周一 Message:"设备断开连接,socket号：1976 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:29:05 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:29:24 周一 Message:new connection
+DateTime:2019-11-11 10:29:24 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:29:24 周一 Message:type: 1000
+DateTime:2019-11-11 10:29:29 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:29:29 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:29:29 周一 Message:"设备断开连接,socket号：2340 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:29:29 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:29:52 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:29:52 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:29:52 周一 Message:"设备断开连接,socket号：2372 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:29:52 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:29:55 周一 Message:new connection
+DateTime:2019-11-11 10:29:55 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:29:55 周一 Message:type: 1000
+DateTime:2019-11-11 10:30:19 周一 Message:new connection
+DateTime:2019-11-11 10:30:19 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:30:19 周一 Message:type: 1000
+DateTime:2019-11-11 10:30:24 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:30:24 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:30:24 周一 Message:"设备断开连接,socket号：2368 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:30:24 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:30:42 周一 Message:new connection
+DateTime:2019-11-11 10:30:42 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:30:42 周一 Message:type: 1000
+DateTime:2019-11-11 10:30:48 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:30:48 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:30:48 周一 Message:"设备断开连接,socket号：1936 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:30:48 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:31:06 周一 Message:new connection
+DateTime:2019-11-11 10:31:06 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:31:06 周一 Message:type: 1000
+DateTime:2019-11-11 10:31:11 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:31:11 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:31:11 周一 Message:"设备断开连接,socket号：1976 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:31:11 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:31:29 周一 Message:new connection
+DateTime:2019-11-11 10:31:29 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:31:29 周一 Message:type: 1000
+DateTime:2019-11-11 10:31:35 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:31:35 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:31:35 周一 Message:"设备断开连接,socket号：1936 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:31:35 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:31:53 周一 Message:new connection
+DateTime:2019-11-11 10:31:53 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:31:53 周一 Message:type: 1000
+DateTime:2019-11-11 10:31:58 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:31:58 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:31:58 周一 Message:"设备断开连接,socket号：2416 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:31:58 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:32:17 周一 Message:new connection
+DateTime:2019-11-11 10:32:17 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:32:18 周一 Message:type: 1000
+DateTime:2019-11-11 10:32:22 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:32:22 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:32:22 周一 Message:"设备断开连接,socket号：1980 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:32:22 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:32:41 周一 Message:new connection
+DateTime:2019-11-11 10:32:41 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:32:41 周一 Message:type: 1000
+DateTime:2019-11-11 10:32:46 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:32:46 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:32:46 周一 Message:"设备断开连接,socket号：2412 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:32:46 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:33:04 周一 Message:new connection
+DateTime:2019-11-11 10:33:04 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:33:04 周一 Message:type: 1000
+DateTime:2019-11-11 10:33:10 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:33:10 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:33:10 周一 Message:"设备断开连接,socket号：1980 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:33:10 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:33:27 周一 Message:new connection
+DateTime:2019-11-11 10:33:27 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:33:27 周一 Message:type: 1000
+DateTime:2019-11-11 10:33:33 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:33:33 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:33:33 周一 Message:"设备断开连接,socket号：2376 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:33:33 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:33:51 周一 Message:new connection
+DateTime:2019-11-11 10:33:51 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:33:51 周一 Message:type: 1000
+DateTime:2019-11-11 10:33:56 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:33:56 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:33:56 周一 Message:"设备断开连接,socket号：2392 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:33:56 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:34:14 周一 Message:new connection
+DateTime:2019-11-11 10:34:14 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:34:14 周一 Message:type: 1000
+DateTime:2019-11-11 10:34:20 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:34:20 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:34:20 周一 Message:"设备断开连接,socket号：2384 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:34:20 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:34:38 周一 Message:new connection
+DateTime:2019-11-11 10:34:38 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:34:38 周一 Message:type: 1000
+DateTime:2019-11-11 10:34:43 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:34:43 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:34:43 周一 Message:"设备断开连接,socket号：2412 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:34:43 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:35:07 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:35:07 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:35:07 周一 Message:"设备断开连接,socket号：1964 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:35:07 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:35:25 周一 Message:new connection
+DateTime:2019-11-11 10:35:25 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:35:26 周一 Message:type: 1000
+DateTime:2019-11-11 10:35:55 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:35:55 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:35:55 周一 Message:"设备断开连接,socket号：2448 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:35:55 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:36:13 周一 Message:new connection
+DateTime:2019-11-11 10:36:13 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:36:13 周一 Message:type: 1000
+DateTime:2019-11-11 10:36:37 周一 Message:new connection
+DateTime:2019-11-11 10:36:37 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:36:37 周一 Message:type: 1000
+DateTime:2019-11-11 10:36:42 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:36:42 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:36:42 周一 Message:"设备断开连接,socket号：2472 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:36:42 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:37:00 周一 Message:new connection
+DateTime:2019-11-11 10:37:00 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:37:00 周一 Message:type: 1000
+DateTime:2019-11-11 10:37:06 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:37:06 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:37:06 周一 Message:"设备断开连接,socket号：2476 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:37:06 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:37:29 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:37:29 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:37:29 周一 Message:"设备断开连接,socket号：2500 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:37:29 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:37:48 周一 Message:new connection
+DateTime:2019-11-11 10:37:48 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:37:48 周一 Message:type: 1000
+DateTime:2019-11-11 10:38:12 周一 Message:new connection
+DateTime:2019-11-11 10:38:12 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:38:12 周一 Message:type: 1000
+DateTime:2019-11-11 10:38:17 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:38:17 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:38:17 周一 Message:"设备断开连接,socket号：2496 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:38:17 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:38:41 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:38:41 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:38:41 周一 Message:"设备断开连接,socket号：2484 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:38:41 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:38:59 周一 Message:new connection
+DateTime:2019-11-11 10:38:59 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:39:00 周一 Message:type: 1000
+DateTime:2019-11-11 10:39:28 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:39:28 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:39:28 周一 Message:"设备断开连接,socket号：2460 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:39:28 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:40:02 周一 Message:new connection
+DateTime:2019-11-11 10:40:02 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:40:02 周一 Message:type: 1000
+DateTime:2019-11-11 10:40:26 周一 Message:new connection
+DateTime:2019-11-11 10:40:26 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:40:26 周一 Message:type: 1000
+DateTime:2019-11-11 10:40:31 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:40:31 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:40:31 周一 Message:"设备断开连接,socket号：2528 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:40:31 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:40:55 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:40:55 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:40:55 周一 Message:"设备断开连接,socket号：2476 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:40:55 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:40:55 周一 Message:new connection
+DateTime:2019-11-11 10:40:55 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:40:55 周一 Message:type: 1000
+DateTime:2019-11-11 10:41:14 周一 Message:new connection
+DateTime:2019-11-11 10:41:14 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:41:14 周一 Message:type: 1000
+DateTime:2019-11-11 10:41:14 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:41:14 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:41:14 周一 Message:"设备断开连接,socket号：2460 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:41:14 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:41:43 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:41:43 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:41:43 周一 Message:"设备断开连接,socket号：2532 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:41:43 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:42:55 周一 Message:new connection
+DateTime:2019-11-11 10:42:55 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:43:15 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:43:15 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:43:15 周一 Message:new connection
+DateTime:2019-11-11 10:43:15 周一 Message:"设备断开连接,socket号：2500 SN: "
+DateTime:2019-11-11 10:43:15 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:43:15 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:43:16 周一 Message:type: 1000
+DateTime:2019-11-11 10:43:44 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:43:44 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:43:44 周一 Message:"设备断开连接,socket号：2520 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:43:44 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:44:16 周一 Message:new connection
+DateTime:2019-11-11 10:44:16 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:44:16 周一 Message:type: 1000
+DateTime:2019-11-11 10:45:55 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:45:55 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:45:55 周一 Message:"设备断开连接,socket号：2532 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:45:55 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:46:06 周一 Message:new connection
+DateTime:2019-11-11 10:46:06 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:46:06 周一 Message:type: 1000
+DateTime:2019-11-11 10:47:15 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:47:15 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:47:15 周一 Message:"设备断开连接,socket号：2536 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:47:15 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:47:15 周一 Message:new connection
+DateTime:2019-11-11 10:47:15 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:47:15 周一 Message:type: 1000
+DateTime:2019-11-11 10:47:39 周一 Message:new connection
+DateTime:2019-11-11 10:47:39 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:47:39 周一 Message:type: 1000
+DateTime:2019-11-11 10:47:44 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:47:44 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:47:44 周一 Message:"设备断开连接,socket号：2548 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:47:44 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:48:02 周一 Message:new connection
+DateTime:2019-11-11 10:48:02 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:48:02 周一 Message:type: 1000
+DateTime:2019-11-11 10:48:08 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:48:08 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:48:08 周一 Message:"设备断开连接,socket号：2468 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:48:08 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:48:27 周一 Message:new connection
+DateTime:2019-11-11 10:48:27 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:48:27 周一 Message:type: 1000
+DateTime:2019-11-11 10:48:31 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:48:32 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:48:32 周一 Message:"设备断开连接,socket号：2512 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:48:32 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:48:49 周一 Message:new connection
+DateTime:2019-11-11 10:48:49 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:48:50 周一 Message:type: 1000
+DateTime:2019-11-11 10:48:56 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:48:56 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:48:56 周一 Message:"设备断开连接,socket号：2552 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:48:56 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:49:13 周一 Message:new connection
+DateTime:2019-11-11 10:49:13 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:49:13 周一 Message:type: 1000
+DateTime:2019-11-11 10:49:19 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:49:19 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:49:19 周一 Message:"设备断开连接,socket号：2512 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:49:19 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:49:37 周一 Message:new connection
+DateTime:2019-11-11 10:49:37 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:49:37 周一 Message:type: 1000
+DateTime:2019-11-11 10:49:42 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:49:42 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:49:42 周一 Message:"设备断开连接,socket号：2468 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:49:42 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:50:06 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:50:06 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:50:06 周一 Message:"设备断开连接,socket号：2532 SN: 279e437749b6f011"
+DateTime:2019-11-11 10:50:06 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:53:02 周一 Message:new connection
+DateTime:2019-11-11 10:53:02 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:53:03 周一 Message:type: 1000
+DateTime:2019-11-11 10:53:03 周一 Message:guid is: "{db775787-9a2c-4e75-b8df-95e72c4f6d6e}"
+DateTime:2019-11-11 10:54:13 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:54:13 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:54:13 周一 Message:"设备断开连接,socket号：2552 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 10:54:13 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:54:13 周一 Message:new connection
+DateTime:2019-11-11 10:54:13 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:54:13 周一 Message:type: 1000
+DateTime:2019-11-11 10:54:37 周一 Message:new connection
+DateTime:2019-11-11 10:54:37 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:54:37 周一 Message:type: 1000
+DateTime:2019-11-11 10:54:42 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:54:42 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:54:42 周一 Message:"设备断开连接,socket号：2560 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 10:54:42 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:55:00 周一 Message:new connection
+DateTime:2019-11-11 10:55:00 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:55:00 周一 Message:type: 1000
+DateTime:2019-11-11 10:55:05 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:55:05 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:55:05 周一 Message:"设备断开连接,socket号：2372 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 10:55:05 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:55:10 周一 Message:new connection
+DateTime:2019-11-11 10:55:10 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:55:10 周一 Message:type: 1000
+DateTime:2019-11-11 10:55:10 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:55:10 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:55:10 周一 Message:"设备断开连接,socket号：2524 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 10:55:10 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 10:55:49 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:55:49 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:55:49 周一 Message:"设备断开连接,socket号：2572 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 10:55:49 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:58:10 周一 Message:new connection
+DateTime:2019-11-11 10:58:10 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:58:10 周一 Message:type: 1000
+DateTime:2019-11-11 10:59:22 周一 Message:mysocket count:  0
+DateTime:2019-11-11 10:59:22 周一 Message:analysis count:  0
+DateTime:2019-11-11 10:59:22 周一 Message:"设备断开连接,socket号：2564 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 10:59:22 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 10:59:22 周一 Message:new connection
+DateTime:2019-11-11 10:59:22 周一 Message:sock count after add: 1
+DateTime:2019-11-11 10:59:22 周一 Message:type: 1000
+DateTime:2019-11-11 10:59:45 周一 Message:new connection
+DateTime:2019-11-11 10:59:45 周一 Message:sock count after add: 2
+DateTime:2019-11-11 10:59:45 周一 Message:type: 1000
+DateTime:2019-11-11 10:59:51 周一 Message:mysocket count:  1
+DateTime:2019-11-11 10:59:51 周一 Message:analysis count:  1
+DateTime:2019-11-11 10:59:51 周一 Message:"设备断开连接,socket号：2496 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 10:59:51 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:00:09 周一 Message:new connection
+DateTime:2019-11-11 11:00:09 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:00:12 周一 Message:type: 1000
+DateTime:2019-11-11 11:00:14 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:00:14 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:00:14 周一 Message:"设备断开连接,socket号：2584 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:00:14 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:00:34 周一 Message:new connection
+DateTime:2019-11-11 11:00:34 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:00:34 周一 Message:type: 1000
+DateTime:2019-11-11 11:00:38 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:00:38 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:00:38 周一 Message:"设备断开连接,socket号：2504 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:00:38 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:00:56 周一 Message:new connection
+DateTime:2019-11-11 11:00:56 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:00:56 周一 Message:type: 1000
+DateTime:2019-11-11 11:01:02 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:01:02 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:01:02 周一 Message:"设备断开连接,socket号：2376 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:01:02 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:01:20 周一 Message:new connection
+DateTime:2019-11-11 11:01:20 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:01:20 周一 Message:type: 1000
+DateTime:2019-11-11 11:01:25 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:01:25 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:01:25 周一 Message:"设备断开连接,socket号：2508 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:01:25 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:01:43 周一 Message:new connection
+DateTime:2019-11-11 11:01:43 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:01:43 周一 Message:type: 1000
+DateTime:2019-11-11 11:01:49 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:01:49 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:01:49 周一 Message:"设备断开连接,socket号：2568 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:01:49 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:02:07 周一 Message:new connection
+DateTime:2019-11-11 11:02:07 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:02:07 周一 Message:type: 1000
+DateTime:2019-11-11 11:02:12 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:02:12 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:02:12 周一 Message:"设备断开连接,socket号：2508 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:02:12 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:02:30 周一 Message:new connection
+DateTime:2019-11-11 11:02:30 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:02:30 周一 Message:type: 1000
+DateTime:2019-11-11 11:02:36 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:02:36 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:02:36 周一 Message:"设备断开连接,socket号：840 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:02:36 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:02:54 周一 Message:new connection
+DateTime:2019-11-11 11:02:54 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:02:54 周一 Message:type: 1000
+DateTime:2019-11-11 11:02:59 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:02:59 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:02:59 周一 Message:"设备断开连接,socket号：2508 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:02:59 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:03:17 周一 Message:new connection
+DateTime:2019-11-11 11:03:17 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:03:18 周一 Message:type: 1000
+DateTime:2019-11-11 11:03:23 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:03:23 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:03:23 周一 Message:"设备断开连接,socket号：2568 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:03:23 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:03:41 周一 Message:new connection
+DateTime:2019-11-11 11:03:41 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:03:41 周一 Message:type: 1000
+DateTime:2019-11-11 11:03:46 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:03:46 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:03:46 周一 Message:"设备断开连接,socket号：840 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:03:46 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:04:06 周一 Message:new connection
+DateTime:2019-11-11 11:04:06 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:04:06 周一 Message:type: 1000
+DateTime:2019-11-11 11:04:10 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:04:10 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:04:10 周一 Message:"设备断开连接,socket号：2348 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:04:10 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:04:28 周一 Message:new connection
+DateTime:2019-11-11 11:04:28 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:04:28 周一 Message:type: 1000
+DateTime:2019-11-11 11:04:34 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:04:34 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:04:34 周一 Message:"设备断开连接,socket号：2560 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:04:34 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:04:52 周一 Message:new connection
+DateTime:2019-11-11 11:04:52 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:04:52 周一 Message:type: 1000
+DateTime:2019-11-11 11:04:57 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:04:57 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:04:57 周一 Message:"设备断开连接,socket号：836 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:04:57 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:05:15 周一 Message:new connection
+DateTime:2019-11-11 11:05:15 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:05:15 周一 Message:type: 1000
+DateTime:2019-11-11 11:05:21 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:05:21 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:05:21 周一 Message:"设备断开连接,socket号：2612 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:05:21 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:05:44 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:05:44 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:05:44 周一 Message:"设备断开连接,socket号：2608 SN: 279e4377fdb30c10"
+DateTime:2019-11-11 11:05:44 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:10:25 周一 Message:new connection
+DateTime:2019-11-11 11:10:25 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:10:25 周一 Message:type: 1000
+DateTime:2019-11-11 11:10:25 周一 Message:guid is: "{db775787-9a2c-4e75-b8df-95e72c4f6d6e}"
+DateTime:2019-11-11 11:11:34 周一 Message:new connection
+DateTime:2019-11-11 11:11:34 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:11:34 周一 Message:type: 1000
+DateTime:2019-11-11 11:11:34 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:11:34 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:11:34 周一 Message:"设备断开连接,socket号：2608 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:11:34 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:11:57 周一 Message:new connection
+DateTime:2019-11-11 11:11:57 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:11:57 周一 Message:type: 1000
+DateTime:2019-11-11 11:12:03 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:12:03 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:12:03 周一 Message:"设备断开连接,socket号：2224 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:12:03 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:12:22 周一 Message:new connection
+DateTime:2019-11-11 11:12:22 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:12:22 周一 Message:type: 1000
+DateTime:2019-11-11 11:12:26 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:12:26 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:12:26 周一 Message:"设备断开连接,socket号：2588 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:12:26 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:12:47 周一 Message:new connection
+DateTime:2019-11-11 11:12:47 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:12:47 周一 Message:type: 1000
+DateTime:2019-11-11 11:12:51 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:12:51 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:12:51 周一 Message:"设备断开连接,socket号：2636 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:12:51 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:13:09 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:13:09 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:13:09 周一 Message:"设备断开连接,socket号：2692 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:13:09 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:13:09 周一 Message:new connection
+DateTime:2019-11-11 11:13:09 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:13:09 周一 Message:type: 1000
+DateTime:2019-11-11 11:13:32 周一 Message:new connection
+DateTime:2019-11-11 11:13:32 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:13:32 周一 Message:type: 1000
+DateTime:2019-11-11 11:13:38 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:13:38 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:13:38 周一 Message:"设备断开连接,socket号：2636 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:13:38 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:13:54 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:13:54 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:13:54 周一 Message:"设备断开连接,socket号：2588 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:13:54 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:14:00 周一 Message:new connection
+DateTime:2019-11-11 11:14:00 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:14:00 周一 Message:type: 1000
+DateTime:2019-11-11 11:15:13 周一 Message:new connection
+DateTime:2019-11-11 11:15:13 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:15:13 周一 Message:type: 1000
+DateTime:2019-11-11 11:15:19 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:15:19 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:15:19 周一 Message:"设备断开连接,socket号：2752 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:15:19 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:15:36 周一 Message:new connection
+DateTime:2019-11-11 11:15:36 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:15:36 周一 Message:type: 1000
+DateTime:2019-11-11 11:15:42 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:15:42 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:15:42 周一 Message:"设备断开连接,socket号：2732 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:15:42 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:16:00 周一 Message:new connection
+DateTime:2019-11-11 11:16:00 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:16:00 周一 Message:type: 1000
+DateTime:2019-11-11 11:16:05 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:16:05 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:16:05 周一 Message:"设备断开连接,socket号：2764 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:16:05 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:16:23 周一 Message:new connection
+DateTime:2019-11-11 11:16:23 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:16:23 周一 Message:type: 1000
+DateTime:2019-11-11 11:16:29 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:16:29 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:16:29 周一 Message:"设备断开连接,socket号：2736 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:16:29 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:16:47 周一 Message:new connection
+DateTime:2019-11-11 11:16:47 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:16:47 周一 Message:type: 1000
+DateTime:2019-11-11 11:16:52 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:16:52 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:16:52 周一 Message:"设备断开连接,socket号：2688 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:16:52 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:17:10 周一 Message:new connection
+DateTime:2019-11-11 11:17:10 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:17:10 周一 Message:type: 1000
+DateTime:2019-11-11 11:17:16 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:17:16 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:17:16 周一 Message:"设备断开连接,socket号：2684 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:17:16 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:17:34 周一 Message:new connection
+DateTime:2019-11-11 11:17:34 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:17:34 周一 Message:type: 1000
+DateTime:2019-11-11 11:17:39 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:17:39 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:17:39 周一 Message:"设备断开连接,socket号：2688 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:17:39 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:17:59 周一 Message:new connection
+DateTime:2019-11-11 11:17:59 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:17:59 周一 Message:type: 1000
+DateTime:2019-11-11 11:18:03 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:18:03 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:18:03 周一 Message:"设备断开连接,socket号：2776 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:18:03 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:18:21 周一 Message:new connection
+DateTime:2019-11-11 11:18:21 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:18:21 周一 Message:type: 1000
+DateTime:2019-11-11 11:18:27 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:18:27 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:18:27 周一 Message:"设备断开连接,socket号：856 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:18:27 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:18:46 周一 Message:new connection
+DateTime:2019-11-11 11:18:46 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:18:46 周一 Message:type: 1000
+DateTime:2019-11-11 11:18:50 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:18:50 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:18:50 周一 Message:"设备断开连接,socket号：2748 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:18:50 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:19:08 周一 Message:new connection
+DateTime:2019-11-11 11:19:08 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:19:08 周一 Message:type: 1000
+DateTime:2019-11-11 11:19:15 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:19:15 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:19:15 周一 Message:"设备断开连接,socket号：2764 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:19:15 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:19:32 周一 Message:new connection
+DateTime:2019-11-11 11:19:32 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:19:32 周一 Message:type: 1000
+DateTime:2019-11-11 11:19:37 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:19:37 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:19:37 周一 Message:"设备断开连接,socket号：2708 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:19:37 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:19:55 周一 Message:new connection
+DateTime:2019-11-11 11:19:55 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:19:56 周一 Message:type: 1000
+DateTime:2019-11-11 11:20:01 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:20:01 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:20:01 周一 Message:"设备断开连接,socket号：2712 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:20:01 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:20:19 周一 Message:new connection
+DateTime:2019-11-11 11:20:19 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:20:19 周一 Message:type: 1000
+DateTime:2019-11-11 11:20:24 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:20:25 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:20:25 周一 Message:"设备断开连接,socket号：856 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:20:25 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:20:43 周一 Message:new connection
+DateTime:2019-11-11 11:20:43 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:20:43 周一 Message:type: 1000
+DateTime:2019-11-11 11:20:48 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:20:48 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:20:48 周一 Message:"设备断开连接,socket号：2712 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:20:48 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:21:09 周一 Message:new connection
+DateTime:2019-11-11 11:21:09 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:21:09 周一 Message:type: 1000
+DateTime:2019-11-11 11:21:12 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:21:12 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:21:12 周一 Message:"设备断开连接,socket号：2796 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:21:12 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:21:31 周一 Message:new connection
+DateTime:2019-11-11 11:21:31 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:21:32 周一 Message:type: 1000
+DateTime:2019-11-11 11:21:38 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:21:38 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:21:38 周一 Message:"设备断开连接,socket号：2816 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:21:38 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:21:55 周一 Message:new connection
+DateTime:2019-11-11 11:21:55 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:21:55 周一 Message:type: 1000
+DateTime:2019-11-11 11:22:00 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:22:00 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:22:00 周一 Message:"设备断开连接,socket号：2792 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:22:00 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:22:18 周一 Message:new connection
+DateTime:2019-11-11 11:22:18 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:22:18 周一 Message:type: 1000
+DateTime:2019-11-11 11:22:24 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:22:24 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:22:24 周一 Message:"设备断开连接,socket号：2816 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:22:24 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:22:25 周一 Message:new connection
+DateTime:2019-11-11 11:22:25 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:22:25 周一 Message:type: 1000
+DateTime:2019-11-11 11:22:27 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:22:27 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:22:27 周一 Message:"设备断开连接,socket号：2796 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:22:27 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:23:36 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:23:36 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:23:36 周一 Message:"设备断开连接,socket号：2788 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:23:36 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:23:36 周一 Message:new connection
+DateTime:2019-11-11 11:23:36 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:23:37 周一 Message:type: 1000
+DateTime:2019-11-11 11:24:06 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:24:06 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:24:06 周一 Message:"设备断开连接,socket号：2784 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:24:06 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:24:24 周一 Message:new connection
+DateTime:2019-11-11 11:24:24 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:24:24 周一 Message:type: 1000
+DateTime:2019-11-11 11:24:48 周一 Message:new connection
+DateTime:2019-11-11 11:24:48 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:24:48 周一 Message:type: 1000
+DateTime:2019-11-11 11:24:53 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:24:53 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:24:53 周一 Message:"设备断开连接,socket号：2720 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:24:53 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:25:11 周一 Message:new connection
+DateTime:2019-11-11 11:25:11 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:25:11 周一 Message:type: 1000
+DateTime:2019-11-11 11:25:17 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:25:17 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:25:17 周一 Message:"设备断开连接,socket号：2788 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:25:17 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:25:35 周一 Message:new connection
+DateTime:2019-11-11 11:25:35 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:25:35 周一 Message:type: 1000
+DateTime:2019-11-11 11:25:41 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:25:41 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:25:41 周一 Message:"设备断开连接,socket号：2720 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:25:41 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:25:59 周一 Message:new connection
+DateTime:2019-11-11 11:25:59 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:25:59 周一 Message:type: 1000
+DateTime:2019-11-11 11:26:04 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:26:04 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:26:04 周一 Message:"设备断开连接,socket号：2740 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:26:04 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:26:22 周一 Message:new connection
+DateTime:2019-11-11 11:26:22 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:26:22 周一 Message:type: 1000
+DateTime:2019-11-11 11:26:28 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:26:28 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:26:28 周一 Message:"设备断开连接,socket号：2688 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:26:28 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:26:46 周一 Message:new connection
+DateTime:2019-11-11 11:26:46 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:26:46 周一 Message:type: 1000
+DateTime:2019-11-11 11:26:52 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:26:52 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:26:52 周一 Message:"设备断开连接,socket号：2668 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:26:52 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:27:09 周一 Message:new connection
+DateTime:2019-11-11 11:27:09 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:27:10 周一 Message:type: 1000
+DateTime:2019-11-11 11:27:15 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:27:15 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:27:15 周一 Message:"设备断开连接,socket号：2340 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:27:15 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:27:33 周一 Message:new connection
+DateTime:2019-11-11 11:27:33 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:27:33 周一 Message:type: 1000
+DateTime:2019-11-11 11:27:39 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:27:39 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:27:39 周一 Message:"设备断开连接,socket号：2668 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:27:39 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:27:56 周一 Message:new connection
+DateTime:2019-11-11 11:27:56 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:27:57 周一 Message:type: 1000
+DateTime:2019-11-11 11:28:02 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:28:02 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:28:02 周一 Message:"设备断开连接,socket号：2724 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:28:02 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:28:20 周一 Message:new connection
+DateTime:2019-11-11 11:28:20 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:28:20 周一 Message:type: 1000
+DateTime:2019-11-11 11:28:25 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:28:25 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:28:25 周一 Message:"设备断开连接,socket号：2672 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:28:25 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:28:49 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:28:49 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:28:49 周一 Message:"设备断开连接,socket号：2788 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:28:49 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:30:32 周一 Message:new connection
+DateTime:2019-11-11 11:30:32 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:30:32 周一 Message:type: 1000
+DateTime:2019-11-11 11:30:34 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:30:50 周一 Message:new connection
+DateTime:2019-11-11 11:30:50 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:30:50 周一 Message:type: 1000
+DateTime:2019-11-11 11:30:53 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:30:53 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:30:53 周一 Message:"设备断开连接,socket号：2844 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:30:53 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:30:57 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:31:09 周一 Message:new connection
+DateTime:2019-11-11 11:31:09 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:31:09 周一 Message:type: 1000
+DateTime:2019-11-11 11:31:10 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:31:10 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:31:16 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:31:16 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:31:16 周一 Message:"设备断开连接,socket号：2672 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:31:16 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:31:28 周一 Message:new connection
+DateTime:2019-11-11 11:31:28 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:31:28 周一 Message:type: 1000
+DateTime:2019-11-11 11:31:29 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:31:29 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:31:29 周一 Message:"设备断开连接,socket号：2896 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:31:29 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:31:56 周一 Message:new connection
+DateTime:2019-11-11 11:31:56 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:31:56 周一 Message:type: 1000
+DateTime:2019-11-11 11:31:57 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:31:57 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:31:57 周一 Message:"设备断开连接,socket号：2688 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:31:57 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:32:00 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:32:25 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:32:25 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:32:25 周一 Message:"设备断开连接,socket号：2856 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:32:25 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:32:36 周一 Message:new connection
+DateTime:2019-11-11 11:32:36 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:32:36 周一 Message:type: 1000
+DateTime:2019-11-11 11:32:55 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:32:55 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:32:55 周一 Message:"设备断开连接,socket号：2712 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:32:55 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:33:49 周一 Message:new connection
+DateTime:2019-11-11 11:33:49 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:33:49 周一 Message:type: 1000
+DateTime:2019-11-11 11:33:56 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:34:12 周一 Message:new connection
+DateTime:2019-11-11 11:34:12 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:34:12 周一 Message:type: 1000
+DateTime:2019-11-11 11:34:15 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:34:15 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:34:18 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:34:18 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:34:18 周一 Message:"设备断开连接,socket号：2788 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:34:18 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:34:31 周一 Message:new connection
+DateTime:2019-11-11 11:34:31 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:34:31 周一 Message:type: 1000
+DateTime:2019-11-11 11:34:32 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:34:32 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:34:34 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:34:34 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:34:34 周一 Message:"设备断开连接,socket号：2720 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:34:34 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:34:47 周一 Message:new connection
+DateTime:2019-11-11 11:34:47 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:34:47 周一 Message:type: 1000
+DateTime:2019-11-11 11:34:51 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:34:51 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:34:51 周一 Message:"设备断开连接,socket号：2856 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:34:51 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:34:52 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:35:09 周一 Message:new connection
+DateTime:2019-11-11 11:35:09 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:35:09 周一 Message:type: 1000
+DateTime:2019-11-11 11:35:11 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:35:11 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:35:11 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:35:11 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:35:11 周一 Message:"设备断开连接,socket号：2928 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:35:11 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:35:29 周一 Message:new connection
+DateTime:2019-11-11 11:35:29 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:35:30 周一 Message:type: 1000
+DateTime:2019-11-11 11:35:30 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:35:30 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:35:30 周一 Message:"设备断开连接,socket号：2788 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:35:30 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:35:51 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:35:51 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:35:51 周一 Message:"设备断开连接,socket号：2952 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:35:51 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:35:51 周一 Message:new connection
+DateTime:2019-11-11 11:35:51 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:35:51 周一 Message:type: 1000
+DateTime:2019-11-11 11:35:58 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:36:17 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:36:17 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:36:17 周一 Message:"设备断开连接,socket号：2948 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:36:17 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:36:17 周一 Message:new connection
+DateTime:2019-11-11 11:36:17 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:36:17 周一 Message:type: 1000
+DateTime:2019-11-11 11:36:37 周一 Message:new connection
+DateTime:2019-11-11 11:36:37 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:36:38 周一 Message:type: 1000
+DateTime:2019-11-11 11:36:42 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:36:42 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:36:46 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:36:46 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:36:46 周一 Message:"设备断开连接,socket号：2856 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:36:46 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:37:00 周一 Message:new connection
+DateTime:2019-11-11 11:37:00 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:37:00 周一 Message:type: 1000
+DateTime:2019-11-11 11:37:01 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:37:01 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:37:01 周一 Message:"设备断开连接,socket号：2892 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:37:01 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:37:02 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:37:17 周一 Message:new connection
+DateTime:2019-11-11 11:37:17 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:37:18 周一 Message:type: 1000
+DateTime:2019-11-11 11:37:21 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:37:21 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:37:21 周一 Message:"设备断开连接,socket号：2792 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:37:21 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:37:23 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:37:42 周一 Message:new connection
+DateTime:2019-11-11 11:37:42 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:37:42 周一 Message:type: 1000
+DateTime:2019-11-11 11:37:42 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:37:42 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:37:42 周一 Message:"设备断开连接,socket号：2816 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:37:42 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:38:03 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:38:03 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:38:03 周一 Message:"设备断开连接,socket号：2676 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:38:03 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:38:03 周一 Message:new connection
+DateTime:2019-11-11 11:38:03 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:38:03 周一 Message:type: 1000
+DateTime:2019-11-11 11:38:05 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:38:22 周一 Message:new connection
+DateTime:2019-11-11 11:38:22 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:38:22 周一 Message:type: 1000
+DateTime:2019-11-11 11:38:24 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:38:24 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:38:24 周一 Message:"设备断开连接,socket号：2972 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:38:24 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:38:45 周一 Message:new connection
+DateTime:2019-11-11 11:38:45 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:38:45 周一 Message:type: 1000
+DateTime:2019-11-11 11:38:50 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:38:50 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:38:50 周一 Message:"设备断开连接,socket号：2716 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:38:50 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:38:52 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:39:08 周一 Message:new connection
+DateTime:2019-11-11 11:39:08 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:39:08 周一 Message:type: 1000
+DateTime:2019-11-11 11:39:11 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:39:11 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:39:11 周一 Message:"设备断开连接,socket号：2944 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:39:11 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:39:31 周一 Message:new connection
+DateTime:2019-11-11 11:39:31 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:39:31 周一 Message:type: 1000
+DateTime:2019-11-11 11:39:37 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:39:37 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:39:37 周一 Message:"设备断开连接,socket号：2976 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:39:37 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:39:37 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:39:53 周一 Message:new connection
+DateTime:2019-11-11 11:39:53 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:39:53 周一 Message:type: 1000
+DateTime:2019-11-11 11:39:56 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:39:56 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:39:56 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:39:56 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:39:56 周一 Message:"设备断开连接,socket号：2996 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:39:56 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:40:12 周一 Message:new connection
+DateTime:2019-11-11 11:40:12 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:40:12 周一 Message:type: 1000
+DateTime:2019-11-11 11:40:15 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:40:15 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:40:15 周一 Message:"设备断开连接,socket号：2976 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:40:15 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:40:41 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:40:41 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:40:41 周一 Message:"设备断开连接,socket号：2996 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:40:41 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:41:01 周一 Message:new connection
+DateTime:2019-11-11 11:41:01 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:41:01 周一 Message:type: 1000
+DateTime:2019-11-11 11:41:30 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:41:30 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:41:30 周一 Message:"设备断开连接,socket号：2944 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:41:30 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:41:57 周一 Message:new connection
+DateTime:2019-11-11 11:41:57 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:41:57 周一 Message:type: 1000
+DateTime:2019-11-11 11:42:02 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:42:20 周一 Message:new connection
+DateTime:2019-11-11 11:42:20 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:42:20 周一 Message:type: 1000
+DateTime:2019-11-11 11:42:23 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:42:23 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:42:25 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:42:25 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:42:25 周一 Message:"设备断开连接,socket号：3008 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:42:25 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:42:39 周一 Message:new connection
+DateTime:2019-11-11 11:42:39 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:42:39 周一 Message:type: 1000
+DateTime:2019-11-11 11:42:41 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:42:41 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:42:42 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:42:42 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:42:42 周一 Message:"设备断开连接,socket号：2732 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:42:42 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:42:58 周一 Message:new connection
+DateTime:2019-11-11 11:42:58 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:42:58 周一 Message:type: 1000
+DateTime:2019-11-11 11:43:00 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:43:00 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:43:00 周一 Message:"设备断开连接,socket号：3008 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:43:00 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:43:03 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:43:19 周一 Message:new connection
+DateTime:2019-11-11 11:43:19 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:43:19 周一 Message:type: 1000
+DateTime:2019-11-11 11:43:19 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:43:19 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:43:22 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:43:22 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:43:22 周一 Message:"设备断开连接,socket号：3024 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:43:22 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:43:35 周一 Message:new connection
+DateTime:2019-11-11 11:43:35 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:43:35 周一 Message:type: 1000
+DateTime:2019-11-11 11:43:37 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:43:37 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:43:38 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:43:38 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:43:38 周一 Message:"设备断开连接,socket号：2968 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:43:38 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:43:54 周一 Message:new connection
+DateTime:2019-11-11 11:43:54 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:43:54 周一 Message:type: 1000
+DateTime:2019-11-11 11:43:56 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:43:56 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:43:56 周一 Message:"设备断开连接,socket号：2892 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:43:56 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:43:57 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:44:13 周一 Message:new connection
+DateTime:2019-11-11 11:44:13 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:44:13 周一 Message:type: 1000
+DateTime:2019-11-11 11:44:15 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:44:15 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:44:16 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:44:16 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:44:16 周一 Message:"设备断开连接,socket号：2788 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:44:16 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:44:32 周一 Message:new connection
+DateTime:2019-11-11 11:44:32 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:44:32 周一 Message:type: 1000
+DateTime:2019-11-11 11:44:34 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:44:34 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:44:34 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:44:34 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:44:34 周一 Message:"设备断开连接,socket号：2720 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:44:34 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:44:50 周一 Message:new connection
+DateTime:2019-11-11 11:44:50 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:44:50 周一 Message:type: 1000
+DateTime:2019-11-11 11:44:51 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:44:51 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:44:53 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:44:53 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:44:53 周一 Message:"设备断开连接,socket号：2716 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:44:53 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:45:06 周一 Message:new connection
+DateTime:2019-11-11 11:45:06 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:45:07 周一 Message:type: 1000
+DateTime:2019-11-11 11:45:08 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:45:08 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:45:10 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:45:10 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:45:10 周一 Message:"设备断开连接,socket号：3000 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:45:10 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:45:24 周一 Message:new connection
+DateTime:2019-11-11 11:45:24 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:45:24 周一 Message:type: 1000
+DateTime:2019-11-11 11:45:25 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:45:25 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:45:27 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:45:27 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:45:27 周一 Message:"设备断开连接,socket号：836 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:45:27 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:45:40 周一 Message:new connection
+DateTime:2019-11-11 11:45:40 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:45:41 周一 Message:type: 1000
+DateTime:2019-11-11 11:45:44 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:45:44 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:45:44 周一 Message:"设备断开连接,socket号：2928 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:45:44 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:45:46 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:46:02 周一 Message:new connection
+DateTime:2019-11-11 11:46:02 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:46:02 周一 Message:type: 1000
+DateTime:2019-11-11 11:46:05 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:46:05 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:46:05 周一 Message:"设备断开连接,socket号：836 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:46:05 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:46:05 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:46:21 周一 Message:new connection
+DateTime:2019-11-11 11:46:21 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:46:21 周一 Message:type: 1000
+DateTime:2019-11-11 11:46:24 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:46:24 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:46:24 周一 Message:"设备断开连接,socket号：3008 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:46:24 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:46:46 周一 Message:new connection
+DateTime:2019-11-11 11:46:46 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:46:46 周一 Message:type: 1000
+DateTime:2019-11-11 11:46:49 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:46:49 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:46:50 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:46:50 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:46:50 周一 Message:"设备断开连接,socket号：3048 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:46:50 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:47:06 周一 Message:new connection
+DateTime:2019-11-11 11:47:06 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:47:06 周一 Message:type: 1000
+DateTime:2019-11-11 11:47:08 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:47:08 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:47:08 周一 Message:"设备断开连接,socket号：2716 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:47:08 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:47:13 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:47:30 周一 Message:new connection
+DateTime:2019-11-11 11:47:30 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:47:30 周一 Message:type: 1000
+DateTime:2019-11-11 11:47:32 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:47:32 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:47:32 周一 Message:"设备断开连接,socket号：2996 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:47:32 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:47:36 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:47:52 周一 Message:new connection
+DateTime:2019-11-11 11:47:52 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:47:52 周一 Message:type: 1000
+DateTime:2019-11-11 11:47:54 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:47:54 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:47:55 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:47:55 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:47:55 周一 Message:"设备断开连接,socket号：2892 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:47:55 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:48:10 周一 Message:new connection
+DateTime:2019-11-11 11:48:10 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:48:10 周一 Message:type: 1000
+DateTime:2019-11-11 11:48:10 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:48:10 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:48:13 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:48:13 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:48:13 周一 Message:"设备断开连接,socket号：3012 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:48:13 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:48:26 周一 Message:new connection
+DateTime:2019-11-11 11:48:26 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:48:26 周一 Message:type: 1000
+DateTime:2019-11-11 11:48:28 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:48:28 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:48:29 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:48:29 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:48:29 周一 Message:"设备断开连接,socket号：2672 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:48:29 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:48:44 周一 Message:new connection
+DateTime:2019-11-11 11:48:44 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:48:44 周一 Message:type: 1000
+DateTime:2019-11-11 11:48:47 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:48:47 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:48:47 周一 Message:"设备断开连接,socket号：2724 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:48:47 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:48:52 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:49:09 周一 Message:new connection
+DateTime:2019-11-11 11:49:09 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:49:09 周一 Message:type: 1000
+DateTime:2019-11-11 11:49:11 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:49:11 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:49:11 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:49:11 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:49:11 周一 Message:"设备断开连接,socket号：2672 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:49:11 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:49:26 周一 Message:new connection
+DateTime:2019-11-11 11:49:26 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:49:27 周一 Message:type: 1000
+DateTime:2019-11-11 11:49:29 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:49:29 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:49:30 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:49:30 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:49:30 周一 Message:"设备断开连接,socket号：2744 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:49:30 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:49:45 周一 Message:new connection
+DateTime:2019-11-11 11:49:45 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:49:45 周一 Message:type: 1000
+DateTime:2019-11-11 11:49:46 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:49:46 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:49:48 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:49:48 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:49:48 周一 Message:"设备断开连接,socket号：2672 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:49:48 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:50:03 周一 Message:new connection
+DateTime:2019-11-11 11:50:03 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:50:03 周一 Message:type: 1000
+DateTime:2019-11-11 11:50:05 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:50:05 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:50:05 周一 Message:"设备断开连接,socket号：2232 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:50:05 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:50:28 周一 Message:new connection
+DateTime:2019-11-11 11:50:28 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:50:30 周一 Message:type: 1000
+DateTime:2019-11-11 11:50:32 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:50:32 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:50:32 周一 Message:"设备断开连接,socket号：2676 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:50:32 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:50:54 周一 Message:new connection
+DateTime:2019-11-11 11:50:54 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:50:54 周一 Message:type: 1000
+DateTime:2019-11-11 11:50:57 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:50:57 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:50:57 周一 Message:"设备断开连接,socket号：2932 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:50:57 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:52:10 周一 Message:new connection
+DateTime:2019-11-11 11:52:10 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:52:10 周一 Message:type: 1000
+DateTime:2019-11-11 11:52:16 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:52:16 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:52:34 周一 Message:new connection
+DateTime:2019-11-11 11:52:34 周一 Message:sock count after add: 3
+DateTime:2019-11-11 11:52:34 周一 Message:type: 1000
+DateTime:2019-11-11 11:52:35 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:52:35 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:52:35 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:52:39 周一 Message:mysocket count:  2
+DateTime:2019-11-11 11:52:39 周一 Message:analysis count:  2
+DateTime:2019-11-11 11:52:39 周一 Message:"设备断开连接,socket号：3032 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:52:39 周一 Message:tcpserver thread count:  2
+DateTime:2019-11-11 11:52:50 周一 Message:new connection
+DateTime:2019-11-11 11:52:50 周一 Message:sock count after add: 3
+DateTime:2019-11-11 11:52:50 周一 Message:type: 1000
+DateTime:2019-11-11 11:52:52 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:52:52 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:52:53 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:52:54 周一 Message:mysocket count:  2
+DateTime:2019-11-11 11:52:54 周一 Message:analysis count:  2
+DateTime:2019-11-11 11:52:54 周一 Message:"设备断开连接,socket号：2848 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:52:54 周一 Message:tcpserver thread count:  2
+DateTime:2019-11-11 11:53:11 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:53:11 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:53:11 周一 Message:"设备断开连接,socket号：2672 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:53:11 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:53:13 周一 Message:new connection
+DateTime:2019-11-11 11:53:13 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:53:13 周一 Message:type: 1000
+DateTime:2019-11-11 11:53:42 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:53:42 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:53:42 周一 Message:"设备断开连接,socket号：2956 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:53:42 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:54:03 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:54:03 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:54:03 周一 Message:"设备断开连接,socket号：2740 SN: 276e0777e5bb2416"
+DateTime:2019-11-11 11:54:03 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:54:14 周一 Message:new connection
+DateTime:2019-11-11 11:54:14 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:54:14 周一 Message:type: 1000
+DateTime:2019-11-11 11:55:03 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:55:03 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:55:03 周一 Message:"设备断开连接,socket号：2628 SN: 279e437749b6f011"
+DateTime:2019-11-11 11:55:03 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:56:05 周一 Message:new connection
+DateTime:2019-11-11 11:56:05 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:56:05 周一 Message:type: 1000
+DateTime:2019-11-11 11:57:04 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:57:04 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:57:04 周一 Message:"设备断开连接,socket号：2856 SN: 279e437749b6f011"
+DateTime:2019-11-11 11:57:04 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:57:13 周一 Message:new connection
+DateTime:2019-11-11 11:57:13 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:57:13 周一 Message:type: 1000
+DateTime:2019-11-11 11:57:21 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:57:41 周一 Message:new connection
+DateTime:2019-11-11 11:57:41 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:57:41 周一 Message:type: 1000
+DateTime:2019-11-11 11:57:41 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:57:42 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:57:52 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:57:52 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:57:52 周一 Message:"设备断开连接,socket号：2676 SN: 279e437749b6f011"
+DateTime:2019-11-11 11:57:52 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:57:59 周一 Message:new connection
+DateTime:2019-11-11 11:57:59 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:57:59 周一 Message:type: 1000
+DateTime:2019-11-11 11:58:01 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:58:01 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:58:01 周一 Message:"设备断开连接,socket号：3048 SN: 279e437749b6f011"
+DateTime:2019-11-11 11:58:01 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:58:02 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:58:19 周一 Message:new connection
+DateTime:2019-11-11 11:58:19 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:58:19 周一 Message:type: 1000
+DateTime:2019-11-11 11:58:19 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:58:19 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:58:22 周一 Message:mysocket count:  1
+DateTime:2019-11-11 11:58:22 周一 Message:analysis count:  1
+DateTime:2019-11-11 11:58:22 周一 Message:"设备断开连接,socket号：2960 SN: 279e437749b6f011"
+DateTime:2019-11-11 11:58:22 周一 Message:tcpserver thread count:  1
+DateTime:2019-11-11 11:58:38 周一 Message:mysocket count:  0
+DateTime:2019-11-11 11:58:38 周一 Message:analysis count:  0
+DateTime:2019-11-11 11:58:38 周一 Message:"设备断开连接,socket号：2676 SN: 279e437749b6f011"
+DateTime:2019-11-11 11:58:38 周一 Message:tcpserver thread count:  0
+DateTime:2019-11-11 11:59:15 周一 Message:new connection
+DateTime:2019-11-11 11:59:15 周一 Message:sock count after add: 1
+DateTime:2019-11-11 11:59:15 周一 Message:type: 1000
+DateTime:2019-11-11 11:59:19 周一 Message:into sendOver 4
+DateTime:2019-11-11 11:59:39 周一 Message:new connection
+DateTime:2019-11-11 11:59:39 周一 Message:sock count after add: 2
+DateTime:2019-11-11 11:59:39 周一 Message:type: 1000
+DateTime:2019-11-11 11:59:40 周一 Message:into sendOver 4

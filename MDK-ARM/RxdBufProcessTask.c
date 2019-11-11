@@ -1194,25 +1194,37 @@ uint8_t command_set_time(void)   //设置时间
 
 uint8_t command_set_tcpserve(void)   //设置TCP_SERVER的目标上位机地址
 {
+	
+	for(uint8_t i=0;i<CmdBufLength;i++)
 	{
-		for(uint8_t i=0;i<CmdBufLength;i++)
 		CmdBuf[i]=RXDCmdBuf[i];
-	  CmdBufLength=CmdBufLength;
-    WriteDataToTXDBUF(CmdBuf,CmdBufLength);
-	 }
-#ifdef ProgramESP32ByMyself
-	 CmdBuf[1]=0xe7; //
-	 for(uint32_t i=1;i<(CmdBufLength-2);i++)
-	 CmdBuf[CmdBufLength-2]+=CmdBuf[i];
-	 WriteDataToTXDBUF(CmdBuf,CmdBufLength);
-#endif 
-	 for(uint8_t i=0;i<CmdBuf[5];i++)
-	 config.TcpServer_IP[i]=CmdBuf[6+i];//把AP字符串赋值给config
-	 config.TcpServer_IP[CmdBuf[5]]=0;
-	 for(uint8_t i=0;i<CmdBuf[7+CmdBuf[5]];i++)
-	 config.TcpServer_Port[i]=CmdBuf[8+CmdBuf[5]+i];//把AP字符串赋值给config
-	 config.TcpServer_Port[CmdBuf[7+CmdBuf[5]]]=0;
-	 return (1);
+	}
+		
+	CmdBufLength=CmdBufLength;
+	WriteDataToTXDBUF(CmdBuf,CmdBufLength);
+	
+	#ifdef ProgramESP32ByMyself
+	CmdBuf[1]=0xe7; //
+	for(uint32_t i=1;i<(CmdBufLength-2);i++)
+	{
+		CmdBuf[CmdBufLength-2]+=CmdBuf[i];
+	}
+	
+	WriteDataToTXDBUF(CmdBuf,CmdBufLength);
+	#endif 
+	for(uint8_t i=0;i<CmdBuf[5];i++)
+	{
+		config.TcpServer_IP[i]=CmdBuf[6+i];//把AP字符串赋值给config
+	}
+	
+	config.TcpServer_IP[CmdBuf[5]]=0;
+	for(uint8_t i=0;i<CmdBuf[7+CmdBuf[5]];i++)
+	{
+		config.TcpServer_Port[i]=CmdBuf[8+CmdBuf[5]+i];//把AP字符串赋值给config
+	}
+	
+	config.TcpServer_Port[CmdBuf[7+CmdBuf[5]]]=0;
+	return (1);
 }
 
 void TransmitOverInLowPower(void)

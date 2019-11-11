@@ -70,7 +70,7 @@ struct  CONFIG  config={
 	.vlprseconds = 300,
 	.runseconds =  300,
 	.pga = 0x4a,                          //PGA
-	.workcycleseconds =  300,              
+	.workcycleseconds =  60,              
 	.fangda = 0x0100,                     
 	.boardset = 0x11,                     // 
 	.ADtime = 0x01,                       //AD
@@ -80,7 +80,7 @@ struct  CONFIG  config={
 	.DataToBoardMode = PARAMETERMODE,
 	.DataToSendChannel =  0x1F,           //
 	.DHCP = 1, //DHCP
-	.APssid =   "yec-test",//"TP-LINK_2.4G_CB10",//"TP-LINK_FF18E4",//"Tenda_4F7AC0",//"yec-test",//"wifi-sensor",//"Tenda_1E6760",//"TP-LINK-SCZZB",//"yec-test",//"wifi-sensor",//"TP-LINK-sczzb2",//"hold-704",//"wifi-test1",//"yec-test",//"wifi-test",//"yec-test",//"zl_sensor",/////"yec-test",//"test3",//"qiangang2", //"qiangang1", //"qiangang1", /////
+	.APssid =   "yec-test",//"TP-LINK_FF18E4",//"Tenda_4F7AC0",//"yec-test",//"wifi-sensor",//"Tenda_1E6760",//"TP-LINK-SCZZB",//"yec-test",//"wifi-sensor",//"TP-LINK-sczzb2",//"hold-704",//"wifi-test1",//"yec-test",//"wifi-test",//"yec-test",//"zl_sensor",/////"yec-test",//"test3",//"qiangang2", //"qiangang1", //"qiangang1", /////
 	.APpassword = "",//"",//"china-yec",//"",//"wifi-sensor",//"18051061462",//"wifi-test",//"zl_sensor",///"china-yec",//"",////"",//"zl_sensor",/"lft13852578307",//"",//"",//"123456789",//"china-yec.com",// //
 	.TcpServer_IP =  "192.168.100.99",//"192.168.0.234",//"192.168.0.233",//"192.168.0.233",//"192.168.0.141",// "192.168.0.112",//
 	.TcpServer_Port = "13000", //
@@ -119,7 +119,6 @@ struct  CONFIG  config={
 
 /* Private variables ---------------------------------------------------------*/
 RTC_HandleTypeDef hrtc;
-
 
 typedef StaticSemaphore_t osStaticSemaphoreDef_t;
 osThreadId_t defaultTaskHandle;

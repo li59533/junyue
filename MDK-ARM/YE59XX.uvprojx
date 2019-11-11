@@ -49,7 +49,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>YE59XX\</OutputDirectory>
-          <OutputName>junyue_frimware_v1.2.0_full.hex</OutputName>
+          <OutputName>junyue_frimware_v1.2.1_full.hex</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>

@@ -17,6 +17,7 @@
 *
 *********************************************************************************************************
 */	
+#include "Esp32ProcessTask.h"
 #include "main.h"
 #include "cmsis_os.h"
 #include "bsp.h"
@@ -887,20 +888,23 @@ void DataEmuFunction(void *argument)
 							 osDelay(10);
 							 WaitTransmissionModeCounter++;
 						 }
-//						 
-//						 command_channelkind();
-//						 command_id();
-//						 command_reply_SampleParameter();
-//						 command_reply_scale();
-//						 osDelay(100);
-//						 EMUTemp();
-//						 BoardParameter_withtime();
-						 EmuData();
-						 osDelay (10); // Wait for the id ... send over
-						 BoardParameter_withtime_forJUNYUE();
-						 BoardAutoPeroidWave();
+						
+						 osDelay(1); //Wait for the id ... send over
+						 if(Esp32_GetSendDeivceInfo_Flag() == 1)
+						 {
+							 Esp32_ClearSendDeviceInfo_Flag();
+							EmuData();
+							
+							BoardParameter_withtime_forJUNYUE();
+							BoardAutoPeroidWave();
+
+							TransmitOverInLowPower(); //后期控制这个，可以决定传多少秒
+						 }
+						 else
+						 {
+							 
+						 }
 						 
-						 TransmitOverInLowPower(); //后期控制这个，可以决定传多少秒
 						 if(Parameter.wakeupsourec!=VLLS)
 						 {
 								StopSample();

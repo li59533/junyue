@@ -1,4 +1,11 @@
 ye59xx\dataemutask.o: DataEmuTask.c
+ye59xx\dataemutask.o: Esp32ProcessTask.h
+ye59xx\dataemutask.o: ../Inc/self_def.h
+ye59xx\dataemutask.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ye59xx\dataemutask.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+ye59xx\dataemutask.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+ye59xx\dataemutask.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+ye59xx\dataemutask.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ye59xx\dataemutask.o: ../Inc/main.h
 ye59xx\dataemutask.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h
 ye59xx\dataemutask.o: ../Inc/stm32l4xx_hal_conf.h
@@ -7,7 +14,6 @@ ye59xx\dataemutask.o: ../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_def.h
 ye59xx\dataemutask.o: ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4xx.h
 ye59xx\dataemutask.o: ../Drivers/CMSIS/Device/ST/STM32L4xx/Include/stm32l4r9xx.h
 ye59xx\dataemutask.o: ../Drivers/CMSIS/Include/core_cm4.h
-ye59xx\dataemutask.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ye59xx\dataemutask.o: ../Drivers/CMSIS/Include/cmsis_version.h
 ye59xx\dataemutask.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
 ye59xx\dataemutask.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
@@ -50,15 +56,11 @@ ye59xx\dataemutask.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/depreca
 ye59xx\dataemutask.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
 ye59xx\dataemutask.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
 ye59xx\dataemutask.o: ..\Bsp\bsp.h
-ye59xx\dataemutask.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-ye59xx\dataemutask.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-ye59xx\dataemutask.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ye59xx\dataemutask.o: ..\Bsp\bsp_led.h
 ye59xx\dataemutask.o: ..\Bsp\bsp_cpu_rtc.h
 ye59xx\dataemutask.o: ..\Bsp\bsp_spi_ad7682.h
 ye59xx\dataemutask.o: ..\Bsp\bsp_kx220.h
 ye59xx\dataemutask.o: ..\Bsp\bsp_esp32.h
-ye59xx\dataemutask.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 ye59xx\dataemutask.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
 ye59xx\dataemutask.o: ..\Bsp\bsp_flash.h
 ye59xx\dataemutask.o: ..\Bsp\bsp_LMT01.h
