@@ -85,6 +85,7 @@ void Esp32ProcessFunction ( void *pvParameters )
 			Esp32_applynetset();
 			while((!WifiConnectedFlag)&&(JoinAPcount<1200))
 			{
+				bsp_LedToggle(1);
 				osDelay (10);  //10ms轮询一次，如果想连接的更快，降低轮询时间
 				JoinAPcount++;
 			}
@@ -113,6 +114,7 @@ void Esp32ProcessFunction ( void *pvParameters )
 				Esp32_applynetset();
 			while((!WifiConnectedFlag))
 				{
+					bsp_LedToggle(1);
 				osDelay (20);			
 				}
 				
