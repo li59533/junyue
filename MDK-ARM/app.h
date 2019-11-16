@@ -139,7 +139,7 @@ extern volatile uint16_t RxdBufTailIndex;
 #define COMMAND_ESP32_STATUE 0xEA  //÷ÿ∆Ù»Ìº˛
 
 
-#define IAP_ADDRESS 0x00100000
+#define IAP_ADDRESS 0x08053000
 
 
 extern osThreadId_t defaultTaskHandle;

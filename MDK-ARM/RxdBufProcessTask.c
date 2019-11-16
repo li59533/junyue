@@ -956,47 +956,65 @@ void WRBYTES_iap_data(uint32_t address,uint32_t num, uint8_t *Data)
 {
 	WRBYTES(address, num, Data);
 }
-uint8_t rece_iap_data[128];
+uint8_t rece_iap_data[0x1000];
 uint8_t error_iap;
 uint8_t command_iap_data(void)   //设置TCP_SERVER的目标上位机地址
 {
 	uint8_t write_32_Byte[64]={0};
+	static uint32_t iap_ptr = 0;
+	static uint16_t flash_page = 0;
 	if(receive_iap_pack_index==RXDCmdBuf[7])
 	{
-	receive_iap_pack_index++;
-	uint32_t current_iap_pack_length=RXDCmdBuf[2]+((uint16_t)RXDCmdBuf[3]<<8)-4;
+		receive_iap_pack_index++;
+		uint32_t current_iap_pack_length = RXDCmdBuf[2]+((uint16_t)RXDCmdBuf[3]<<8) - 4;
 		if(Parameter.IapDataLength>=(receive_iap_data_length+current_iap_pack_length))
 		{
 		
-		if(Parameter.IapDataLength==(receive_iap_data_length+current_iap_pack_length))
-		{
-			for(uint32_t i=0;i<64;i++ )
-			write_32_Byte[i]=0;
-			for(uint32_t i=0;i<current_iap_pack_length;i++ )
-			write_32_Byte[i]=RXDCmdBuf[8+i];
-			WRBYTES_iap_data(IAP_ADDRESS+receive_iap_data_length,64,write_32_Byte);
-		}
-		else{
-			WRBYTES_iap_data(IAP_ADDRESS+receive_iap_data_length,current_iap_pack_length,(uint8_t *)RXDCmdBuf+8);
-		}
-		receive_iap_data_length+=current_iap_pack_length;
-			if(Parameter.IapDataLength==receive_iap_data_length)
+			if(Parameter.IapDataLength==(receive_iap_data_length+current_iap_pack_length))
 			{
-			
-					reply_complete_iap();
-				  config.Iap_datalength=erase_data_length;
-				  config.Iap_flag=0x01;
-				  saveConfig();
-				  software_reset();
+				memcpy(&rece_iap_data[iap_ptr],(uint8_t *)RXDCmdBuf+8,current_iap_pack_length);
+				iap_ptr += current_iap_pack_length;
+				
+
+				WRBYTES_iap_data(IAP_ADDRESS + flash_page * 0x1000 ,0x1000,(uint8_t *)rece_iap_data);
+				flash_page ++;
+				iap_ptr = 0;
+				memset(rece_iap_data , 0 ,0x1000 );
+
 			}
-			else 
-				reply_requie_contioue_iap_data();
+			else
+			{
+
+				memcpy(&rece_iap_data[iap_ptr],(uint8_t *)RXDCmdBuf+8,current_iap_pack_length);
+				iap_ptr += current_iap_pack_length;
+				
+				if(iap_ptr >= 0x1000)
+				{
+					WRBYTES_iap_data(IAP_ADDRESS + flash_page * 0x1000 ,0x1000,(uint8_t *)rece_iap_data);
+					flash_page ++;
+					iap_ptr = 0;
+					memset(rece_iap_data , 0 ,0x1000 );
+				}
+				
+			}
+			receive_iap_data_length+=current_iap_pack_length;
+				if(Parameter.IapDataLength==receive_iap_data_length)
+				{
+					  flash_page = 0;
+						reply_complete_iap();
+					  config.Iap_datalength=erase_data_length;
+					  config.Iap_flag=0x01;
+					  saveConfig();
+					  software_reset();
+				}
+				else 
+					reply_requie_contioue_iap_data();
 		}
 		else
 		{
-		receive_iap_data_length=0;	
-		receive_iap_pack_index=0;	
-		reply_stop_iap_data();
+			receive_iap_data_length=0;	
+			receive_iap_pack_index=0;	
+			reply_stop_iap_data();
 		}
 	}else
 	{

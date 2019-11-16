@@ -8,7 +8,7 @@
 
 //#define IAP_ADDRESS 0x08100000
 
-#define EEPROM_START  0X081C0000 
+#define EEPROM_START  0x08086000 
 
 //#define EEPROM_START  0X08020000 
 
@@ -181,7 +181,30 @@ void EarsePage(uint32_t address)  //
 
 void EarseFlash(uint32_t address,uint32_t length)  //
 {
+	uint32_t write_addr=Address;
+	/* Erase the user Flash area
+	(area defined by FLASH_USER_START_ADDR and FLASH_USER_END_ADDR) ***********/
 
+	/* Clear OPTVERR bit set on virgin samples */
+	__HAL_FLASH_CLEAR_FLAG(FLASH_FLAG_OPTVERR); 
+	/* Get the 1st page to erase */
+	FirstPage = GetPage(Address);
+	/* Get the number of pages to erase from 1st page */
+	NbOfPages = GetPage(Address+length) - FirstPage + 1;
+	/* Get the bank */
+	BankNumber = GetBank(Address);
+	/* Fill EraseInit structure*/
+	EraseInitStruct.TypeErase   = FLASH_TYPEERASE_PAGES;
+	EraseInitStruct.Banks       = BankNumber;
+	EraseInitStruct.Page        = FirstPage;
+	EraseInitStruct.NbPages     = NbOfPages;
+
+	/* Note: If an erase operation in Flash memory also concerns data in the data or instruction cache,
+	you have to make sure that these data are rewritten before they are accessed during code
+	execution. If this cannot be done safely, it is recommended to flush the caches by setting the
+	DCRST and ICRST bits in the FLASH_CR register. */
+	if (HAL_FLASHEx_Erase(&EraseInitStruct, &PAGEError) != HAL_OK)
+	{}
 }
 
 void RDBYTES(uint32_t address,uint32_t num, uint8_t *Data)
