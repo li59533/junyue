@@ -38,7 +38,11 @@ uint8_t command_start()
 		CmdBufLength=CmdBufLength;
 	}
 	WriteDataToTXDBUF(CmdBuf,CmdBufLength);
-	StartSample();
+	if(config.Lowpower_Mode==normalmode)
+	{
+		StartSample();
+	}
+	//
 	return 1;
 }
 
@@ -135,14 +139,14 @@ uint16_t command_id(void)
 		CmdBuf[1]=0x02;
 		CmdBuf[2]=0x08;
 		CmdBuf[3]=0x00;
-		CmdBuf[11]=config.SNnumber;
-		CmdBuf[10]=config.SNnumber>>8;
-		CmdBuf[9]=config.SNnumber>>16;
-		CmdBuf[8]=config.SNnumber>>24;
-		CmdBuf[7]=config.SNnumber>>32;
-		CmdBuf[6]=config.SNnumber>>40;
-		CmdBuf[5]=config.SNnumber>>48;
-		CmdBuf[4]=config.SNnumber>>56;
+		CmdBuf[4]=config.SNnumber[0];
+		CmdBuf[5]=config.SNnumber[1];
+		CmdBuf[6]=config.SNnumber[2];
+		CmdBuf[7]=config.SNnumber[3];
+		CmdBuf[8]=config.SNnumber[4];
+		CmdBuf[9]=config.SNnumber[5];
+		CmdBuf[10]=config.SNnumber[6];
+		CmdBuf[11]=config.SNnumber[7];
 		CmdBuf[12]=0;
 		for(uint16_t i=1;i<12;i++)
 		CmdBuf[12]+=CmdBuf[i];
@@ -561,13 +565,12 @@ uint8_t command_set_scale()
 
 		Parameter.ReciprocalofRange[j]=32768/config.floatrange[j];
 		
-		if(config.channel_freq[j] != 16384 || config.channel_freq[j] != 8192)
+		if(config.channel_freq[j] != 0x4000 && config.channel_freq[j] != 0x2000)
 		{
 			loadConfig();
 			return 0;
 		}
-		
-		
+
 	}
 	emu_sprase_index();//更新采样的稀疏参数
 	saveConfig();
@@ -792,7 +795,15 @@ uint8_t command_set_snnumber(void)   //设置TCP_SERVER的目标上位机地址
     WriteDataToTXDBUF(CmdBuf,CmdBufLength);
 	 }
 
-	 config.SNnumber=(uint64_t)CmdBuf[4]+((uint64_t)CmdBuf[5]<<8)+((uint64_t)CmdBuf[6]<<16)+((uint64_t)CmdBuf[7]<<24)+((uint64_t)CmdBuf[8]<<32)+((uint64_t)CmdBuf[9]<<40)+((uint64_t)CmdBuf[10]<<48)+((uint64_t)CmdBuf[11]<<56);//把AP字符串赋值给config
+	 config.SNnumber[0] = CmdBuf[4];
+	 config.SNnumber[1] = CmdBuf[5];
+	 config.SNnumber[2] = CmdBuf[6];
+	 config.SNnumber[3] = CmdBuf[7];
+	 config.SNnumber[4] = CmdBuf[8];
+	 config.SNnumber[5] = CmdBuf[9];
+	 config.SNnumber[6] = CmdBuf[10];
+	 config.SNnumber[7] = CmdBuf[11];
+	
 	 saveConfig();
 	 return (1);
 }

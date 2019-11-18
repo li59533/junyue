@@ -252,8 +252,8 @@ void loadConfig(void)
 	{	
 		uint8_t * uniqueid_ptr = 0;
 		config.vaildsign=0x45aa;
-		uniqueid_ptr = BSP_GetUniqueID();
-		memcpy(&config.SNnumber,uniqueid_ptr,8);
+//		uniqueid_ptr = BSP_GetUniqueID();
+//		memcpy(&config.SNnumber,uniqueid_ptr,8);
 
 		saveConfig();
 		return;

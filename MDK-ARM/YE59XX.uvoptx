@@ -152,9 +152,9 @@
         <Bp>
           <Number>0</Number>
           <Type>0</Type>
-          <LineNumber>1422</LineNumber>
+          <LineNumber>538</LineNumber>
           <EnabledFlag>1</EnabledFlag>
-          <Address>134225598</Address>
+          <Address>134392300</Address>
           <ByteObject>0</ByteObject>
           <HtxType>0</HtxType>
           <ManyObjects>0</ManyObjects>
@@ -163,23 +163,7 @@
           <BreakIfRCount>1</BreakIfRCount>
           <Filename>.\RxdBufProcessTask.c</Filename>
           <ExecCommand></ExecCommand>
-          <Expression>\\V1_1\RxdBufProcessTask.c\1422</Expression>
-        </Bp>
-        <Bp>
-          <Number>1</Number>
-          <Type>0</Type>
-          <LineNumber>613</LineNumber>
-          <EnabledFlag>1</EnabledFlag>
-          <Address>134263490</Address>
-          <ByteObject>0</ByteObject>
-          <HtxType>0</HtxType>
-          <ManyObjects>0</ManyObjects>
-          <SizeOfObject>0</SizeOfObject>
-          <BreakByAccess>0</BreakByAccess>
-          <BreakIfRCount>1</BreakIfRCount>
-          <Filename>.\RxdBufProcessTask.c</Filename>
-          <ExecCommand></ExecCommand>
-          <Expression>\\V1_1\RxdBufProcessTask.c\613</Expression>
+          <Expression>\\junyue\RxdBufProcessTask.c\538</Expression>
         </Bp>
       </Breakpoint>
       <WatchWindow1>
@@ -196,7 +180,7 @@
         <Ww>
           <count>2</count>
           <WinNumber>1</WinNumber>
-          <ItemText>config,0x0A</ItemText>
+          <ItemText>config,0x10</ItemText>
         </Ww>
         <Ww>
           <count>3</count>
@@ -216,7 +200,7 @@
         <Ww>
           <count>6</count>
           <WinNumber>1</WinNumber>
-          <ItemText>RXDCmdBuf</ItemText>
+          <ItemText>RXDCmdBuf,0x10</ItemText>
         </Ww>
       </WatchWindow1>
       <WatchWindow2>

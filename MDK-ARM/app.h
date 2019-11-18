@@ -168,7 +168,7 @@ typedef struct  CONFIG				 // 配置信息
 
 	uint8_t baundrate;    /* =0:600    =1:1200 		=2:2400 		=3:4800 		=4:9600 */
 	uint8_t addr; 
-	uint64_t SNnumber; 
+	uint8_t SNnumber[8]; 
 	uint8_t parity;		// =0 : n,8,1   =1: o,8,1  =2: e,8,1	 数据格式
 	float floatscale[12];
 	//float floatrange[12];
