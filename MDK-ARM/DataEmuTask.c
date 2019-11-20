@@ -880,7 +880,7 @@ void DataEmuFunction(void *argument)
 					if(WaritSignalCounter>config.WaitforIEPEtime) //d等待信号滤波稳定开始发送数据
 					 {
 						 WaitTransmissionModeCounter=0;
-						 config.battery=config.battery-0.033f;
+						 config.battery=config.battery-0.02f;
 						 StopSample();
 						 saveConfig();
 						 while((Parameter.Esp32TransmissionMode==BrainTransmission)&&(WaitTransmissionModeCounter<400)) //确定是透传模式

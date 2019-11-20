@@ -49,7 +49,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>YE59XX\</OutputDirectory>
-          <OutputName>junyue_G</OutputName>
+          <OutputName>YE59XX_Application_V1.2.8</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>

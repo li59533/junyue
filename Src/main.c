@@ -44,7 +44,7 @@ struct  CONFIG  config={
     .vaildsign = 0xAA55, //	uint16_t vaildsign;
 	.baundrate =  1,//uint8_t baundrate;    
 	.addr = 1,//uint8_t addr; 
-	.SNnumber ={'G',100,0,0,0x31,0x00,0x11,0x12},//0x6275110032120001,//0x6275110032120003,//0x5955125011120002, 03 yec-test 101
+	.SNnumber ={'G',100,0,0,0x31,0x00,0x11,0x00},//0x6275110032120001,//0x6275110032120003,//0x5955125011120002, 03 yec-test 101
 	.parity = 0, //uint8_t parity;		// =0 : n,8,1   =1: o,8,1  =2: e,8,1  
 	.floatscale = {0.03333f,0.0075756f,0.0075756f,1,1,1,1,1,1,1,1,1},
 	.DisplayMode = 0, //uint8_t DisplayMode;  // ???? = 0 ?? =1 ??
@@ -80,9 +80,9 @@ struct  CONFIG  config={
 	.DataToBoardMode = PARAMETERMODE,
 	.DataToSendChannel =  0x1F,           //
 	.DHCP = 1, //DHCP
-	.APssid =   "bigym",//"TP-LINK_FF18E4",//"Tenda_4F7AC0",//"yec-test",//"wifi-sensor",//"Tenda_1E6760",//"TP-LINK-SCZZB",//"yec-test",//"wifi-sensor",//"TP-LINK-sczzb2",//"hold-704",//"wifi-test1",//"yec-test",//"wifi-test",//"yec-test",//"zl_sensor",/////"yec-test",//"test3",//"qiangang2", //"qiangang1", //"qiangang1", /////
-	.APpassword = "87654321",//"",//"china-yec",//"",//"wifi-sensor",//"18051061462",//"wifi-test",//"zl_sensor",///"china-yec",//"",////"",//"zl_sensor",/"lft13852578307",//"",//"",//"123456789",//"china-yec.com",// //
-	.TcpServer_IP = "218.91.149.114",// "218.91.149.114",//"192.168.0.234",//"192.168.0.233",//"192.168.0.233",//"192.168.0.141",// "192.168.0.112",//
+	.APssid =   "yec-test",//"TP-LINK_FF18E4",//"Tenda_4F7AC0",//"yec-test",//"wifi-sensor",//"Tenda_1E6760",//"TP-LINK-SCZZB",//"yec-test",//"wifi-sensor",//"TP-LINK-sczzb2",//"hold-704",//"wifi-test1",//"yec-test",//"wifi-test",//"yec-test",//"zl_sensor",/////"yec-test",//"test3",//"qiangang2", //"qiangang1", //"qiangang1", /////
+	.APpassword = "",//"",//"china-yec",//"",//"wifi-sensor",//"18051061462",//"wifi-test",//"zl_sensor",///"china-yec",//"",////"",//"zl_sensor",/"lft13852578307",//"",//"",//"123456789",//"china-yec.com",// //
+	.TcpServer_IP = "192.168.100.233",// "218.91.149.114",//"192.168.0.234",//"192.168.0.233",//"192.168.0.233",//"192.168.0.141",// "192.168.0.112",//
 	.TcpServer_Port = "8712", //
 	.LocalIP = "192.168.99.45",  //LocalIP
 	.LocalGATEWAY =  "192.168.99.1",  //LocalGATEWAY
