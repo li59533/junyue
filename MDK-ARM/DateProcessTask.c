@@ -197,7 +197,7 @@ void DataProcessFunction(void *argument)
 				ActualSampleCH=	ad7682_ch_data_queue[i]; //转换为实际ADC通道
 				wave_jscope[ActualSampleCH]=y;
 				//					if(i==2) continue; //有一个通道不需要处理，当初由他是为了成为4的倍数
-				if(config.interface_type[ActualSampleCH]==TYPE_IEPE)
+				if(config.interface_type[ActualSampleCH] == TYPE_IEPE)
 				{
 					
 					switch(ActualSampleCH)
@@ -242,7 +242,7 @@ void DataProcessFunction(void *argument)
 						
 							if(config.channel_freq[ActualSampleCH] == 8192)
 							{
-								/************************?ù×?2é?ù?ê8192￡?êμ?ê3é?ù8192￡?μíí¨2500 0.58754852395358581       0.17509704790717162       *************/			
+//								/************************?ù×?2é?ù?ê8192￡?êμ?ê3é?ù8192￡?μíí¨2500 0.58754852395358581       0.17509704790717162       *************/			
 								AD_ZEROlowpass[ActualSampleCH]=((int64_t)y+lastdata[ActualSampleCH])*38505-AD_ZEROlowpass[ActualSampleCH]*11475; //6.2K
 								AD_ZEROlowpass[ActualSampleCH]=AD_ZEROlowpass[ActualSampleCH]>>16;			
 								lastdata[ActualSampleCH]=y;

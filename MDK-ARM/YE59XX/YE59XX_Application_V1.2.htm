@@ -1,9 +1,9 @@
 <!doctype html public "-//w3c//dtd html 4.0 transitional//en">
 <html><head>
-<title>Static Call Graph - [YE59XX\YE59XX_Application_V1.2.8]</title></head>
+<title>Static Call Graph - [YE59XX\YE59XX_Application_V1.2.9]</title></head>
 <body><HR>
-<H1>Static Call Graph for image YE59XX\YE59XX_Application_V1.2.8</H1><HR>
-<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 5060750: Last Updated: Wed Nov 20 10:05:51 2019
+<H1>Static Call Graph for image YE59XX\YE59XX_Application_V1.2.9</H1><HR>
+<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 5060750: Last Updated: Thu Nov 28 10:55:12 2019
 <BR><P>
 <H3>Maximum Stack Usage =        584 bytes + Unknown(Cycles, Untraceable Function Pointers)</H3><H3>
 Call chain for Maximum Stack Depth:</H3>
@@ -863,11 +863,10 @@ Global Symbols
 </UL>
 <BR>[Address Reference Count : 1]<UL><LI> startup_stm32l4r9xx.o(RESET)
 </UL>
-<P><STRONG><a name="[78]"></a>DataEmuFunction</STRONG> (Thumb, 350 bytes, Stack size 8 bytes, dataemutask.o(i.DataEmuFunction))
+<P><STRONG><a name="[78]"></a>DataEmuFunction</STRONG> (Thumb, 368 bytes, Stack size 8 bytes, dataemutask.o(i.DataEmuFunction))
 <BR><BR>[Stack]<UL><LI>Max Depth = 576<LI>Call Chain = DataEmuFunction &rArr; EmuData &rArr; frq_domain_integral &rArr; arm_cfft_f32 &rArr; arm_cfft_radix8by4_f32 &rArr; arm_radix8_butterfly_f32
 </UL>
-<BR>[Calls]<UL><LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
-<LI><a href="#[d6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitOverInLowPower
+<BR>[Calls]<UL><LI><a href="#[d6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitOverInLowPower
 <LI><a href="#[cf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;RTC_ConvertDatetimeToSeconds
 <LI><a href="#[d4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_GetSendDeivceInfo_Flag
 <LI><a href="#[d5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Esp32_ClearSendDeviceInfo_Flag
@@ -875,6 +874,7 @@ Global Symbols
 <LI><a href="#[cc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;BoardParameter_withtime_forJUNYUE
 <LI><a href="#[c9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;BoardAutoPeroidWave
 <LI><a href="#[d9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;osSemaphoreAcquire
+<LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
 <LI><a href="#[d8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;osThreadSuspend
 <LI><a href="#[cb]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;osDelay
 <LI><a href="#[d0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;bsp_LedToggle
@@ -1927,10 +1927,11 @@ Global Symbols
 <BR>[Called By]<UL><LI><a href="#[17c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WRBYTES
 </UL>
 
-<P><STRONG><a name="[75]"></a>StartDefaultTask</STRONG> (Thumb, 168 bytes, Stack size 0 bytes, main.o(i.StartDefaultTask))
-<BR><BR>[Stack]<UL><LI>Max Depth = 72<LI>Call Chain = StartDefaultTask &rArr; osDelay &rArr; vTaskDelay &rArr; xTaskResumeAll &rArr; xTaskIncrementTick
+<P><STRONG><a name="[75]"></a>StartDefaultTask</STRONG> (Thumb, 196 bytes, Stack size 8 bytes, main.o(i.StartDefaultTask))
+<BR><BR>[Stack]<UL><LI>Max Depth = 112<LI>Call Chain = StartDefaultTask &rArr; saveConfig &rArr; WRBYTES &rArr; STMFLASH_Write &rArr; HAL_FLASH_Program &rArr; FLASH_WaitForLastOperation
 </UL>
-<BR>[Calls]<UL><LI><a href="#[d8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;osThreadSuspend
+<BR>[Calls]<UL><LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
+<LI><a href="#[d8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;osThreadSuspend
 <LI><a href="#[cb]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;osDelay
 <LI><a href="#[d0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;bsp_LedToggle
 <LI><a href="#[d2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;StopSample
@@ -2379,8 +2380,8 @@ Global Symbols
 <P><STRONG><a name="[bd]"></a>command_adjust_adc</STRONG> (Thumb, 164 bytes, Stack size 8 bytes, rxdbufprocesstask.o(i.command_adjust_adc))
 <BR><BR>[Stack]<UL><LI>Max Depth = 168<LI>Call Chain = command_adjust_adc &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll &rArr; xTaskIncrementTick
 </UL>
-<BR>[Calls]<UL><LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
-<LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<BR>[Calls]<UL><LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
 </UL>
 <BR>[Called By]<UL><LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyCmd
 </UL>
@@ -2388,8 +2389,8 @@ Global Symbols
 <P><STRONG><a name="[bc]"></a>command_adjust_temp</STRONG> (Thumb, 50 bytes, Stack size 8 bytes, rxdbufprocesstask.o(i.command_adjust_temp))
 <BR><BR>[Stack]<UL><LI>Max Depth = 168<LI>Call Chain = command_adjust_temp &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll &rArr; xTaskIncrementTick
 </UL>
-<BR>[Calls]<UL><LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
-<LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<BR>[Calls]<UL><LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
 </UL>
 <BR>[Called By]<UL><LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyCmd
 </UL>
@@ -2397,8 +2398,8 @@ Global Symbols
 <P><STRONG><a name="[b4]"></a>command_applynetset</STRONG> (Thumb, 74 bytes, Stack size 16 bytes, rxdbufprocesstask.o(i.command_applynetset))
 <BR><BR>[Stack]<UL><LI>Max Depth = 176<LI>Call Chain = command_applynetset &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll &rArr; xTaskIncrementTick
 </UL>
-<BR>[Calls]<UL><LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
-<LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<BR>[Calls]<UL><LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
 </UL>
 <BR>[Called By]<UL><LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyCmd
 </UL>
@@ -2594,8 +2595,8 @@ Global Symbols
 <P><STRONG><a name="[af]"></a>command_set_SampleParameter</STRONG> (Thumb, 138 bytes, Stack size 8 bytes, rxdbufprocesstask.o(i.command_set_SampleParameter))
 <BR><BR>[Stack]<UL><LI>Max Depth = 168<LI>Call Chain = command_set_SampleParameter &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll &rArr; xTaskIncrementTick
 </UL>
-<BR>[Calls]<UL><LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
-<LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<BR>[Calls]<UL><LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
 <LI><a href="#[cb]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;osDelay
 <LI><a href="#[d2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;StopSample
 </UL>
@@ -2613,8 +2614,8 @@ Global Symbols
 <P><STRONG><a name="[c6]"></a>command_set_alarm_value</STRONG> (Thumb, 120 bytes, Stack size 16 bytes, rxdbufprocesstask.o(i.command_set_alarm_value))
 <BR><BR>[Stack]<UL><LI>Max Depth = 176<LI>Call Chain = command_set_alarm_value &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll &rArr; xTaskIncrementTick
 </UL>
-<BR>[Calls]<UL><LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
-<LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<BR>[Calls]<UL><LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
 </UL>
 <BR>[Called By]<UL><LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyCmd
 </UL>
@@ -2639,11 +2640,12 @@ Global Symbols
 <BR><BR>[Called By]<UL><LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyCmd
 </UL>
 
-<P><STRONG><a name="[b7]"></a>command_set_lowpower</STRONG> (Thumb, 78 bytes, Stack size 8 bytes, rxdbufprocesstask.o(i.command_set_lowpower))
+<P><STRONG><a name="[b7]"></a>command_set_lowpower</STRONG> (Thumb, 98 bytes, Stack size 8 bytes, rxdbufprocesstask.o(i.command_set_lowpower))
 <BR><BR>[Stack]<UL><LI>Max Depth = 168<LI>Call Chain = command_set_lowpower &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll &rArr; xTaskIncrementTick
 </UL>
-<BR>[Calls]<UL><LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
-<LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<BR>[Calls]<UL><LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
+<LI><a href="#[1a0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;software_reset
 </UL>
 <BR>[Called By]<UL><LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyCmd
 </UL>
@@ -2651,8 +2653,8 @@ Global Symbols
 <P><STRONG><a name="[b9]"></a>command_set_lowpower_value</STRONG> (Thumb, 78 bytes, Stack size 8 bytes, rxdbufprocesstask.o(i.command_set_lowpower_value))
 <BR><BR>[Stack]<UL><LI>Max Depth = 168<LI>Call Chain = command_set_lowpower_value &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll &rArr; xTaskIncrementTick
 </UL>
-<BR>[Calls]<UL><LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
-<LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<BR>[Calls]<UL><LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
 </UL>
 <BR>[Called By]<UL><LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyCmd
 </UL>
@@ -2661,9 +2663,9 @@ Global Symbols
 <BR><BR>[Stack]<UL><LI>Max Depth = 184<LI>Call Chain = command_set_scale &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll &rArr; xTaskIncrementTick
 </UL>
 <BR>[Calls]<UL><LI><a href="#[1a5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadConfig
-<LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
 <LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
 <LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;emu_sprase_index
+<LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
 </UL>
 <BR>[Called By]<UL><LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyCmd
 </UL>
@@ -2671,8 +2673,8 @@ Global Symbols
 <P><STRONG><a name="[c0]"></a>command_set_snnumber</STRONG> (Thumb, 86 bytes, Stack size 8 bytes, rxdbufprocesstask.o(i.command_set_snnumber))
 <BR><BR>[Stack]<UL><LI>Max Depth = 168<LI>Call Chain = command_set_snnumber &rArr; WriteDataToTXDBUF &rArr; osSemaphoreRelease &rArr; xQueueGenericSend &rArr; xTaskResumeAll &rArr; xTaskIncrementTick
 </UL>
-<BR>[Calls]<UL><LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
-<LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<BR>[Calls]<UL><LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;WriteDataToTXDBUF
+<LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;saveConfig
 </UL>
 <BR>[Called By]<UL><LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyCmd
 </UL>
@@ -2999,10 +3001,12 @@ Global Symbols
 <LI><a href="#[bc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_adjust_temp
 <LI><a href="#[bd]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_adjust_adc
 <LI><a href="#[78]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;DataEmuFunction
+<LI><a href="#[75]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;StartDefaultTask
 </UL>
 
 <P><STRONG><a name="[1a0]"></a>software_reset</STRONG> (Thumb, 28 bytes, Stack size 0 bytes, main.o(i.software_reset))
-<BR><BR>[Called By]<UL><LI><a href="#[c4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_reset_system
+<BR><BR>[Called By]<UL><LI><a href="#[b7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_set_lowpower
+<LI><a href="#[c4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_reset_system
 <LI><a href="#[c3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;command_iap_data
 </UL>
 

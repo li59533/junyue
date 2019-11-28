@@ -259,6 +259,8 @@ void loadConfig(void)
 		return;
 	}
 //	STMFLASH_Read(EEPROM_START,(uint32_t*)&config,sizeof(config.vaildsign));
+
+
 	RDBYTES(EEPROM_START,sizeof(struct CONFIG),((unsigned char*)&config));
 }
 

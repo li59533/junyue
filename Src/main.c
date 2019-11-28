@@ -46,7 +46,7 @@ struct  CONFIG  config={
 	.addr = 1,//uint8_t addr; 
 	.SNnumber ={'G',100,0,0,0x31,0x00,0x11,0x00},//0x6275110032120001,//0x6275110032120003,//0x5955125011120002, 03 yec-test 101
 	.parity = 0, //uint8_t parity;		// =0 : n,8,1   =1: o,8,1  =2: e,8,1  
-	.floatscale = {0.03333f,0.0075756f,0.0075756f,1,1,1,1,1,1,1,1,1},
+	.floatscale = {0.3333f,0.075756f,0.075756f,1,1,1,1,1,1,1,1,1},
 	.DisplayMode = 0, //uint8_t DisplayMode;  // ???? = 0 ?? =1 ??
 	.interface_type = {TYPE_IEPE,TYPE_IEPE,TYPE_IEPE,TYPE_IEPE,TYPE_NONE,TYPE_IEPE,TYPE_IEPE,TYPE_IEPE,TYPE_IEPE,1,1,1}, //uint8_t interface_type[12]; // 
 	.unit = {UNIT_M_S2,UNIT_TEMP,UNIT_M_S2,UNIT_M_S2,UNIT_M_S2,UNIT_M_S2,1,1,1,1,1,1},//uint8_t unit[12];  // 
@@ -464,6 +464,15 @@ void StartDefaultTask(void *argument)
 			{
 				if(sleepcounter > 120)   // delay 500ms ,so count  = 1 is time pass 500s ,now  need 60s ,the count is 120
 				{
+					if(config.battery < 20.0f)
+					{
+
+						config.battery =100.0f;
+						saveConfig();
+
+					}	
+					
+					
 					StopSample();
 					HAL_NVIC_DisableIRQ(EXTI9_5_IRQn);    //外部中断使能
 					HAL_NVIC_DisableIRQ(TIM4_IRQn);            //TPM中断使能	//

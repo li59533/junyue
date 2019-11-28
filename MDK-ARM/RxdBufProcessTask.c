@@ -497,14 +497,14 @@ uint8_t command_reply_SampleParameter(void)   //设置采样参数
 		CmdBuf[6]=config.ADfrequence>>16; //两个，一个温度一个加速度
 		
 		CmdBuf[7]=config.ADfrequence>>24;
-    CmdBuf[8]=config.ADtime;
-		CmdBuf[9]=config.workcycleseconds;
-		CmdBuf[10]=config.workcycleseconds>>8;
+		CmdBuf[8]=config.ADtime;
+		CmdBuf[9]=config.PeriodTransimissonCounter;
+		CmdBuf[10]=config.PeriodTransimissonCounter>>8;
 		CmdBuf[11]=(uint8_t)config.PeriodTransimissonStatus;
 //		CmdBuf[12]=(config.PeriodTransimissonCounter*config.workcycleseconds);
 //		CmdBuf[13]=(config.PeriodTransimissonCounter*config.workcycleseconds)>>8;
-		CmdBuf[12]=config.PeriodTransimissonCounter;
-		CmdBuf[13]=config.PeriodTransimissonCounter>>8;
+		CmdBuf[12]=config.workcycleseconds;
+		CmdBuf[13]=config.workcycleseconds>>8;
 		CmdBuf[14]=(uint8_t)config.ParameterTransimissonStatus;
 		CmdBuf[15]=0;
 		for(uint16_t i=1;i<15;i++)
@@ -660,13 +660,26 @@ uint8_t command_set_lowpower(void)
 	CmdBufLength=CmdBufLength;
 	WriteDataToTXDBUF(CmdBuf,CmdBufLength);
 	}
-	config.Lowpower_Mode=CmdBuf[4];
+	
 	config.scan_channel=CmdBuf[5];
 	config.Waitforsleeptime=CmdBuf[6];
 	config.WaitforIEPEtime=CmdBuf[7];
 	//  config.workcycleseconds_inAlarmStatue=CmdBuf[8]+(uint16_t)(CmdBuf[9]<<8);
-	saveConfig();	
- return 1;
+			
+	if(CmdBuf[4] == config.Lowpower_Mode)
+	{
+		saveConfig();
+	}
+	else
+	{
+		config.Lowpower_Mode = CmdBuf[4];
+		if(config.Lowpower_Mode == normalmode)
+		{
+			saveConfig();
+		    software_reset();
+		}
+	}
+	return 1;
 }
 
 uint8_t command_set_lowpower_value(void)
@@ -1091,10 +1104,10 @@ uint8_t command_set_SampleParameter(void)   //设置采样参数
 	 config.ADfrequence= (uint32_t)CmdBuf[4]+((uint32_t)CmdBuf[5]<<8)+((uint32_t)CmdBuf[6]<<16)+((uint32_t)CmdBuf[7]<<24);//设置采样速率
 	 config.ADtime= 1;//CmdBuf[8]; //AD采样时间
 	 //if(config.ADtime>2) config.ADtime=2;   //限制AD采样时间为2S
-	 config.workcycleseconds =(uint16_t)CmdBuf[9]+((uint16_t)CmdBuf[10]<<8);
+	 config.PeriodTransimissonCounter =(uint16_t)CmdBuf[9]+((uint16_t)CmdBuf[10]<<8);
 
 	 config.PeriodTransimissonStatus=(bool)CmdBuf[11]; //是否使能自动发送
-	 config.PeriodTransimissonCounter=(uint16_t)CmdBuf[12]+((uint16_t)CmdBuf[13]<<8);	 
+	 config.workcycleseconds=(uint16_t)CmdBuf[12]+((uint16_t)CmdBuf[13]<<8);	 
 //	 uint32_t counter=(uint16_t)CmdBuf[12]+((uint16_t)CmdBuf[13]<<8);	  //是否使能自动发送
 //	 config.PeriodTransimissonCounter=(uint32_t)(counter/config.workcycleseconds); //自动发送周期
 	 config.ParameterTransimissonStatus=(bool)CmdBuf[14];

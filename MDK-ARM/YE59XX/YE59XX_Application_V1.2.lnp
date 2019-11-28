@@ -64,4 +64,4 @@
 --library_type=microlib --strict --scatter "YE59XX\YE59XX_Application_V1.2.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
---list "YE59XX_Application_V1.2.map" -o YE59XX\YE59XX_Application_V1.2.8
+--list "YE59XX_Application_V1.2.map" -o YE59XX\YE59XX_Application_V1.2.9
