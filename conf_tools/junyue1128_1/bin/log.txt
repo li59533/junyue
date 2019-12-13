@@ -1,0 +1,121 @@
+DateTime:2019-11-21 18:20:19 周四 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-21 18:20:19 周四 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-21 18:20:23 周四 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-21 18:23:08 周四 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-21 18:23:08 周四 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-21 18:23:13 周四 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-21 18:26:30 周四 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-21 18:26:30 周四 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-21 18:26:33 周四 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-21 19:17:28 周四 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-21 19:17:29 周四 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-21 19:17:48 周四 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-25 11:59:21 周一 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-25 11:59:21 周一 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-25 11:59:33 周一 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-25 19:58:21 周一 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-25 19:58:21 周一 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-25 20:45:21 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:21 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:23 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:23 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:23 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:24 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:24 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:24 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:25 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:25 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:26 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:26 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:27 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:27 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:29 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:29 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:29 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:30 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:30 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:30 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:31 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:31 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:32 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:32 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:33 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:33 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:35 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:35 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:36 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:36 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:36 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:36 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:37 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:37 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:46:00 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:46:46 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:46:46 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:46:58 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:47:05 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:47:44 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:47:59 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:48:00 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:48:23 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:48:28 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:49:06 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:49:06 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:49:07 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:49:25 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:49:50 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:50:34 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:50:44 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:51:18 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:51:30 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:51:31 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:51:49 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:51:58 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:52:07 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:52:07 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:52:15 周一 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-25 20:52:38 周一 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-25 20:52:38 周一 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-25 20:53:57 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:53:58 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:54:16 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:54:45 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:55:35 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:55:41 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:56:10 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:56:17 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:56:17 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:56:36 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:56:58 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:57:33 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:58:03 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:58:21 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:58:39 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:58:39 周一 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-25 20:58:57 周一 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-25 20:58:57 周一 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-25 20:59:55 周一 Message:analysis count:  1
+DateTime:2019-11-25 21:00:01 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:00:20 周一 Message:analysis count:  1
+DateTime:2019-11-25 21:00:33 周一 Message:analysis count:  0
+DateTime:2019-11-25 21:00:38 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:00:38 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:00:57 周一 Message:analysis count:  0
+DateTime:2019-11-25 21:01:05 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:01:05 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:01:24 周一 Message:analysis count:  1
+DateTime:2019-11-25 21:01:45 周一 Message:analysis count:  0
+DateTime:2019-11-25 21:01:58 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:01:58 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:02:17 周一 Message:analysis count:  1
+DateTime:2019-11-25 21:02:31 周一 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-25 21:02:51 周一 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-25 21:02:51 周一 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-25 21:03:21 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:03:21 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:03:30 周一 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-25 21:06:39 周一 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-25 21:06:39 周一 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-25 21:07:25 周一 Message:analysis count:  1
+DateTime:2019-11-25 21:07:38 周一 Message:analysis count:  0
+DateTime:2019-11-25 21:07:40 周一 Message:QCoreApplication::postEvent: Unexpected null receiver

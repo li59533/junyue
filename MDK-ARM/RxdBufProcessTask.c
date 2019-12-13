@@ -443,6 +443,30 @@ uint8_t command_esp32_statue(void)
 	 return 1;
 }
 
+uint8_t command_set_battery(void)
+{
+	{
+	for(uint8_t i=0;i<CmdBufLength;i++)
+		CmdBuf[i]=RXDCmdBuf[i];
+	CmdBufLength=CmdBufLength;
+
+	}
+	WriteDataToTXDBUF(CmdBuf,CmdBufLength);
+
+	float battery = 0.0f;
+	
+	battery = *(float *) &CmdBuf[4];
+
+	if(battery >= 0.1f && battery <= 100.0f)
+	{
+		config.battery = battery;
+		saveConfig();
+	}
+	
+	   
+   return 1;
+}
+
 uint8_t command_adjust_adc()
 { 
 	 {
@@ -673,9 +697,10 @@ uint8_t command_set_lowpower(void)
 	else
 	{
 		config.Lowpower_Mode = CmdBuf[4];
+		saveConfig();
+		
 		if(config.Lowpower_Mode == normalmode)
 		{
-			saveConfig();
 		    software_reset();
 		}
 	}
@@ -1537,6 +1562,9 @@ uint8_t AnalyCmd(uint16_t length)
 			break;
 		case COMMAND_ESP32_STATUE:
 			   command_esp32_statue();
+			break;
+		case COMMAND_SET_BATTERY:
+				command_set_battery();
 			break;
 		default:
 			return 1;

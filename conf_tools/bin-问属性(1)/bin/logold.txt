@@ -1,0 +1,576 @@
+DateTime:2019-11-21 18:20:19 周四 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-21 18:20:19 周四 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-21 18:20:23 周四 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-21 18:23:08 周四 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-21 18:23:08 周四 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-21 18:23:13 周四 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-21 18:26:30 周四 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-21 18:26:30 周四 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-21 18:26:33 周四 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-21 19:17:28 周四 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-21 19:17:29 周四 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-21 19:17:48 周四 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-25 11:59:21 周一 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-25 11:59:21 周一 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-25 11:59:33 周一 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-25 19:58:21 周一 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-25 19:58:21 周一 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-25 20:45:21 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:21 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:23 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:23 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:23 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:24 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:24 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:24 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:25 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:25 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:26 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:26 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:27 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:27 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:29 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:29 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:29 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:30 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:30 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:30 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:31 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:31 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:32 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:32 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:33 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:33 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:35 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:35 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:36 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:36 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:36 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:36 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:37 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:45:37 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:46:00 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:46:46 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:46:46 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:46:58 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:47:05 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:47:44 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:47:59 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:48:00 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:48:23 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:48:28 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:49:06 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:49:06 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:49:07 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:49:25 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:49:50 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:50:34 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:50:44 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:51:18 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:51:30 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:51:31 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:51:49 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:51:58 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:52:07 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:52:07 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:52:15 周一 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-25 20:52:38 周一 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-25 20:52:38 周一 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-25 20:53:57 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:53:58 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:54:16 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:54:45 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:55:35 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:55:41 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:56:10 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:56:17 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:56:17 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:56:36 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:56:58 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:57:33 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:58:03 周一 Message:analysis count:  1
+DateTime:2019-11-25 20:58:21 周一 Message:analysis count:  0
+DateTime:2019-11-25 20:58:39 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 20:58:39 周一 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-25 20:58:57 周一 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-25 20:58:57 周一 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-25 20:59:55 周一 Message:analysis count:  1
+DateTime:2019-11-25 21:00:01 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:00:20 周一 Message:analysis count:  1
+DateTime:2019-11-25 21:00:33 周一 Message:analysis count:  0
+DateTime:2019-11-25 21:00:38 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:00:38 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:00:57 周一 Message:analysis count:  0
+DateTime:2019-11-25 21:01:05 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:01:05 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:01:24 周一 Message:analysis count:  1
+DateTime:2019-11-25 21:01:45 周一 Message:analysis count:  0
+DateTime:2019-11-25 21:01:58 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:01:58 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:02:17 周一 Message:analysis count:  1
+DateTime:2019-11-25 21:02:31 周一 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-25 21:02:51 周一 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-25 21:02:51 周一 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-25 21:03:21 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:03:21 周一 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-25 21:03:30 周一 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-25 21:06:39 周一 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-25 21:06:39 周一 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-25 21:07:25 周一 Message:analysis count:  1
+DateTime:2019-11-25 21:07:38 周一 Message:analysis count:  0
+DateTime:2019-11-25 21:07:40 周一 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-29 16:04:38 周五 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-29 16:04:38 周五 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-29 16:04:52 周五 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-29 16:13:47 周五 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-29 16:13:47 周五 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-29 16:14:09 周五 Message:QCoreApplication::postEvent: Unexpected null receiver
+DateTime:2019-11-29 16:15:45 周五 Message:QSqlDatabasePrivate::removeDatabase: connection 'total' is still in use, all queries will cease to work.
+DateTime:2019-11-29 16:15:45 周五 Message:QSqlDatabasePrivate::addDatabase: duplicate connection name 'total', old connection removed.
+DateTime:2019-11-29 16:15:51 周五 Message:into sendOver 4 "G10031001100"
+DateTime:2019-11-29 16:15:51 周五 Message:QObject::connect: Cannot queue arguments of type 'WifiNetParas'
+(Make sure 'WifiNetParas' is registered using qRegisterMetaType().)
+DateTime:2019-11-29 16:15:53 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:15:53 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:15:54 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:15:54 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:15:55 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:15:55 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:15:56 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:15:56 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:15:57 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:15:57 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:15:58 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:15:58 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:15:59 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:15:59 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:00 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:00 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:02 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:02 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:03 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:03 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:03 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:03 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:04 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:04 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:05 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:05 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:06 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:06 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:07 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:07 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:08 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:08 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:09 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:09 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:10 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:10 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:11 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:11 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:12 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:12 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:13 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:13 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:14 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:15 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:15 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:16:17 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:06 周五 Message:into sendOver 4 "G10031001100"
+DateTime:2019-11-29 16:19:06 周五 Message:into sendOver 4 "G10031001100"
+DateTime:2019-11-29 16:19:06 周五 Message:QObject::connect: Cannot queue arguments of type 'WifiNetParas'
+(Make sure 'WifiNetParas' is registered using qRegisterMetaType().)
+DateTime:2019-11-29 16:19:08 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:08 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:09 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:09 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:10 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:10 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:10 周五 Message:analysis count:  1
+DateTime:2019-11-29 16:19:11 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:11 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:12 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:12 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:13 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:13 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:14 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:14 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:15 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:15 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:16 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:16 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:17 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:17 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:18 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:18 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:28 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:28 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:29 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:29 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:30 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:30 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:31 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:31 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:32 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:32 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:33 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:33 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:34 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:34 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:35 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:35 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:36 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:36 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:37 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:38 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:38 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:38 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:39 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:39 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:40 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:40 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:41 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:41 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:42 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:42 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:43 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:43 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:44 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:44 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:45 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:45 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:46 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:46 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:47 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:47 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:48 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:49 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:49 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:49 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:50 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:50 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:51 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:51 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:52 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:52 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:53 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:19:53 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:30 周五 Message:analysis count:  0
+DateTime:2019-11-29 16:21:32 周五 Message:into sendOver 4 "G10031001100"
+DateTime:2019-11-29 16:21:33 周五 Message:QObject::connect: Cannot queue arguments of type 'WifiNetParas'
+(Make sure 'WifiNetParas' is registered using qRegisterMetaType().)
+DateTime:2019-11-29 16:21:34 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:34 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:35 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:35 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:36 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:37 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:37 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:37 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:38 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:38 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:39 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:39 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:40 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:41 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:41 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:41 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:42 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:21:42 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:07 周五 Message:analysis count:  0
+DateTime:2019-11-29 16:23:07 周五 Message:into sendOver 4 "G10031001100"
+DateTime:2019-11-29 16:23:07 周五 Message:QObject::connect: Cannot queue arguments of type 'WifiNetParas'
+(Make sure 'WifiNetParas' is registered using qRegisterMetaType().)
+DateTime:2019-11-29 16:23:14 周五 Message:into sendOver 4 "G10031001100"
+DateTime:2019-11-29 16:23:14 周五 Message:into sendOver 4 "G10031001100"
+DateTime:2019-11-29 16:23:15 周五 Message:QObject::connect: Cannot queue arguments of type 'WifiNetParas'
+(Make sure 'WifiNetParas' is registered using qRegisterMetaType().)
+DateTime:2019-11-29 16:23:17 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:17 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:17 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:17 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:17 周五 Message:analysis count:  1
+DateTime:2019-11-29 16:23:17 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:18 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:18 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:19 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:19 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:20 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:20 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:21 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:21 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:22 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:24 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:24 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:24 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:24 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:24 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:25 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:26 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:26 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:26 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:26 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:27 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:28 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:28 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:29 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:29 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:30 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:30 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:31 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:31 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:32 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:32 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:33 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:33 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:34 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:34 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:35 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:36 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:36 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:36 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:37 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:39 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:39 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:39 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:39 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:39 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:40 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:41 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:41 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:41 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:42 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:42 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:43 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:43 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:44 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:44 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:45 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:45 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:46 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:46 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:47 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:47 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:48 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:48 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:49 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:49 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:50 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:50 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:51 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:52 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:52 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:52 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:53 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:53 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:54 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:54 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:55 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:55 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:56 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:56 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:57 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:57 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:58 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:58 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:58 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:23:59 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:00 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:00 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:01 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:01 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:01 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:02 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:02 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:03 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:04 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:04 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:05 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:05 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:06 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:06 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:06 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:07 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:07 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:08 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:09 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:11 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:11 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:11 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:11 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:11 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:12 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:12 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:13 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:13 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:14 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:14 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:15 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:15 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:16 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:17 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:17 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:17 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:18 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:18 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:19 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:19 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:20 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:20 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:21 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:21 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:22 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:22 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:23 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:23 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:24 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:24 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:25 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:25 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:26 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:26 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:27 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:27 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:28 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:28 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:29 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:29 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:30 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:30 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:31 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:31 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:32 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:32 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:33 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:33 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:33 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:34 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:35 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:35 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:36 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:36 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:37 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:37 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:38 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:38 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:39 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:39 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:40 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:41 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:41 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:41 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:42 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:42 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:43 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:43 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:44 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:44 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:44 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:45 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:46 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:46 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:47 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:47 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:48 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:48 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:49 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:49 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:50 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:52 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:52 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:52 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:52 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:52 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:53 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:53 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:54 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:54 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:55 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:55 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:56 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:56 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:57 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:57 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:58 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:58 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:59 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:24:59 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:00 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:00 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:01 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:02 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:02 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:02 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:02 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:03 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:04 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:04 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:05 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:05 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:05 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:06 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:06 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:07 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:08 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:08 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:08 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:09 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:10 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:10 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:11 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:11 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:12 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:12 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:13 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:13 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:14 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:14 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:15 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:15 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:16 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:16 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:17 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:17 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:18 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:18 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:19 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:19 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:20 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:21 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:21 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:21 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:22 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:22 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:23 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:23 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:23 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:24 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:25 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:25 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:26 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:26 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:27 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:29 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:29 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:29 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:29 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:29 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:30 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:30 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:31 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:31 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:32 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:32 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:33 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:34 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:34 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:34 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:35 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:35 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:36 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:36 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:37 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:37 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:38 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:38 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192
+DateTime:2019-11-29 16:25:39 周五 Message:void __thiscall QCPGraph::addData(const class QVector<double> &,const class QVector<double> &,bool) keys and values have different sizes: 16384 8192

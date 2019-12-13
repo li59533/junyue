@@ -224,7 +224,7 @@ void EmuData(void)
 					/*放缩系数 */
 					ScaleValue = sacle16384_1600HP;
 				}
-				for(uint32_t i=0;i<16384;i++)
+				for(uint32_t i=0;i<4096;i++)
 				{
 					fft_data[i]=testOutput[4*i]*ScaleValue;
 				}
@@ -236,7 +236,7 @@ void EmuData(void)
 				arm_biquad_cascade_df1_f32(&S_test,emu_inter_data, testOutput,  config.channel_freq[j]);
 				/*放缩系数 */
 				ScaleValue = sacle8192_1600HP;
-				for(uint32_t i=0;i<8192;i++)
+				for(uint32_t i=0;i<4096;i++)
 				{
 					fft_data[i]=testOutput[2*i]*ScaleValue;
 				}

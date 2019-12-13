@@ -52,7 +52,7 @@ extern uint8_t command_reply_runmode(void);
 extern uint8_t command_reply_lowpower(void);
 extern uint8_t command_reply_lowpower_value(void);
 extern uint8_t command_replytcpserve(void);  //返回IP地址
-
+extern uint8_t command_replyip(void);
 extern void test_rtc(void);
 void Esp32ProcessFunction ( void *pvParameters )
 { 
@@ -144,6 +144,7 @@ void Esp32ProcessFunction ( void *pvParameters )
 			command_replyap();
 			command_replytcpserve();  //返回IP地址
 			command_reply_runmode();
+			command_replyip();
 			command_reply_lowpower();
 			command_reply_scale();
 			command_reply_alarm_value();

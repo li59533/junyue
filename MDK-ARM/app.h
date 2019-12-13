@@ -138,6 +138,9 @@ extern volatile uint16_t RxdBufTailIndex;
 
 #define COMMAND_ESP32_STATUE 0xEA  //÷ÿ∆Ù»Ìº˛
 
+#define COMMAND_SET_BATTERY 0x98
+
+
 
 #define IAP_ADDRESS 0x08053000
 
