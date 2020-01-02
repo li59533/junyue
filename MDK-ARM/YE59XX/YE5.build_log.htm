@@ -27,17 +27,68 @@ Project File Date:  11/29/2019
 <h2>Output:</h2>
 *** Using Compiler 'V5.06 update 6 (build 750)', folder: 'D:\Keil_v5\ARM\ARMCC\Bin'
 Build target 'YE59XX'
+compiling DateProcessTask.c...
+compiling RxdBufProcessTask.c...
+RxdBufProcessTask.c(324): warning:  #1295-D: Deprecated declaration emu_sprase_index - give arg types
+  extern void emu_sprase_index();
+RxdBufProcessTask.c(561): warning:  #177-D: variable "channelnum"  was declared but never referenced
+  	uint8_t channelnum=(((uint32_t)CmdBuf[3]<<8)+CmdBuf[2])/17;
+RxdBufProcessTask.c(1012): warning:  #177-D: variable "write_32_Byte"  was declared but never referenced
+  	uint8_t write_32_Byte[64]={0};
+RxdBufProcessTask.c(1162): warning:  #188-D: enumerated type mixed with another type
+  			config.Alarm_source[rule_index][i].parameter_NAME=RXDCmdBuf[8+persource_byte_length*i];
+RxdBufProcessTask.c(1163): warning:  #188-D: enumerated type mixed with another type
+  			config.Alarm_source[rule_index][i].logical=RXDCmdBuf[9+persource_byte_length*i];
+RxdBufProcessTask.c(1164): warning:  #188-D: enumerated type mixed with another type
+  			config.Alarm_source[rule_index][i].relationship=RXDCmdBuf[10+persource_byte_length*i];
+RxdBufProcessTask.c: 6 warnings, 0 errors
+compiling main.c...
+compiling DataEmuTask.c...
+DataEmuTask.c(184): warning:  #177-D: variable "absyy"  was declared but never referenced
+  	float absyy=0;
+DataEmuTask.c(185): warning:  #177-D: variable "INTERsqrt"  was declared but never referenced
+  	float INTERsqrt=0;
+DataEmuTask.c(186): warning:  #177-D: variable "yy"  was declared but never referenced
+  	float yy;
+DataEmuTask.c(187): warning:  #177-D: variable "Adata"  was declared but never referenced
+  	float * Adata;
+DataEmuTask.c(450): warning:  #177-D: variable "empty_Acceleration_ADCHS"  was declared but never referenced
+  	uint32_t empty_Acceleration_ADCHS=0;   //未发送通道
+DataEmuTask.c(765): warning:  #177-D: variable "t"  was declared but never referenced
+  	int32_t t;
+DataEmuTask.c(766): warning:  #177-D: variable "df"  was declared but never referenced
+  	float df;
+DataEmuTask.c: 7 warnings, 0 errors
+compiling bsp_led.c...
+compiling bsp.c...
 compiling Esp32ProcessTask.c...
 Esp32ProcessTask.c(49): warning:  #1295-D: Deprecated declaration command_reply_alarm_value - give arg types
   extern uint8_t command_reply_alarm_value();
 Esp32ProcessTask.c(50): warning:  #1295-D: Deprecated declaration command_replyap - give arg types
   extern uint8_t command_replyap();  //返回ap info
 Esp32ProcessTask.c: 2 warnings, 0 errors
+compiling bsp_spi_ad7682.c...
+compiling bsp_kx220.c...
+compiling bsp_cpu_rtc.c...
+..\Bsp\bsp_cpu_rtc.c(312): warning:  #177-D: function "RTC_CheckDatetimeFormat"  was declared but never referenced
+  static bool RTC_CheckDatetimeFormat(const RTC_T *datetime)
+..\Bsp\bsp_cpu_rtc.c: 1 warning, 0 errors
+compiling version.c...
+compiling bsp_flash.c...
+..\Bsp\bsp_flash.c(184): warning:  #177-D: variable "write_addr"  was declared but never referenced
+  	uint32_t write_addr=Address;
+..\Bsp\bsp_flash.c(253): warning:  #177-D: variable "uniqueid_ptr"  was declared but never referenced
+  		uint8_t * uniqueid_ptr = 0;
+..\Bsp\bsp_flash.c: 2 warnings, 0 errors
+compiling bsp_esp32.c...
+Warning: C4008W: splitting LDM/STM has no benefit
+..\Bsp\bsp_esp32.c: 1 warning, 0 errors
+compiling bsp_LMT01.c...
 linking...
 Program Size: Code=57052 RO-data=88584 RW-data=3488 ZI-data=542816  
 FromELF: creating hex file...
 After Build - User command #1: fromelf.exe --bin -o "YE59XX\YE5.bin" "YE59XX\YE5.axf"
-"YE59XX\YE5.axf" - 0 Error(s), 2 Warning(s).
+"YE59XX\YE5.axf" - 0 Error(s), 19 Warning(s).
 
 <h2>Software Packages used:</h2>
 
@@ -66,7 +117,7 @@ Package Vendor: Keil
    * Component: ARM::CMSIS:DSP:Library:1.6.0
       Library file:  CMSIS\DSP\Lib\ARM\arm_cortexM4lf_math.lib
       Include file:  CMSIS\DSP\Include\arm_math.h
-Build Time Elapsed:  00:00:21
+Build Time Elapsed:  00:01:35
 </pre>
 </body>
 </html>

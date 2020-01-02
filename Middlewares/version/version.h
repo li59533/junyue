@@ -28,7 +28,7 @@
  * @{  
  */
 #define VERSION_MAJOR		1   // 0~255
-#define VERSION_MINOR		3   // 0~255
+#define VERSION_MINOR		4   // 0~255
 #define VERSION_LITE		0	// 0~255
 /**
  * @}

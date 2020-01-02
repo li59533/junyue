@@ -15,8 +15,8 @@
 #define __BSP_LMT01_H
 
 /* 供外部调用的函数声明 */
-#define LMT01POWEREnable()  {HAL_GPIO_WritePin(GPIOE, GPIO_PIN_0,GPIO_PIN_SET);}
-#define LMT01POWERDisable()  {HAL_GPIO_WritePin(GPIOE, GPIO_PIN_0,GPIO_PIN_RESET);}
+#define LMT01POWEREnable()  {HAL_GPIO_WritePin(GPIOB, GPIO_PIN_2,GPIO_PIN_SET);}
+#define LMT01POWERDisable()  {HAL_GPIO_WritePin(GPIOB, GPIO_PIN_2,GPIO_PIN_RESET);}
 void bsp_InitLMT01(void);
 float LMT01_GET_VALUE(void);
 
