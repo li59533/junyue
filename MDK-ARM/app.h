@@ -150,6 +150,8 @@ extern osThreadId_t DateProcessHandle;
 extern osThreadId_t DateEmuHandle;
 extern osThreadId_t RxdBufProcessHandle;
 extern osThreadId_t Esp32ProcessHandle;
+extern osThreadId_t NetProcessHandle;
+
 
 typedef enum Equality_relation{Greater=0,Equal=1,Less=2} Equality_relation;
 typedef enum Logical_relation{AND=0,OR} Logical_relation;

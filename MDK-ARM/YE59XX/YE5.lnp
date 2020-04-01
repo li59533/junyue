@@ -1,13 +1,14 @@
 --cpu=Cortex-M4.fp --branchpatch=sdcomp-29491-629360
-"ye59xx\main.o"
 "ye59xx\dateprocesstask.o"
 "ye59xx\dataemutask.o"
 "ye59xx\rxdbufprocesstask.o"
+"ye59xx\nettask.o"
 "ye59xx\esp32processtask.o"
 "ye59xx\freertos.o"
 "ye59xx\stm32l4xx_it.o"
 "ye59xx\stm32l4xx_hal_msp.o"
 "ye59xx\stm32l4xx_hal_timebase_tim.o"
+"ye59xx\main.o"
 "ye59xx\bsp.o"
 "ye59xx\bsp_led.o"
 "ye59xx\bsp_spi_ad7682.o"
@@ -60,7 +61,7 @@
 "ye59xx\segger_rtt.o"
 "ye59xx\segger_rtt_printf.o"
 "ye59xx\clog.o"
-"D:\Keil_v5\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\DSP\Lib\ARM\arm_cortexM4lf_math.lib"
+"D:\Keil_v5\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Lib\ARM\arm_cortexM4lf_math.lib"
 --library_type=microlib --strict --scatter "YE59XX\YE5.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

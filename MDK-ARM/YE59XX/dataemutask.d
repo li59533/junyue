@@ -69,4 +69,7 @@ ye59xx\dataemutask.o: ..\Bsp\bsp.h
 ye59xx\dataemutask.o: ..\Drivers\CMSIS\DSP\Include\arm_math.h
 ye59xx\dataemutask.o: ../Drivers/CMSIS/Include/core_cm4.h
 ye59xx\dataemutask.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+ye59xx\dataemutask.o: ..\Middlewares\clog\clog.h
+ye59xx\dataemutask.o: ..\Middlewares\rttviewer\SEGGER_RTT.h
+ye59xx\dataemutask.o: ..\Middlewares\rttviewer\SEGGER_RTT_Conf.h
 ye59xx\dataemutask.o: ..\Bsp\double_integral.h

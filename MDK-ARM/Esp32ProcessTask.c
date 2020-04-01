@@ -3,7 +3,9 @@
 #include "bsp.h"
 #include "app.h"
 #include "Esp32ProcessTask.h"
-#define      macUser_Esp32_LocalID                        "192.168.100.12"                //连不上去时，备用的就是这个
+#include "clog.h"
+
+#define      macUser_Esp32_LocalID                        "192.168.100.234"                //连不上去时，备用的就是这个
 #define      macUser_Esp32_LocalGATAWAY                   "192.168.100.1"           
 #define      macUser_Esp32_LocalMASK                      "255.255.255.0"           
 
@@ -183,10 +185,12 @@ void Esp32ProcessFunction ( void *pvParameters )
 
 void Esp32_SetSendDeviceInfo_Flag(void)
 {
+	DEBUG("Esp32_SetSendDeviceInfo_Flag\r\n");
 	esp_senddeviceinfo_flag = 1;
 }
 void Esp32_ClearSendDeviceInfo_Flag(void)
 {
+	DEBUG("Esp32_ClearSendDeviceInfo_Flag\r\n");
 	esp_senddeviceinfo_flag = 0;
 }
 

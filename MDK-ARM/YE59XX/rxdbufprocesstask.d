@@ -66,3 +66,7 @@ ye59xx\rxdbufprocesstask.o: app.h
 ye59xx\rxdbufprocesstask.o: ..\Bsp\bsp.h
 ye59xx\rxdbufprocesstask.o: ..\Middlewares\version\version.h
 ye59xx\rxdbufprocesstask.o: ../Inc/self_def.h
+ye59xx\rxdbufprocesstask.o: ..\Middlewares\clog\clog.h
+ye59xx\rxdbufprocesstask.o: ..\Middlewares\rttviewer\SEGGER_RTT.h
+ye59xx\rxdbufprocesstask.o: ..\Middlewares\rttviewer\SEGGER_RTT_Conf.h
+ye59xx\rxdbufprocesstask.o: nettask.h

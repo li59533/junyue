@@ -23,6 +23,7 @@
 #include "bsp.h"
 #include "app.h"
 #include "arm_math.h"
+#include "clog.h"
 extern volatile uint8_t currentblock ;
 #include "double_integral.h"
 
@@ -193,7 +194,7 @@ void EmuData(void)
 	
 	for(uint32_t j=0;j<Acceleration_ADCHS;j++)
 	{
-		float inter_factor = config.floatscale[j] * config.floatadc[j] * 0.045776f  ;//3000 / 65535;
+		float inter_factor = config.floatscale[j] * config.floatadc[j] * 0.03814755f ;//2500 / 65535;
 		switch(j)
 		{
 			case 0: 
@@ -646,7 +647,7 @@ void BoardAutoPeroidWave(void)
 			default:
 			break;
 		}
-		float inter_factor=config.floatadc[ii]*config.floatscale[ii]*1500.0f/config.floatrange[ii];
+		float inter_factor=config.floatadc[ii]*config.floatscale[ii]*1250.0f/config.floatrange[ii];
 		
 		for(uint32_t i=0;i<config.channel_freq[ii];i++) //*config.ADtime
 		{
@@ -869,6 +870,7 @@ void DataEmuFunction(void *argument)
 						BoardParameter_withtime_forJUNYUE();
 						BoardAutoPeroidWave();  //仅在特征值模式下生效
 						DisablePeroidWaveAutoTransmission();
+						 DEBUG("SendValue\r\n");
 					 }
 //						bsp_LedStatue(1,1);
 				}
@@ -903,6 +905,7 @@ void DataEmuFunction(void *argument)
 							BoardAutoPeroidWave();
 
 							TransmitOverInLowPower(); //后期控制这个，可以决定传多少秒
+							 DEBUG("SendValue\r\n");
 						 }
 						 else
 						 {
@@ -917,6 +920,7 @@ void DataEmuFunction(void *argument)
 								HAL_NVIC_DisableIRQ(TIM4_IRQn);            //TPM中断使能	//
 								osThreadSuspend(Esp32ProcessHandle);   //挂起所有线程
 								osThreadSuspend(DateProcessHandle);
+								osThreadSuspend(NetProcessHandle);
 								osThreadSuspend(RxdBufProcessHandle);
 								osThreadSuspend(defaultTaskHandle);
 						 }

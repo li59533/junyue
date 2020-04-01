@@ -22,6 +22,7 @@
 #include "bsp.h"
 #include "app.h"
 #include "clog.h"
+#include "nettask.h"
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -46,11 +47,11 @@ struct  CONFIG  config={
 	.addr = 1,//uint8_t addr; 
 	.SNnumber ={'G',100,0,0,0x31,0x00,0x11,0x00},//0x6275110032120001,//0x6275110032120003,//0x5955125011120002, 03 yec-test 101
 	.parity = 0, //uint8_t parity;		// =0 : n,8,1   =1: o,8,1  =2: e,8,1  
-	.floatscale = {0.3333f,0.075756f,0.075756f,1,1,1,1,1,1,1,1,1},
+	.floatscale = {1.0f,1.0f,1.0f,1,1,1,1,1,1,1,1,1},//{0.3333f,0.075756f,0.075756f,1,1,1,1,1,1,1,1,1},
 	.DisplayMode = 0, //uint8_t DisplayMode;  // ???? = 0 ?? =1 ??
 	.interface_type = {TYPE_IEPE,TYPE_IEPE,TYPE_IEPE,TYPE_IEPE,TYPE_NONE,TYPE_IEPE,TYPE_IEPE,TYPE_IEPE,TYPE_IEPE,1,1,1}, //uint8_t interface_type[12]; // 
 	.unit = {UNIT_M_S2,UNIT_TEMP,UNIT_M_S2,UNIT_M_S2,UNIT_M_S2,UNIT_M_S2,1,1,1,1,1,1},//uint8_t unit[12];  // 
-	.floatrange = {3000,3000,3000,3000,1000,1000,1000,1000,10000,10000,10000,10000},//uint32_t scale[12]; // 
+	.floatrange = {2500,2500,2500,2500,1000,1000,1000,1000,10000,10000,10000,10000},//uint32_t scale[12]; // 
 	.floatadjust = {0.0f,0.0f,0.0f,0.0f,1250.f,0,0,0,8192,8192,8192,8192},//uint32_t adjust[12]; // 
 	//	{0,1,2,~0,~0,~0,~0,~0,3,4,5,6},//uint16_t interface_addr[12]; // modbus  
 	.alarmgate = {100,100,100,100,100,100},//	float alarmgate[12]; // float 
@@ -126,6 +127,7 @@ osThreadId_t DateProcessHandle;
 osThreadId_t DateEmuHandle;
 osThreadId_t RxdBufProcessHandle;
 osThreadId_t Esp32ProcessHandle;
+osThreadId_t NetProcessHandle;
 /* USER CODE BEGIN PV */
 osSemaphoreId_t ad7682_readyHandle;
 osSemaphoreId_t seconds_sample_data_readyHandle;
@@ -275,6 +277,15 @@ int main(void)
 		.priority = (osPriority_t) osPriorityNormal1,
 	};
 	Esp32ProcessHandle = osThreadNew(Esp32ProcessFunction, NULL, &Esp32Process_attributes);
+	
+	
+	const osThreadAttr_t NetProcess_attributes = {
+		.name = "NetProcess",
+		.stack_size = 512,
+		.priority = (osPriority_t) osPriorityNormal1,
+	};
+	NetProcessHandle = osThreadNew(NetProcessFunction, NULL, &NetProcess_attributes);	
+	
 	/* USER CODE END RTOS_THREADS */
 
 	/* Start scheduler */
@@ -457,6 +468,7 @@ void StartDefaultTask(void *argument)
 					osThreadSuspend(DateProcessHandle);
 					osThreadSuspend(RxdBufProcessHandle);
 					osThreadSuspend(DateEmuHandle);
+					osThreadSuspend(NetProcessHandle);
 					osThreadSuspend(defaultTaskHandle);
 				}			
 			}
@@ -483,6 +495,7 @@ void StartDefaultTask(void *argument)
 					osThreadSuspend(DateProcessHandle);
 					osThreadSuspend(RxdBufProcessHandle);
 					osThreadSuspend(DateEmuHandle);
+					osThreadSuspend(NetProcessHandle);
 					osThreadSuspend(defaultTaskHandle);
 				}	
 			}

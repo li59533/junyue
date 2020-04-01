@@ -66,3 +66,6 @@ ye59xx\esp32processtask.o: app.h
 ye59xx\esp32processtask.o: ..\Bsp\bsp.h
 ye59xx\esp32processtask.o: Esp32ProcessTask.h
 ye59xx\esp32processtask.o: ../Inc/self_def.h
+ye59xx\esp32processtask.o: ..\Middlewares\clog\clog.h
+ye59xx\esp32processtask.o: ..\Middlewares\rttviewer\SEGGER_RTT.h
+ye59xx\esp32processtask.o: ..\Middlewares\rttviewer\SEGGER_RTT_Conf.h

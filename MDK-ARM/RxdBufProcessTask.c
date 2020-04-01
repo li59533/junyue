@@ -4,7 +4,8 @@
 #include "app.h"
 #include "stdbool.h"
 #include "version.h"
-
+#include "clog.h"
+#include "nettask.h"
 
 extern TIM_HandleTypeDef htim8;
 extern uint8_t   RxdBuf[RxdBufLine];
@@ -1421,6 +1422,7 @@ uint8_t command_server_accept_data(void)
 		osThreadSuspend(Esp32ProcessHandle);   //挂起所有线程
 		osThreadSuspend(DateProcessHandle);
 		osThreadSuspend(DateEmuHandle);
+		osThreadSuspend(NetProcessHandle);
 		osThreadSuspend(RxdBufProcessHandle);
 	}
 	return 1;
@@ -1450,6 +1452,9 @@ uint8_t AnalyCmd(uint16_t length)
 			   command_stop();
 			break;
 		case COMMAND_RECEIVE_BEACON:
+				DEBUG("COMMAND_RECEIVE_BEACON\r\n");
+				Net_Task_UpdataConnectFlag();
+		
 				command_receive_beacon();
 			break;
 		case COMMAND_SETIP:   //设置IP地址
