@@ -35,7 +35,6 @@ arm_rfft_fast_instance_f32 S;
 uint32_t fftSize,ifftFlag;
 void Init_FFT(void)
 {
- 
  fftSize = config.ADfrequence; //????
 
  ifftFlag = 0;//???
@@ -288,9 +287,9 @@ void EmuData(void)
 		{
 			emu_inter_data[i]=emu_inter_data[i]*emu_inter_data[i]*emu_inter_data[i]*emu_inter_data[i];
 		}
-		arm_rms_f32(emu_inter_data, config.channel_freq[j], &Parameter.Kurtosis[j]);
+		//arm_rms_f32(emu_inter_data, config.channel_freq[j], &Parameter.Kurtosis[j]);
+		arm_mean_f32(emu_inter_data, config.channel_freq[j], &Parameter.Kurtosis[j]);//求均值
 		Parameter.KurtosisIndex[j]=Parameter.Kurtosis[j]/(Parameter.EffectiveValue[j]*Parameter.EffectiveValue[j]*Parameter.EffectiveValue[j]*Parameter.EffectiveValue[j]);
-
 
 		if((j==0)&&(config.channel_freq[j]==16384)) //对主轴进行包络计算
 		{
@@ -321,8 +320,7 @@ void EmuData(void)
 			Parameter.KurtosisIndex[j] = 0.0f;
 			Parameter.Envelop[j] = 0.0f;
 		}		
-		
-		
+
 	}
 
 }
