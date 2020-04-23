@@ -258,6 +258,25 @@ void EmuData(void)
 			break;
 		}         
 		
+//			float ReciprocalofADfrequence = 0.0;
+//			ReciprocalofADfrequence=1.0f/((float)config.channel_freq[j]); //采样频率倒数;
+//			for(uint32_t i=0;i<2*config.channel_freq[j];i++)	 
+//			{
+//				hp_yy[j]+=testOutput[i]*ScaleValue*1000 * ReciprocalofADfrequence;
+//				hp_yy[j]=hp_yy[j]*0.999f;//泄放直流分量
+//				if(i>=config.ADfrequence){	
+////				ReceiveSamplesPeriod[SAMPLEblock][j][i]=testOutput[i];					
+////				hp_yy[j]=testOutput[i]*ScaleValue;//1000*Parameter.ReciprocalofADfrequence;
+////				ReceiveSamplesPeriod[SAMPLEblock][j][i]=hp_yy[j];
+//				Parameter.vs[j]+=hp_yy[j]*hp_yy[j];	
+//				}
+//			}
+//			float tt=Parameter.vs[j]*ReciprocalofADfrequence;//1000000*Parameter.ReciprocalofEMUnumber;
+//				//fv速度有效值
+//			arm_sqrt_f32(tt,(float32_t *)Parameter.fv+j);
+//			Parameter.vs[j]=0; //?????0			
+		
+		
 		arm_rms_f32(fft_data, 4096, &Parameter.Arms[j]);
 		integ_init(4096,4096,1000,1,4,1000);  //速度到4
 		frq_domain_integral(fft_data,fft_inter_data);

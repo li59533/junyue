@@ -109,14 +109,26 @@ int integ_init(uint16_t len,uint32_t sample_freq,float gravity,uint32_t integ_ti
 	
 	float dw = 2*PI*df;													//圆频率间隔（rad/s）
 //	integ.w_vec = (float*)MALLOC((integ.fft_len-1)*(sizeof(float)));
-	for(int i=0; i<(integ.fft_len/2); i++){
+//	for(int i=0; i<(integ.fft_len/2); i++){
+//		integ.w_vec[i] = dw*i;											//正离散圆频率向量
+//		integ.w_vec[i] = POW(integ.w_vec[i],integ.integ_time);		//以积分次数为指数，建立圆频率变量向量
+//	}
+//	for(int i=integ.fft_len/2; i<(integ.fft_len-1); i++){
+//		integ.w_vec[i] = -dw*(integ.fft_len/2-1) + dw*(i - integ.fft_len/2);	//负离散圆频率向量
+//		integ.w_vec[i] = POW(integ.w_vec[i],integ.integ_time);		//以积分次数为指数，建立圆频率变量向量
+//	}
+
+	for(int i=0; i <= (integ.fft_len/2); i++)
+	{
 		integ.w_vec[i] = dw*i;											//正离散圆频率向量
 		integ.w_vec[i] = POW(integ.w_vec[i],integ.integ_time);		//以积分次数为指数，建立圆频率变量向量
 	}
-	for(int i=integ.fft_len/2; i<(integ.fft_len-1); i++){
-		integ.w_vec[i] = -dw*(integ.fft_len/2-1) + dw*(i - integ.fft_len/2);	//负离散圆频率向量
+	for(int i=integ.fft_len/2 + 1 ; i<(integ.fft_len); i++)
+	{
+		integ.w_vec[i] = dw*(i - integ.fft_len);
+		//integ.w_vec[i] = -dw*(integ.fft_len/2-1) + dw*(i - integ.fft_len/2);	//负离散圆频率向量
 		integ.w_vec[i] = POW(integ.w_vec[i],integ.integ_time);		//以积分次数为指数，建立圆频率变量向量
-	}
+	}	
 	
 	return 0;
 }
@@ -137,6 +149,14 @@ void integ_deinit()
 //	integ = NULL;
 }
 
+// 时域积分
+void time_domain_integral(float * inputbuf ,uint32_t point_count, float * outbuf)
+{
+//	float time_interval = (float)(1.0 / point_count);
+//	
+//	outbuf[i] = inputbuf[i]
+	
+}
 /** 
  *  @name	频域一次/二次积分函数
  *  @brief	计算一次/二次积分
