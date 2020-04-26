@@ -309,7 +309,9 @@ void EmuData(void)
 		//arm_rms_f32(emu_inter_data, config.channel_freq[j], &Parameter.Kurtosis[j]);
 		arm_mean_f32(emu_inter_data, config.channel_freq[j], &Parameter.Kurtosis[j]);//求均值
 		Parameter.KurtosisIndex[j]=Parameter.Kurtosis[j]/(Parameter.EffectiveValue[j]*Parameter.EffectiveValue[j]*Parameter.EffectiveValue[j]*Parameter.EffectiveValue[j]);
+		
 
+		
 		if((j==0)&&(config.channel_freq[j]==16384)) //对主轴进行包络计算
 		{
 			arm_biquad_cascade_df1_init_f32(&S_test, numStages, (float32_t *)&IIRCoeffs16384_1000_6000BP[0], (float32_t
@@ -331,7 +333,48 @@ void EmuData(void)
 			arm_max_f32(emu_inter_data, 16384, &EnvelopMax[j],&maxindex);  //换来换去，头都混了
 			Parameter.Envelop[j]=EnvelopMax[j]*ScaleValue;
 		}	
+
+		// --- value limit ----
+		if(Parameter.KurtosisIndex[j] >= 50)
+		{
+			Parameter.KurtosisIndex[j] = 50;
+		}
 		
+		if(Parameter.Vrms[j] >= 35)
+		{
+			Parameter.Vrms[j] = 35;
+		}
+		if(Parameter.Drms[j] >= 560)
+		{
+			Parameter.Drms[j] = 560;
+		}		
+		
+		if(j == 0)
+		{
+			if(Parameter.EffectiveValue[j] >= 100)
+			{
+				Parameter.EffectiveValue[j] = 100;
+			}				
+		}
+		else
+		{
+			if(Parameter.EffectiveValue[j] >= 500)
+			{
+				Parameter.EffectiveValue[j] = 500;
+			}				
+		}
+
+		// ----- change unit mm2/s -> ge
+
+		Parameter.Envelop[j] /= 9.8;
+		
+		if(Parameter.Envelop[j] >10)
+		{
+			Parameter.Envelop[j] = 10;
+		}
+		
+		// --------------------
+
 		if(Parameter.EffectiveValue[j] < 0.25f)//Parameter.Arms[j] < 0.25f || 
 		{
 			Parameter.Vrms[j] = 0.0f;
