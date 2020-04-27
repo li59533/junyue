@@ -1502,8 +1502,10 @@ uint8_t AnalyCmd(uint16_t length)
 		case COMMAND_REPLYAP:
 			   command_replyap();  //返回ap值
 			break;
-    case COMMAND_APPLYNETSET:
-			   command_applynetset();  //应用网络设置
+		case COMMAND_APPLYNETSET:
+				command_applynetset();  //应用网络设置
+				osDelay (1000);
+				software_reset();
 			break;
 		 case 0x40:
 			   command_counter();  //应用网络设置
