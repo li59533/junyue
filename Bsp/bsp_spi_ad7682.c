@@ -211,7 +211,9 @@ uint16_t ad7682_cfg=0;
 //const uint16_t ad7682_ch_queue[12]={1,2,1,3,1,2,1,3}; //降采样率到16384 8192
 									//2 1 2 3 2 1 2 3
 									//2 3 2 1 2 3 2 1
-const uint16_t ad7682_ch_queue[12]={2 ,3, 2, 1, 2, 3, 2, 1}; //降采样率到16384 8192
+                                  //z  y  z  x  z  y  z  x
+const uint16_t ad7682_ch_queue[12]={2 ,1, 2, 3, 2, 1, 2, 3}; //降采样率到16384 8192
+
 const uint16_t ad7682_ch_data_queue[12]={0,1,0,2,0,1,0,2};
 //const uint16_t ad7682_ch_queue[12]={2,2,2,2,2,2,2,2};
 //const uint16_t ad7682_ch_data_queue[12]={1,4,1,0,1,2,1,3};
@@ -309,31 +311,31 @@ void SPI1_IRQHandler(void){
 
 		if(HAL_SPI_GetState(&SpiHandle) == HAL_SPI_STATE_READY)
 		{		
-   
-		HAL_GPIO_WritePin(CONVST_GPIO, CONVST_PIN,GPIO_PIN_SET);	
-		ad7682_date[cur_ad_index++]=ad7682_rec[cur_ad_ch];
-		if(cur_ad_index==SAMPLE_ADCH*SAMPLEPOINTS)	
-		{
+	   
+			HAL_GPIO_WritePin(CONVST_GPIO, CONVST_PIN,GPIO_PIN_SET);	
+			ad7682_date[cur_ad_index++]=ad7682_rec[cur_ad_ch];
+			if(cur_ad_index==SAMPLE_ADCH*SAMPLEPOINTS)	
+			{
 
-			CurrentAD7682DataCounter=0;
-			datareadyprocess=1;
-//			 osSemaphoreRelease(ad7682_readyHandle);
-		}
-		else if(cur_ad_index>=SAMPLE_ADCH*SAMPLEPOINTS*2)
-		{
-			cur_ad_index=0;			
-			CurrentAD7682DataCounter=SAMPLE_ADCH*SAMPLEPOINTS;
-			datareadyprocess=1;
-//			osSemaphoreRelease(ad7682_readyHandle);
-		}
-	
-		cur_ad_ch++;
-		cur_ad_ch=cur_ad_ch%SAMPLE_ADCH;
-		if(((cur_ad_index-cur_ad_ch)%SAMPLE_ADCH)!=0)  //串包的话，这包丢掉
-		{
-			cur_ad_ch=0;
-			cur_ad_index=0;
-		}
+				CurrentAD7682DataCounter=0;
+				datareadyprocess=1;
+	//			 osSemaphoreRelease(ad7682_readyHandle);
+			}
+			else if(cur_ad_index>=SAMPLE_ADCH*SAMPLEPOINTS*2)
+			{
+				cur_ad_index=0;			
+				CurrentAD7682DataCounter=SAMPLE_ADCH*SAMPLEPOINTS;
+				datareadyprocess=1;
+	//			osSemaphoreRelease(ad7682_readyHandle);
+			}
+		
+			cur_ad_ch++;
+			cur_ad_ch=cur_ad_ch%SAMPLE_ADCH;
+			if(((cur_ad_index-cur_ad_ch)%SAMPLE_ADCH)!=0)  //串包的话，这包丢掉
+			{
+				cur_ad_ch=0;
+				cur_ad_index=0;
+			}
 		}
 }
 
