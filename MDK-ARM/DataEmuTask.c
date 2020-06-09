@@ -351,16 +351,16 @@ void EmuData(void)
 		
 		if(j == 0)
 		{
-			if(Parameter.EffectiveValue[j] >= 100)
+			if(Parameter.EffectiveValue[j] >= 500)
 			{
-				Parameter.EffectiveValue[j] = 100;
+				Parameter.EffectiveValue[j] = 500;
 			}				
 		}
 		else
 		{
-			if(Parameter.EffectiveValue[j] >= 500)
+			if(Parameter.EffectiveValue[j] >= 100)
 			{
-				Parameter.EffectiveValue[j] = 500;
+				Parameter.EffectiveValue[j] = 100;
 			}				
 		}
 

@@ -63,7 +63,7 @@ I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x5CEB79E4)
 I (..\Bsp\bsp_flash.h)(0x5DCCCBA7)
 I (..\Bsp\bsp_LMT01.h)(0x5EA69626)
 I (app.h)(0x5E83FAE9)
-F (.\DataEmuTask.c)(0x5EA54108)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ..\Bsp -I ..\MDK-ARM -I ..\Middlewares\version -I ..\Middlewares\Utilities -I ..\Middlewares\clog -I ..\Middlewares\rttviewer -I ..\Drivers\CMSIS\DSP\Include-I.\RTE\_YE59XX-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Include-ID:\Keil_v5\Arm\Packs\Keil\STM32L4xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DARM_MATH_CM4 -D__FPU_PRESENT="1"-o ye59xx\dataemutask.o --omf_browse ye59xx\dataemutask.crf --depend ye59xx\dataemutask.d)
+F (.\DataEmuTask.c)(0x5EBB911A)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ..\Bsp -I ..\MDK-ARM -I ..\Middlewares\version -I ..\Middlewares\Utilities -I ..\Middlewares\clog -I ..\Middlewares\rttviewer -I ..\Drivers\CMSIS\DSP\Include-I.\RTE\_YE59XX-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Include-ID:\Keil_v5\Arm\Packs\Keil\STM32L4xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DARM_MATH_CM4 -D__FPU_PRESENT="1"-o ye59xx\dataemutask.o --omf_browse ye59xx\dataemutask.crf --depend ye59xx\dataemutask.d)
 I (Esp32ProcessTask.h)(0x5DCCCBA7)
 I (../Inc/self_def.h)(0x5DCCCBA7)
 I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
@@ -135,7 +135,7 @@ I (..\Middlewares\clog\clog.h)(0x5DCCCBA7)
 I (..\Middlewares\rttviewer\SEGGER_RTT.h)(0x5DCCCBA7)
 I (..\Middlewares\rttviewer\SEGGER_RTT_Conf.h)(0x5DCCCBA7)
 I (..\Bsp\double_integral.h)(0x5DCCCBA7)
-F (.\RxdBufProcessTask.c)(0x5EA63B36)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ..\Bsp -I ..\MDK-ARM -I ..\Middlewares\version -I ..\Middlewares\Utilities -I ..\Middlewares\clog -I ..\Middlewares\rttviewer -I ..\Drivers\CMSIS\DSP\Include-I.\RTE\_YE59XX-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Include-ID:\Keil_v5\Arm\Packs\Keil\STM32L4xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DARM_MATH_CM4 -D__FPU_PRESENT="1"-o ye59xx\rxdbufprocesstask.o --omf_browse ye59xx\rxdbufprocesstask.crf --depend ye59xx\rxdbufprocesstask.d)
+F (.\RxdBufProcessTask.c)(0x5EA90D01)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ..\Bsp -I ..\MDK-ARM -I ..\Middlewares\version -I ..\Middlewares\Utilities -I ..\Middlewares\clog -I ..\Middlewares\rttviewer -I ..\Drivers\CMSIS\DSP\Include-I.\RTE\_YE59XX-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Include-ID:\Keil_v5\Arm\Packs\Keil\STM32L4xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DARM_MATH_CM4 -D__FPU_PRESENT="1"-o ye59xx\rxdbufprocesstask.o --omf_browse ye59xx\rxdbufprocesstask.crf --depend ye59xx\rxdbufprocesstask.d)
 I (../Inc/main.h)(0x5E83F31E)
 I (../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h)(0x5DCCCBA7)
 I (../Inc/stm32l4xx_hal_conf.h)(0x5DCCCBA7)
@@ -199,7 +199,7 @@ I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x5CEB79E4)
 I (..\Bsp\bsp_flash.h)(0x5DCCCBA7)
 I (..\Bsp\bsp_LMT01.h)(0x5EA69626)
 I (app.h)(0x5E83FAE9)
-I (..\Middlewares\version\version.h)(0x5EA90313)
+I (..\Middlewares\version\version.h)(0x5EBB9156)
 I (../Inc/self_def.h)(0x5DCCCBA7)
 I (..\Middlewares\clog\clog.h)(0x5DCCCBA7)
 I (..\Middlewares\rttviewer\SEGGER_RTT.h)(0x5DCCCBA7)
@@ -2279,7 +2279,7 @@ I (../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h)(0x5DCCCBA7
 I (../Middlewares/Third_Party/FreeRTOS/Source/include/task.h)(0x5DCCCBA7)
 I (../Middlewares/Third_Party/FreeRTOS/Source/include/list.h)(0x5DCCCBA7)
 F (..\Middlewares\version\version.c)(0x5DCCCBA7)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ..\Bsp -I ..\MDK-ARM -I ..\Middlewares\version -I ..\Middlewares\Utilities -I ..\Middlewares\clog -I ..\Middlewares\rttviewer -I ..\Drivers\CMSIS\DSP\Include-I.\RTE\_YE59XX-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\Keil_v5\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\DSP\Include-ID:\Keil_v5\Arm\Packs\Keil\STM32L4xx_DFP\2.3.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DARM_MATH_CM4 -D__FPU_PRESENT="1"-o ye59xx\version.o --omf_browse ye59xx\version.crf --depend ye59xx\version.d)
-I (..\Middlewares\version\version.h)(0x5EA90313)
+I (..\Middlewares\version\version.h)(0x5EBB9156)
 I (../Inc/self_def.h)(0x5DCCCBA7)
 I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
 I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5CEB79E2)

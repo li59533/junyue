@@ -1544,7 +1544,9 @@ uint8_t AnalyCmd(uint16_t length)
 			   command_reply_scale();
 			break;
     case COMMAND_SET_SNNUMBER:
-			   command_set_snnumber();
+				command_set_snnumber();
+				osDelay (1000);
+				software_reset();
 			break;
 		case COMMAND_IAP_STATUE:
 			   command_iap_statue();
