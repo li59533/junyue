@@ -27,8 +27,39 @@ Project File Date:  04/26/2020
 <h2>Output:</h2>
 *** Using Compiler 'V5.06 update 6 (build 750)', folder: 'D:\Keil_v5\ARM\ARMCC\Bin'
 Build target 'YE59XX'
-After Build - User command #1: fromelf.exe --bin -o "YE59XX\YE5.bin" "YE59XX\YE5.axf"
-"YE59XX\YE5.axf" - 0 Error(s), 0 Warning(s).
+compiling DataEmuTask.c...
+DataEmuTask.c(369): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		Parameter.Envelop[j] /= 9.8;
+DataEmuTask.c(184): warning:  #177-D: variable "absyy"  was declared but never referenced
+  	float absyy=0;
+DataEmuTask.c(185): warning:  #177-D: variable "INTERsqrt"  was declared but never referenced
+  	float INTERsqrt=0;
+DataEmuTask.c(186): warning:  #177-D: variable "yy"  was declared but never referenced
+  	float yy;
+DataEmuTask.c(187): warning:  #177-D: variable "Adata"  was declared but never referenced
+  	float * Adata;
+DataEmuTask.c(511): warning:  #177-D: variable "empty_Acceleration_ADCHS"  was declared but never referenced
+  	uint32_t empty_Acceleration_ADCHS=0;   //Î´·¢ËÍÍ¨µÀ
+DataEmuTask.c(825): warning:  #174-D: expression has no effect
+  			Protocol_Wave_Fangyi.Wave
+DataEmuTask.c(827): error:  #65: expected a ";"
+  			yy = *p;
+DataEmuTask.c(829): error:  #20: identifier "sendperioddata" is undefined
+  			sendperioddata = yy * inter_factor;//(int16_t)(yy*Parameter.ReciprocalofRange[ii]);
+DataEmuTask.c(829): error:  #20: identifier "yy" is undefined
+  			sendperioddata = yy * inter_factor;//(int16_t)(yy*Parameter.ReciprocalofRange[ii]);
+DataEmuTask.c(831): error:  #20: identifier "wpp" is undefined
+  			PeriodWaveToSend[wpp + 14] = sendperioddata;
+DataEmuTask.c(833): error:  #20: identifier "checksum" is undefined
+  			checksum += (PeriodWaveToSend[wpp + 14] + PeriodWaveToSend[wpp + 15]);			 
+DataEmuTask.c(783): warning:  #550-D: variable "value"  was set but never used
+  	int16_t value = 0;
+DataEmuTask.c(922): warning:  #177-D: variable "t"  was declared but never referenced
+  	int32_t t;
+DataEmuTask.c(923): warning:  #177-D: variable "df"  was declared but never referenced
+  	float df;
+DataEmuTask.c: 10 warnings, 5 errors
+"YE59XX\YE5.axf" - 5 Error(s), 10 Warning(s).
 
 <h2>Software Packages used:</h2>
 
@@ -57,7 +88,8 @@ Package Vendor: Keil
    * Component: ARM::CMSIS:DSP:Library:1.7.0
       Include file:  CMSIS\DSP\Include\arm_math.h
       Library file:  CMSIS\DSP\Lib\ARM\arm_cortexM4lf_math.lib
-Build Time Elapsed:  00:00:03
+Target not created.
+Build Time Elapsed:  00:00:20
 </pre>
 </body>
 </html>

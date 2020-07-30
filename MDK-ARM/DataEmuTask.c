@@ -752,6 +752,102 @@ void BoardAutoPeroidWave(void)
 
 }
 
+
+#define PROTOCOL_HEAD_FANGYI		0X7A
+#define PROTOCOL_WAVE_POINT			500
+#pragma pack(1)
+typedef struct
+{
+	uint8_t Head;
+	uint8_t NodeNum;
+	uint8_t ChannelNum;
+	uint8_t CurMode;
+	uint16_t TotalPackage;
+	uint32_t CurPackage;
+	uint16_t SampleRate;
+	uint16_t Battery;
+	int16_t Temperature[3];
+	uint16_t * Wave;
+}Protocol_Wave_Fangyi_t ; 
+#pragma pack()
+
+static uint16_t wave_fangyi_space[PROTOCOL_WAVE_POINT] = { 0 }; 
+Protocol_Wave_Fangyi_t Protocol_Wave_Fangyi = 
+{
+	.Wave = wave_fangyi_space,
+};
+
+void BoardPeroidWave_ForFangyi(void)
+{
+	int16_t * p = 0;
+	int16_t value = 0;
+	for(uint32_t ii=0;ii<Acceleration_ADCHS;ii++)
+	{
+		switch(ii)
+		{
+			case 0:
+			p=&piz_emu_data[SAMPLEblock][0];
+			break;
+			case 1:
+			p=&mems_emu_data[SAMPLEblock][0][0];
+			break;
+			case 2:
+			p=&mems_emu_data[SAMPLEblock][1][0];
+			break;
+			case 3:
+			p=&mems_emu_data[SAMPLEblock][2][0];
+			break;
+			default:
+			break;
+		}
+		
+		float inter_factor=config.floatadc[ii]*config.floatscale[ii];
+		
+	
+		Protocol_Wave_Fangyi.Head = PROTOCOL_HEAD_FANGYI;
+		Protocol_Wave_Fangyi.NodeNum = config.SNnumber[7];
+		Protocol_Wave_Fangyi.ChannelNum = ii;
+		Protocol_Wave_Fangyi.CurMode = 0x00;
+		Protocol_Wave_Fangyi.TotalPackage = config.channel_freq[ii] / PROTOCOL_WAVE_POINT + 1;
+		Protocol_Wave_Fangyi.SampleRate = config.channel_freq[ii] ;
+		Protocol_Wave_Fangyi.Battery = config.battery;
+		Protocol_Wave_Fangyi.Temperature[0] = 0;
+		Protocol_Wave_Fangyi.Temperature[1] = 1;
+		Protocol_Wave_Fangyi.Temperature[2] = 2;
+		
+		for( uint32_t i = 0 ; i < Protocol_Wave_Fangyi.TotalPackage; i ++ ) 
+		{
+			Protocol_Wave_Fangyi.CurPackage = i;
+			for(uint16_t k = 0 ; k < PROTOCOL_WAVE_POINT ; k ++)
+			{
+				value = p[k] * inter_factor;
+			}
+			Protocol_Wave_Fangyi.Wave
+			
+			yy = *p;
+			p ++;
+			sendperioddata = yy * inter_factor;//(int16_t)(yy*Parameter.ReciprocalofRange[ii]);
+
+			PeriodWaveToSend[wpp + 14] = sendperioddata;
+			PeriodWaveToSend[wpp + 15] = sendperioddata >>8;
+			checksum += (PeriodWaveToSend[wpp + 14] + PeriodWaveToSend[wpp + 15]);			 
+			wpp = wpp + 2;			
+			if(wpp > (PERIODBOARDPOINTS - 1)) 
+			{	
+
+				WriteDataToTXDBUF(PeriodWaveToSend,PERIODBOARDPOINTS+16);	
+
+				osDelay(1);
+			}	 
+		}
+	}
+
+}
+
+
+
+
+
 static uint16_t BoardPeroidWave_packege_flag=0;  //请求波形包号
 
 RTC_T Requirdperiodwave_tRTC;
@@ -958,14 +1054,14 @@ void DataEmuFunction(void *argument)
 						 osDelay(1); //Wait for the id ... send over
 						 if(Esp32_GetSendDeivceInfo_Flag() == 1)
 						 {
-							 Esp32_ClearSendDeviceInfo_Flag();
+							Esp32_ClearSendDeviceInfo_Flag();
 							EmuData();
-							
+
 							BoardParameter_withtime_forJUNYUE();
 							BoardAutoPeroidWave();
 
 							TransmitOverInLowPower(); //后期控制这个，可以决定传多少秒
-							 DEBUG("SendValue\r\n");
+							DEBUG("SendValue\r\n");
 						 }
 						 else
 						 {
