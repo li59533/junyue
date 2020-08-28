@@ -6,7 +6,6 @@ Section Cross References
 
     dateprocesstask.o(i.DataProcessFunction) refers to cmsis_os2.o(i.osDelay) for osDelay
     dateprocesstask.o(i.DataProcessFunction) refers to bsp_spi_ad7682.o(i.StartSample) for StartSample
-    dateprocesstask.o(i.DataProcessFunction) refers to stm32l4xx_hal.o(i.HAL_Delay) for HAL_Delay
     dateprocesstask.o(i.DataProcessFunction) refers to bsp_spi_ad7682.o(i.StopSample) for StopSample
     dateprocesstask.o(i.DataProcessFunction) refers to dateprocesstask.o(i.emu_sprase_index) for emu_sprase_index
     dateprocesstask.o(i.DataProcessFunction) refers to dateprocesstask.o(i.UpdateAccelerationData) for UpdateAccelerationData

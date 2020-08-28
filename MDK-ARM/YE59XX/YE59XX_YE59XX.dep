@@ -1,6 +1,6 @@
 Dependencies for Project 'YE59XX', Target 'YE59XX': (DO NOT MODIFY !)
 CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
-F (.\DateProcessTask.c)(0x5EE6D6F6)(--c99 -c --cpu Cortex-M4.fp.sp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ..\Bsp -I ..\MDK-ARM -I ..\Middlewares\version -I ..\Middlewares\Utilities -I ..\Middlewares\clog -I ..\Middlewares\rttviewer -I ..\Drivers\CMSIS\DSP\Include-ID:\Users\bigym\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="531" -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DARM_MATH_CM4 -D__FPU_PRESENT="1"-o ye59xx\dateprocesstask.o --omf_browse ye59xx\dateprocesstask.crf --depend ye59xx\dateprocesstask.d)
+F (.\DateProcessTask.c)(0x5F487BB6)(--c99 -c --cpu Cortex-M4.fp.sp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ..\Bsp -I ..\MDK-ARM -I ..\Middlewares\version -I ..\Middlewares\Utilities -I ..\Middlewares\clog -I ..\Middlewares\rttviewer -I ..\Drivers\CMSIS\DSP\Include-ID:\Users\bigym\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="531" -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DARM_MATH_CM4 -D__FPU_PRESENT="1"-o ye59xx\dateprocesstask.o --omf_browse ye59xx\dateprocesstask.crf --depend ye59xx\dateprocesstask.d)
 I (../Inc/main.h)(0x5F3CD4F3)
 I (../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h)(0x5F22B942)
 I (../Inc/stm32l4xx_hal_conf.h)(0x5F22B943)
@@ -200,7 +200,7 @@ I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x5EC775FC)
 I (..\Bsp\bsp_flash.h)(0x5F3CD4F3)
 I (..\Bsp\bsp_LMT01.h)(0x5F3CD4F3)
 I (app.h)(0x5EE6D6F6)
-I (..\Middlewares\version\version.h)(0x5F3E3E28)
+I (..\Middlewares\version\version.h)(0x5F487EB7)
 I (../Inc/self_def.h)(0x5F22B943)
 I (..\Middlewares\clog\clog.h)(0x5F22B944)
 I (..\Middlewares\rttviewer\SEGGER_RTT.h)(0x5F22B944)
@@ -704,7 +704,7 @@ I (D:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5EC775F6)
 I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x5EC775FC)
 I (..\Bsp\bsp_flash.h)(0x5F3CD4F3)
 I (..\Bsp\bsp_LMT01.h)(0x5F3CD4F3)
-F (..\Bsp\bsp_spi_ad7682.c)(0x5F3E400E)(--c99 -c --cpu Cortex-M4.fp.sp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ..\Bsp -I ..\MDK-ARM -I ..\Middlewares\version -I ..\Middlewares\Utilities -I ..\Middlewares\clog -I ..\Middlewares\rttviewer -I ..\Drivers\CMSIS\DSP\Include-ID:\Users\bigym\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="531" -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DARM_MATH_CM4 -D__FPU_PRESENT="1"-o ye59xx\bsp_spi_ad7682.o --omf_browse ye59xx\bsp_spi_ad7682.crf --depend ye59xx\bsp_spi_ad7682.d)
+F (..\Bsp\bsp_spi_ad7682.c)(0x5F4877E4)(--c99 -c --cpu Cortex-M4.fp.sp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ..\Bsp -I ..\MDK-ARM -I ..\Middlewares\version -I ..\Middlewares\Utilities -I ..\Middlewares\clog -I ..\Middlewares\rttviewer -I ..\Drivers\CMSIS\DSP\Include-ID:\Users\bigym\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="531" -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DARM_MATH_CM4 -D__FPU_PRESENT="1"-o ye59xx\bsp_spi_ad7682.o --omf_browse ye59xx\bsp_spi_ad7682.crf --depend ye59xx\bsp_spi_ad7682.d)
 I (..\Bsp\bsp.h)(0x5F22B941)
 I (../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h)(0x5F22B942)
 I (../Inc/stm32l4xx_hal_conf.h)(0x5F22B943)
@@ -2281,7 +2281,7 @@ I (../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h)(0x5F22B944
 I (../Middlewares/Third_Party/FreeRTOS/Source/include/task.h)(0x5F22B944)
 I (../Middlewares/Third_Party/FreeRTOS/Source/include/list.h)(0x5F22B944)
 F (..\Middlewares\version\version.c)(0x5F22B944)(--c99 -c --cpu Cortex-M4.fp.sp -D__MICROLIB -g -O1 -Otime --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Middlewares/Third_Party/FreeRTOS/Source/include -I ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ..\Bsp -I ..\MDK-ARM -I ..\Middlewares\version -I ..\Middlewares\Utilities -I ..\Middlewares\clog -I ..\Middlewares\rttviewer -I ..\Drivers\CMSIS\DSP\Include-ID:\Users\bigym\AppData\Local\Arm\Packs\Keil\STM32L4xx_DFP\2.4.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="531" -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DUSE_HAL_DRIVER -DSTM32L4R9xx -DARM_MATH_CM4 -D__FPU_PRESENT="1"-o ye59xx\version.o --omf_browse ye59xx\version.crf --depend ye59xx\version.d)
-I (..\Middlewares\version\version.h)(0x5F3E3E28)
+I (..\Middlewares\version\version.h)(0x5F487EB7)
 I (../Inc/self_def.h)(0x5F22B943)
 I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
 I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5EC775FC)

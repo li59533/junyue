@@ -153,7 +153,7 @@ void DataProcessFunction(void *argument)
 	}
 	osDelay(50); //负载开关有个电压稳定时间，所以需要这部分
 	StartSample();
-	HAL_Delay(1);
+	osDelay(100);
 	StopSample();
 	cur_ad_ch=0;
 	cur_ad_index=0;

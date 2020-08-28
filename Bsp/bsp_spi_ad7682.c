@@ -201,7 +201,8 @@ extern float butterworth(float x0);
 
 //  0010 10XX X100 1001  0x2849 
 ////  0011 11XX X111 0001  0x3A71 //实际使用
-//  0011 11XX X100 0001  0x3A81 //2.5v内部基准 
+//  0011 11XX X100 0001  0x3A81 //2.5v内部基准 //
+//  0011 11XX X100 1001  0x3A81 //2.5v内部基准 
 #define SAMPLE_CFG  0x3A41
 
 volatile uint16_t ad7682_rec[8];
